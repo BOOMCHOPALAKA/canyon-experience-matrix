@@ -1,3 +1,9 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Interactive matrix of Washington canyons scored on access, difficulty, and seasonal wasp exposure. Data from RopeWiki.">
 <title>Canyon Experience Matrix — Washington</title>
 <style>
   /* Canyon palette — deep basalt ground, glacier-teal accent, conifer secondary.
@@ -135,6 +141,14 @@
   .nowasp{color:var(--e0)}
   .best{box-shadow:inset 3px 0 0 var(--e1)}
   footer{margin-top:20px;color:var(--ink-soft);font-size:12px;font-family:var(--mono);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+  .tablewrap{position:relative}
+  .scrollhint{display:none}
+  @media (max-width:720px){
+    .scrollhint{display:block;font-size:11px;color:var(--ink-soft);font-family:var(--mono);
+      margin:0 0 6px;text-align:right;letter-spacing:.03em}
+    .tuner-top{flex-direction:column}
+    h1{font-size:26px}
+  }
 
   /* header info + tooltip */
   th .hd{display:inline-flex;align-items:center;gap:4px}
@@ -155,6 +169,8 @@
   .tip .calc{margin-top:8px;padding-top:8px;border-top:1px solid var(--line-soft);font-family:var(--mono);
     font-size:11px;color:var(--moss)}
 </style>
+</head>
+<body>
 
 <div class="wrap">
   <header>
@@ -223,6 +239,7 @@
     <button class="chip" id="fThin" aria-pressed="false">Hide thin-beta</button>
   </div>
 
+  <p class="scrollhint">← swipe the table sideways to see all columns →</p>
   <div class="tablewrap">
     <table id="tbl">
       <thead>
@@ -430,3 +447,6 @@
   recompute();render();
 })();
 </script>
+
+</body>
+</html>
