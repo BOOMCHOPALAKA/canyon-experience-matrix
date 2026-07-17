@@ -194,6 +194,11 @@
   .chip-wasp[aria-pressed="true"] .info{border-color:rgba(255,255,255,.5);color:#fff}
   .chipsub{font-size:9.5px;opacity:.6;letter-spacing:.04em}
   @media (max-width:720px){.tbsep{display:none}}
+
+  .seg.segi,.seg.segq{cursor:help}
+  .seg.segi:focus-visible,.seg.segq:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  tr.flash{animation:flash 1.6s ease-out}
+  @keyframes flash{0%,30%{background:var(--accent-soft)}100%{background:transparent}}
 </style>
 </head>
 <body>
@@ -240,11 +245,8 @@
 
   <div class="toolbar">
     <input class="search" id="search" type="text" placeholder="Filter by canyon name…" aria-label="Filter canyons by name">
-    <button class="chip" id="fBeginner" aria-pressed="false">Beginner-friendly only</button>
     <button class="chip" id="fThin" aria-pressed="false">Hide thin-beta</button>
-    <span class="tbsep"></span>
     <button class="chip chip-wasp" id="waspTog" aria-pressed="false">Wasp season <span class="chipsub">Jul–Oct</span><i class="info" tabindex="0" data-t="Wasp season" data-c="Wasp colonies peak and get aggressive <b>Jul–Oct</b>. Turn this on for a summer or fall trip and the wasp columns come forward.<br><br>It does <b>not</b> change the Adventure Score — the wasp read is a terrain prediction plus whatever nests people have logged, and that's too thin to move a ranking." data-calc="Shows the Wasp + Nest log columns. Never alters Adventure.">i</i></button>
-    <button class="chip" id="fWasp" aria-pressed="false">Hide logged nests</button>
   </div>
 
   <p class="scrollhint">← swipe the table sideways to see all columns →</p>
@@ -331,12 +333,27 @@
     document.getElementById('sweet').textContent=DATA.filter(isBeginner).length;
   }
 
-  var state={key:'rank',dir:1,q:'',fBeg:false,fWasp:false,fThin:false};
+  var state={key:'rank',dir:1,q:'',fThin:false};
 
   function seg(v){
     if(v==null)return '<span class="seg" style="background:var(--e0)">?</span>';
     var b=Math.max(1,Math.min(5,Math.round(v)));
     return '<span class="seg" style="background:var('+EC[b]+')">'+b+'</span>';
+  }
+  var BANDWORD={1:'defined trail, under a mile',2:"trail, but it's work",
+    3:'off-trail enters the picture',4:'sustained bushwhacking',5:'long bushwhack'};
+  // Just the badge. Distance/terrain live in a hover -- "distance not stated" next
+  // to every score told the reader nothing and wrapped to two lines.
+  function segDetail(v,band,stat,which){
+    if(v==null)return '<span class="seg segq" tabindex="0" data-t="'+which+' — no beta"'
+      +' data-c="RopeWiki has no usable '+which.toLowerCase()+' description for this canyon, so there is nothing to score. That is a gap in the data, <b>not</b> a rating of easy." style="background:var(--e0)">?</span>';
+    var b=Math.max(1,Math.min(5,Math.round(v)));
+    var c=[];
+    if(band&&band!=='unknown')c.push('<b>'+band+'</b>');
+    if(stat&&stat!=='no beta'&&stat!=='distance not stated')c.push(stat);
+    if(!c.length)c.push('<i>The beta describes the terrain but never states a distance, so this is scored on terrain alone.</i>');
+    return '<span class="seg segi" tabindex="0" data-t="'+which+' '+b+' — '+(BANDWORD[b]||'')+'"'
+      +' data-c="'+c.join(' · ')+'" style="background:var('+EC[b]+')">'+b+'</span>';
   }
   function advCell(v){
     if(v==null)return '<span class="advpill" style="background:var(--e0)">—</span>';
@@ -376,8 +393,6 @@
   function render(){
     var rows=DATA.filter(function(d){
       if(state.q&&d.canyon.toLowerCase().indexOf(state.q)<0)return false;
-      if(state.fBeg&&!isBeginner(d))return false;
-      if(state.fWasp&&d.nests>0)return false;
       if(state.fThin&&d.thin)return false;
       return true;
     });
@@ -399,8 +414,8 @@
         +'<td>'+techCell(d)+'</td>'
         +'<td>'+waterCell(d)+'</td>'
         +'<td>'+timeCell(d)+'</td>'
-        +'<td>'+seg(d.acc_appr)+' <span class="detail">'+(d.appr_stat==='no beta'?'<span class="mut">no beta</span>':d.appr_stat)+'</span></td>'
-        +'<td>'+seg(d.acc_exit)+' <span class="detail">'+(d.exit_stat==='no beta'?'<span class="mut">no beta</span>':d.exit_stat)+'</span></td>'
+        +'<td>'+segDetail(d.acc_appr,d.appr_band,d.appr_stat,'Approach')+'</td>'
+        +'<td>'+segDetail(d.acc_exit,d.exit_band,d.exit_stat,'Exit')+'</td>'
         +'<td>'+seg(d.acc_total)+'</td>'
         +'<td class="waspcol">'+seg(d.wasp)+'</td>'
         +'<td class="waspcol">'+nestCell(d)+'</td>'
@@ -447,6 +462,7 @@
     if(r.bottom+8+tip.offsetHeight>window.innerHeight-10){tip.style.top=(r.top-tip.offsetHeight-8)+'px';}
   }
   function hideTip(){tip.classList.remove('on');}
+  // static tooltips (column headers, chips)
   document.querySelectorAll('.info').forEach(function(el){
     el.addEventListener('mouseenter',function(){showTip(el);});
     el.addEventListener('mouseleave',hideTip);
@@ -455,15 +471,30 @@
     el.addEventListener('click',function(e){e.stopPropagation();if(tip.classList.contains('on'))hideTip();else showTip(el);});
     el.addEventListener('keydown',function(e){if(e.key==='Escape')hideTip();});
   });
+  // Score badges are re-rendered on every sort/filter, so bind by delegation --
+  // listeners attached once at startup never reach a badge created later.
+  var tbody=document.getElementById('body');
+  function badge(e){return e.target.closest?e.target.closest('.segi,.segq'):null;}
+  tbody.addEventListener('mouseover',function(e){var b=badge(e);if(b)showTip(b);});
+  tbody.addEventListener('mouseout',function(e){if(badge(e))hideTip();});
+  tbody.addEventListener('focusin',function(e){var b=badge(e);if(b)showTip(b);});
+  tbody.addEventListener('focusout',function(e){if(badge(e))hideTip();});
+  tbody.addEventListener('click',function(e){
+    var b=badge(e);if(!b)return;
+    e.stopPropagation();
+    if(tip.classList.contains('on'))hideTip();else showTip(b);
+  });
+  tbody.addEventListener('keydown',function(e){if(e.key==='Escape')hideTip();});
   window.addEventListener('scroll',hideTip,true);
   document.getElementById('obClose').addEventListener('click',function(){document.getElementById('onboard').classList.add('hide');});
   document.getElementById('search').addEventListener('input',function(e){state.q=e.target.value.toLowerCase().trim();render();});
   function toggle(id,flag){var el=document.getElementById(id);el.addEventListener('click',function(){state[flag]=!state[flag];el.setAttribute('aria-pressed',state[flag]);render();});}
-  toggle('fBeginner','fBeg');toggle('fWasp','fWasp');toggle('fThin','fThin');
+  toggle('fThin','fThin');
   document.getElementById('sweetGo').addEventListener('click',function(){
-    var el=document.getElementById('fBeginner');
-    if(!state.fBeg)el.click();
-    document.getElementById('tbl').scrollIntoView({behavior:'smooth',block:'start'});
+    state.key='adventure';state.dir=1;render();
+    var row=document.querySelector('#body tr.best');
+    (row||document.getElementById('tbl')).scrollIntoView({behavior:'smooth',block:'center'});
+    if(row){row.classList.add('flash');setTimeout(function(){row.classList.remove('flash');},1600);}
   });
 
   recompute();applyWaspSeason();render();
