@@ -30,42 +30,15 @@ A `3C1 I` and a `3C3 IV` are wildly different days. Most matrices render both as
 
 ### The Access scale
 
-| | |
-|---|---|
-| **1** | Defined trail, under a mile, minimal vert |
-| **2** | Trail, but it's work — longer, or real vertical |
-| **3** | Off-trail enters the picture: fading use trail, short bushwhack, or a real scramble |
-| **4** | Sustained bushwhacking — a bad section |
-| **5** | Long bushwhack — a bad day. In the sick of it. |
+| | | |
+|---|---|---|
+| **1** | Walking | Trail to the water, under a mile |
+| **2** | Hiking | Still a trail, but longer or steeper |
+| **3** | Off-trail | The trail runs out partway |
+| **4** | Bushwhacking | Sustained — a bad section |
+| **5** | Suffering | Long bushwhack, in the thick of it |
 
-### A note on the wasp layer
-
-Wasps (yellowjackets, paper wasps, hornets) nest in ground burrows, deadfall, rotten logs and creek banks, and are set off by ground vibration — so off-trail travel over forest floor puts you over more buried nests than a maintained trail does. **Off-trail miles matter more than total miles:** 2mi of maintained trail scores 1; 200ft of deadfall doesn't.
-
-Two inputs, same question, answered two ways:
-
-- **Terrain** — a prediction, from the nesting research. Not from trip reports.
-- **Nest log** — an observation. Someone found a nest here. A logged nest overrides the prediction for that canyon and compounds when multiple parties found one. Colonies die each winter but the *sites* recur (Davis Creek's nest was logged in July and again in October).
-
-Honest caveats, because this layer is thin:
-
-- **Only 7 of 119 Washington canyons have a logged nest.** A blank means nobody wrote it down. It never means safe.
-- Reports only ever push the score **up**. Silence is not evidence of absence.
-- **It correlates with Access (r≈0.76), and that's the mechanism, not a coincidence** — brushy off-trail terrain is genuinely both harder to walk and better for nesting.
-- We count nests found, not stings taken. Hager's reporter found an active nest on the exit and wrote *"we were fortunate."* Same nest, same risk, different luck.
-- It is **not** in the Adventure Score. A signal this thin shouldn't move a ranking.
-
-## Data pipeline
-
-```bash
-python3 scripts/pull_beta.py     # once — caches RopeWiki beta to data/wa_beta.json
-python3 scripts/build_data.py    # re-score, offline, no network
-python3 scripts/embed_data.py    # inline into index.html
-```
-
-The pull is rate-limited and polite, and the raw beta is **cached** — re-scoring never re-crawls RopeWiki. Delete `data/wa_beta.json` to refresh from the wiki.
-
-`scripts/scoring.py` holds the whole model and documents why each rule exists. `scripts/wasp_multiregion_scan.py` is the research script behind the wasp layer's caveats (2,199 trip reports across WA/OR/UT/AZ/CA).
+Trail quality sets the band; distance and vertical move you inside it. A trail caps around 2 no matter how long, and off-trail floors at 3 no matter how short — a short flagged drop-in to the creek is not a bushwhack.
 
 ## Data source & license
 
