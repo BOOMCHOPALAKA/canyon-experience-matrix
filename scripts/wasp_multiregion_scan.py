@@ -196,7 +196,7 @@ def main():
     print("ALL HITS")
     print("=" * 64)
     for h in sorted(hits, key=lambda x: (x["region"], x["canyon"])):
-        print(f"\n[{h['region']} | {h['where']}] {h['canyon']} — {h['date']}")
+        print(f"\n[{h['region']} | {h['where']}] {h['canyon']} , {h['date']}")
         print(f"   {h['comment'][:230]}")
 
 if __name__ == "__main__":

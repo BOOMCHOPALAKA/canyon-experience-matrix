@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Interactive matrix of Washington canyons scored on access, difficulty, and seasonal wasp exposure. Data from RopeWiki.">
-<title>Canyon Experience Matrix — Washington</title>
+<title>Canyon Experience Matrix · Washington</title>
 <style>
-  /* Canyon palette — deep basalt ground, glacier-teal accent, conifer secondary.
+  /* Canyon palette. Deep basalt ground, glacier-teal accent, conifer secondary.
      Dark is the primary look; light is a misty-morning variant.
      Default (:root) mirrors dark so the canyon look shows even before JS/theme resolves. */
   :root{
@@ -213,7 +213,7 @@
     <p class="eyebrow">Washington · RopeWiki · pulled 2026-07-15</p>
     <h1>Canyon Experience Matrix</h1>
     <p class="sub">Every technical canyon in Washington, in one sortable table. It pulls from <b>RopeWiki</b> and scores each one so you can size up a day at a glance.</p>
-    <p class="sub2">RopeWiki describes the approach and exit for every canyon, but it's prose — you read it one canyon at a time, and there's no number to compare. The two things you <i>can</i> sort by don't fill the gap either: the <b>ACA rating</b> covers the canyoneering itself, and the <b>star rating</b> is anyone's guess — one person's 5 might be weighing an easy approach as much as the canyoneering itself, while the next person's is purely about the canyon, and you can't tell which from a number. So this reads the approach and exit beta and scores it the same way for every canyon: a <b>number</b> on each, rolled into one <b>Access</b> score. The ACA rating gets broken into its three real parts — technical, water, and time — instead of just the leading digit. And there's a seasonal <b>wasp</b> score: how much nesting ground you cross on the way in and out, plus any nests people have actually reported.</p>
+    <p class="sub2">RopeWiki describes the approach and exit for every canyon, but it's prose. You read it one canyon at a time, and there's no number to compare. The two things you <i>can</i> sort by don't fill the gap either: the <b>ACA rating</b> covers the canyoneering itself, and the <b>star rating</b> is anyone's guess. One person's 5 might be weighing an easy approach as much as the canyoneering itself, while the next person's is purely about the canyon, and you can't tell which from a number. So this reads the approach and exit beta and scores it the same way for every canyon: a <b>number</b> on each, rolled into one <b>Access</b> score. The ACA rating gets broken into its three real parts (technical, water, and time) instead of just the leading digit. And there's a seasonal <b>wasp</b> score: how much nesting ground you cross on the way in and out, plus any nests people have actually reported.</p>
     <p class="sub3">Click any column header to sort. Hover the ⓘ on a column to see exactly how it's figured. Click a canyon name for its full RopeWiki beta.</p>
     <p class="credit">All canyon data sourced from <a href="https://ropewiki.com" target="_blank" rel="noopener">RopeWiki</a>, the community canyoneering wiki.</p>
   </header>
@@ -222,22 +222,22 @@
     <div class="card">
       <h3>Beginner-friendly</h3>
       <div class="big" id="sweet">—</div>
-      <div class="big-lbl">canyons with easy access, a non-technical or hiking ACA grade, and a short-to-half-day commitment (and real beta behind all three). Your starting pool — marked with a <span style="border-left:3px solid var(--e1);padding-left:5px">green edge</span>. <button class="linkbtn" id="sweetGo">show me these →</button></div>
+      <div class="big-lbl">canyons with easy access, a non-technical or hiking ACA grade, and a short-to-half-day commitment (and real beta behind all three). Your starting pool, marked with a <span style="border-left:3px solid var(--e1);padding-left:5px">green edge</span>. <button class="linkbtn" id="sweetGo">show me these →</button></div>
     </div>
     <div class="card">
       <h3>What's scored</h3>
-      <div class="legrow"><span class="dot" style="background:var(--accent)"></span><b>Access</b> — approach + exit effort <span class="mut">(ours, 1–5)</span></div>
-      <div class="legrow"><span class="dot" style="background:var(--e4)"></span><b>ACA</b> — technical · water · time <span class="mut">(theirs, official)</span></div>
-      <div class="legrow"><span class="dot" style="background:var(--e5)"></span><b>Wasp</b> — nesting terrain, hover for why <span class="mut">(seasonal)</span></div>
+      <div class="legrow"><span class="dot" style="background:var(--accent)"></span><b>Access</b>: approach + exit effort <span class="mut">(ours, 1-5)</span></div>
+      <div class="legrow"><span class="dot" style="background:var(--e4)"></span><b>ACA</b>: technical · water · time <span class="mut">(theirs, official)</span></div>
+      <div class="legrow"><span class="dot" style="background:var(--e5)"></span><b>Wasp</b>: nesting terrain, hover for why <span class="mut">(seasonal)</span></div>
       <div class="legrow" style="margin-top:6px"><b>Adventure</b> = ACA technical + Access</div>
     </div>
     <div class="card">
       <h3>Access scale · 1 → 5</h3>
-      <div class="legrow"><span class="dot" style="background:var(--e1)"></span><b>1</b> Walking <span class="mut">— trail to the water, under a mile</span></div>
-      <div class="legrow"><span class="dot" style="background:var(--e2)"></span><b>2</b> Hiking <span class="mut">— still a trail, but longer or steeper</span></div>
-      <div class="legrow"><span class="dot" style="background:var(--e3)"></span><b>3</b> Off-trail <span class="mut">— the trail runs out partway</span></div>
-      <div class="legrow"><span class="dot" style="background:var(--e4)"></span><b>4</b> Bushwhacking <span class="mut">— sustained, a bad section</span></div>
-      <div class="legrow"><span class="dot" style="background:var(--e5)"></span><b>5</b> Suffering <span class="mut">— long bushwhack, in the thick of it</span></div>
+      <div class="legrow"><span class="dot" style="background:var(--e1)"></span><b>1</b> Walking <span class="mut">trail to the water, under a mile</span></div>
+      <div class="legrow"><span class="dot" style="background:var(--e2)"></span><b>2</b> Hiking <span class="mut">still a trail, but longer or steeper</span></div>
+      <div class="legrow"><span class="dot" style="background:var(--e3)"></span><b>3</b> Off-trail <span class="mut">the trail runs out partway</span></div>
+      <div class="legrow"><span class="dot" style="background:var(--e4)"></span><b>4</b> Bushwhacking <span class="mut">sustained, a bad section</span></div>
+      <div class="legrow"><span class="dot" style="background:var(--e5)"></span><b>5</b> Suffering <span class="mut">long bushwhack, in the thick of it</span></div>
     </div>
   </div>
 
@@ -251,7 +251,7 @@
   <div class="toolbar">
     <input class="search" id="search" type="text" placeholder="Filter by canyon name…" aria-label="Filter canyons by name">
     <button class="chip" id="fThin" aria-pressed="false">Hide thin-beta</button>
-    <button class="chip chip-wasp" id="waspTog" aria-pressed="false">Wasp season <span class="chipsub">Jul–Oct</span><i class="info" tabindex="0" data-t="Wasp season" data-c="Wasp colonies peak and get aggressive <b>Jul–Oct</b>. Turn this on for a summer or fall trip and the wasp columns come forward.<br><br>It does <b>not</b> change the Adventure Score — the wasp read is a terrain prediction plus whatever nests people have logged, and that's too thin to move a ranking." data-calc="Shows the Wasp + Nest log columns. Never alters Adventure.">i</i></button>
+    <button class="chip chip-wasp" id="waspTog" aria-pressed="false">Wasp season <span class="chipsub">Jul-Oct</span><i class="info" tabindex="0" data-t="Wasp season" data-c="Wasp colonies peak and get aggressive <b>Jul to Oct</b>. Turn this on for a summer or fall trip and the wasp columns come forward.<br><br>It does <b>not</b> change the Adventure Score. The wasp read is a terrain prediction plus whatever nests people have logged, and that's too thin to move a ranking." data-calc="Shows the Wasp + Nest log columns. Never alters Adventure.">i</i></button>
   </div>
 
   <p class="scrollhint">← swipe the table sideways to see all columns →</p>
@@ -260,18 +260,18 @@
       <thead>
         <tr>
           <th data-k="rank" data-t="num" style="width:34px">#<span class="arw">▲</span></th>
-          <th data-k="canyon" data-t="str"><span class="hd">Canyon<i class="info" tabindex="0" data-t="Canyon name → RopeWiki" data-c="<b>Click any canyon name to open its full RopeWiki page</b> in a new tab — the complete beta: approach, exit, rappels, maps, photos, and every trip report. This matrix is the quick decision layer; RopeWiki is the deep detail." data-calc="Links to ropewiki.com, opens in a new tab">i</i></span><span class="arw">▲</span></th>
-          <th data-k="stars" data-t="num"><span class="hd">Quality<i class="info" tabindex="0" data-t="Quality (stars)" data-c="RopeWiki's community star rating, 0–5. It's the one number here nobody defines: <b>every rater decides for themselves what it means</b>. One person's 5 might be weighing an easy approach as much as the canyoneering itself; the next person's is purely about the canyon. You can't tell which from the number.<br><br>It also partly tracks popularity — the famous, easy-to-reach canyons get run more and rated more, so an obscure gem behind a long approach can sit at 2★ because eleven people have seen it. That's exactly the bias the Access column exists to expose." data-calc="Source: RopeWiki Has_star_rating">i</i></span><span class="arw">▲</span></th>
-          <th data-k="adventure" data-t="num" class="grp"><span class="hd">★ Adventure<i class="info" tabindex="0" data-t="Adventure Score (1–5)" data-c="The all-in day rating: the <b>ACA technical grade</b> and our <b>Access</b> score, evenly weighted. Lower = easier all-around. Wasp exposure is deliberately <b>not</b> in here — it's a thin signal and shouldn't move a ranking. Heads up: most Washington canyons are ACA class 3, so in practice Access does most of the separating." data-calc="(technical×1.25 + Access) ÷ 2 · wasp excluded">i</i></span><span class="arw">▲</span></th>
-          <th data-k="tech" data-t="num"><span class="hd">Technical<i class="info" tabindex="0" data-t="ACA technical grade (1–4)" data-c="The official ACA grade for <b>rope work</b>, in the ACA's own words:<br><b>1</b> canyon hiking — no special obstacles<br><b>2</b> non-technical — scrambling, downclimbing, no ropes<br><b>3</b> technical — ropes and rappels required<br><b>4</b> advanced — advanced anchors, long drops, rebelays<br><br><b>79% of Washington canyons are class 3</b>, which just means 'you need a rope.' So this column separates less than you'd think." data-calc="Source: RopeWiki ACA rating, leading digit">i</i></span><span class="arw">▲</span></th>
-          <th data-k="water" data-t="str"><span class="hd">Water<i class="info" tabindex="0" data-t="ACA water grade" data-c="The ACA's water rating — often the part that actually matters, and the part most tools bury:<br><b>A</b> normally dry, no wetsuit<br><b>B</b> still water or very light current<br><b>C</b> water with current, waterfalls<br><b>C1</b> light to moderate current, easy hazards<br><b>C2</b> strong current, hydraulics and siphons<br><b>C3</b> very strong current, dangerous hazards, <b>experts only</b><br><b>C4</b> extreme<br><br>A C1 and a C3 are wildly different days. Most matrices show both as just 'class 3.'" data-calc="Source: RopeWiki ACA rating, water letter + severity">i</i></span><span class="arw">▲</span></th>
-          <th data-k="time" data-t="num"><span class="hd">Time<i class="info" tabindex="0" data-t="ACA commitment grade" data-c="The ACA's commitment grade — how long the descent takes a fit, experienced team of 4–6:<br><b>I</b> short day, 1–3 hrs<br><b>II</b> half day, 4–6 hrs<br><b>III</b> full day, 7–12 hrs<br><b>IV</b> long day, 13–18 hrs — headlamp, possible bivy<br><b>V</b> overnight · <b>VI</b> multi-day<br><br>This is descent time only. It's <b>not</b> a measure of escape options — whether you can bail mid-canyon lives in the route beta, not in any grade." data-calc="Source: RopeWiki ACA rating, roman numeral">i</i></span><span class="arw">▲</span></th>
-          <th data-k="acc_appr" data-t="num"><span class="hd">Approach<i class="info" tabindex="0" data-t="Approach effort (1–5)" data-c="Car to water. <b>Trail quality sets the band</b>, distance and vertical move you inside it:<br><b>1 Walking</b> — trail to the water, under a mile<br><b>2 Hiking</b> — still a trail, but longer or steeper<br><b>3 Off-trail</b> — the trail runs out partway<br><b>4 Bushwhacking</b> — sustained, a bad section<br><b>5 Suffering</b> — long bushwhack, in the thick of it<br><br>A trail caps out around 2 no matter how long; off-trail floors at 3 no matter how short. A short flagged drop-in to the creek is not a bushwhack." data-calc="band from trail quality; distance × terrain severity within it; negation stripped first">i</i></span><span class="arw">▲</span></th>
-          <th data-k="acc_exit" data-t="num"><span class="hd">Exit<i class="info" tabindex="0" data-t="Exit effort (1–5)" data-c="Same 1–5 bands as Approach (Walking → Suffering), for getting from the end of the canyon back to the car. <b>1</b> = the road is right there · <b>5</b> = a long arduous climb-out.<br><br>Note: this reads the wiki's exit description. Where a canyon has two exits (Fir Creek), the beta usually describes one and the trip reports describe the other — check the reports before you commit." data-calc="same bands as Approach, parsed from RopeWiki exit beta">i</i></span><span class="arw">▲</span></th>
-          <th data-k="acc_total" data-t="num"><span class="hd">Access<i class="info" tabindex="0" data-t="Total Access (1–5)" data-c="Approach and exit combined into one <b>get-in-and-out</b> number — the thing canyon ratings leave out entirely. Weighted toward the <b>worse</b> of the two, since one brutal end defines the day." data-calc="0.65 × worse end + 0.35 × average of both">i</i></span><span class="arw">▲</span></th>
-          <th data-k="wasp" data-t="num" class="waspcol"><span class="hd">Wasp<i class="info" tabindex="0" data-t="Wasp exposure (1–5)" data-c="A <b>terrain prediction</b>, grounded in wasp nesting research — not in trip reports. Many wasps (yellowjackets, paper wasps, hornets) nest in ground burrows, deadfall, rotten logs and creek banks, and get set off by ground vibration. So <b>off-trail miles matter more than total miles</b>: 2mi of maintained trail is a 1; 200ft of deadfall isn't.<br><br>A <b>logged nest</b> overrides the prediction for that canyon (see the Nest log column). Reports only ever push this <b>up</b> — nobody mentioning wasps isn't evidence they're absent.<br><br><b>It tracks Access closely, and that's the mechanism, not a coincidence:</b> brushy off-trail terrain is both harder to walk and better for nesting." data-calc="nest habitat (heavy) + off-trail travel + distance × off-trail; a logged nest overrides. Hover any score for its reasoning.">i</i></span><span class="arw">▲</span></th>
-                    <th data-k="season" data-t="str"><span class="hd">Season<i class="info" tabindex="0" data-t="Best season" data-c="The window when the canyon typically has runnable flow. RopeWiki's best-season field. The table isn't season-filtered, so check this before you plan — a top-ranked canyon might be a spring-only run." data-calc="Source: RopeWiki Has_best_season">i</i></span><span class="arw">▲</span></th>
-          <th data-k="note" data-t="str"><span class="hd">Access notes<i class="info" tabindex="0" data-t="Access notes" data-c="Plain-language read on the approach and exit, plus a <b>thin beta</b> warning when RopeWiki has little access description — which makes that row's Access rating a guess, not a reading." data-calc="Generated from the approach/exit bands + distances">i</i></span><span class="arw">▲</span></th>
+          <th data-k="canyon" data-t="str"><span class="hd">Canyon<i class="info" tabindex="0" data-t="Canyon name → RopeWiki" data-c="<b>Click any canyon name to open its full RopeWiki page</b> in a new tab. You get the complete beta:: approach, exit, rappels, maps, photos, and every trip report. This matrix is the quick decision layer. RopeWiki is the deep detail." data-calc="Links to ropewiki.com, opens in a new tab">i</i></span><span class="arw">▲</span></th>
+          <th data-k="stars" data-t="num"><span class="hd">Quality<i class="info" tabindex="0" data-t="Quality (stars)" data-c="RopeWiki's community star rating, 0-5. It's the one number here nobody defines: <b>every rater decides for themselves what it means</b>. One person's 5 might be weighing an easy approach as much as the canyoneering itself; the next person's is purely about the canyon. You can't tell which from the number.<br><br>It also partly tracks popularity. The famous, easy-to-reach canyons get run more and rated more, so an obscure gem behind a long approach can sit at 2★ because eleven people have seen it. That's exactly the bias the Access column exists to expose." data-calc="Source: RopeWiki Has_star_rating">i</i></span><span class="arw">▲</span></th>
+          <th data-k="adventure" data-t="num" class="grp"><span class="hd">★ Adventure<i class="info" tabindex="0" data-t="Adventure Score (1-5)" data-c="The all-in day rating: the <b>ACA technical grade</b> and our <b>Access</b> score, evenly weighted. Lower = easier all-around. Wasp exposure is deliberately <b>not</b> in here. It's a thin signal and shouldn't move a ranking. Heads up: most Washington canyons are ACA class 3, so in practice Access does most of the separating." data-calc="(technical×1.25 + Access) ÷ 2 · wasp excluded">i</i></span><span class="arw">▲</span></th>
+          <th data-k="tech" data-t="num"><span class="hd">Technical<i class="info" tabindex="0" data-t="ACA technical grade (1-4)" data-c="The official ACA grade for <b>rope work</b>, in the ACA's own words:<br><b>1</b> canyon hiking: no special obstacles<br><b>2</b> non-technical: scrambling, downclimbing, no ropes<br><b>3</b> technical: ropes and rappels required<br><b>4</b> advanced: advanced anchors, long drops, rebelays<br><br><b>79% of Washington canyons are class 3</b>, which just means 'you need a rope.' So this column separates less than you'd think." data-calc="Source: RopeWiki ACA rating, leading digit">i</i></span><span class="arw">▲</span></th>
+          <th data-k="water" data-t="str"><span class="hd">Water<i class="info" tabindex="0" data-t="ACA water grade" data-c="The ACA's water rating. Often the part that actually matters, and the part most tools bury:<br><b>A</b> normally dry, no wetsuit<br><b>B</b> still water or very light current<br><b>C</b> water with current, waterfalls<br><b>C1</b> light to moderate current, easy hazards<br><b>C2</b> strong current, hydraulics and siphons<br><b>C3</b> very strong current, dangerous hazards, <b>experts only</b><br><b>C4</b> extreme<br><br>A C1 and a C3 are wildly different days. Most matrices show both as just 'class 3.'" data-calc="Source: RopeWiki ACA rating, water letter + severity">i</i></span><span class="arw">▲</span></th>
+          <th data-k="time" data-t="num"><span class="hd">Time<i class="info" tabindex="0" data-t="ACA commitment grade" data-c="The ACA's commitment grade. How long the canyon takes a fit, experienced team of 4 to 6:<br><b>I</b> short day, 1-3 hrs<br><b>II</b> half day, 4-6 hrs<br><b>III</b> full day, 7-12 hrs<br><b>IV</b> long day, 13-18 hrs, headlamp and possible bivy<br><b>V</b> overnight · <b>VI</b> multi-day<br><br>This is descent time only. It's <b>not</b> a measure of escape options. Whether you can bail mid-canyon lives in the route beta, not in any grade." data-calc="Source: RopeWiki ACA rating, roman numeral">i</i></span><span class="arw">▲</span></th>
+          <th data-k="acc_appr" data-t="num"><span class="hd">Approach<i class="info" tabindex="0" data-t="Approach effort (1-5)" data-c="Car to water. <b>Trail quality sets the band</b>, distance and vertical move you inside it:<br><b>1 Walking</b>: trail to the water, under a mile<br><b>2 Hiking</b>: still a trail, but longer or steeper<br><b>3 Off-trail</b>: the trail runs out partway<br><b>4 Bushwhacking</b>: sustained, a bad section<br><b>5 Suffering</b>: long bushwhack, in the thick of it<br><br>A trail caps out around 2 no matter how long. Off-trail floors at 3 no matter how short. A short flagged drop-in to the creek is not a bushwhack." data-calc="band from trail quality; distance × terrain severity within it; negation stripped first">i</i></span><span class="arw">▲</span></th>
+          <th data-k="acc_exit" data-t="num"><span class="hd">Exit<i class="info" tabindex="0" data-t="Exit effort (1-5)" data-c="Same 1 to 5 bands as Approach (Walking through Suffering), for getting from the end of the canyon back to the car. <b>1</b> = the road is right there. <b>5</b> = a long arduous climb-out.<br><br>Note: this reads the wiki's exit description. Where a canyon has two exits (Fir Creek), the beta usually describes one and the trip reports describe the other. Check the reports before you commit." data-calc="same bands as Approach, parsed from RopeWiki exit beta">i</i></span><span class="arw">▲</span></th>
+          <th data-k="acc_total" data-t="num"><span class="hd">Access<i class="info" tabindex="0" data-t="Total Access (1-5)" data-c="Approach and exit combined into one <b>get-in-and-out</b> number. The thing canyon ratings leave out entirely. Weighted toward the <b>worse</b> of the two, since one brutal end defines the day." data-calc="0.65 × worse end + 0.35 × average of both">i</i></span><span class="arw">▲</span></th>
+          <th data-k="wasp" data-t="num" class="waspcol"><span class="hd">Wasp<i class="info" tabindex="0" data-t="Wasp exposure (1-5)" data-c="A <b>terrain prediction</b>, grounded in wasp nesting research, not in trip reports. Many wasps (yellowjackets, paper wasps, hornets) nest in ground burrows, deadfall, rotten logs and creek banks, and get set off by ground vibration. So <b>off-trail miles matter more than total miles</b>: 2mi of maintained trail is a 1. 200ft of deadfall isn't.<br><br>A <b>logged nest</b> overrides the prediction for that canyon (see the Nest log column). Reports only ever push this <b>up</b>. Nobody mentioning wasps isn't evidence they're absent.<br><br><b>It tracks Access closely, and that's the mechanism, not a coincidence:</b> brushy off-trail terrain is both harder to walk and better for nesting." data-calc="nest habitat (heavy) + off-trail travel + distance × off-trail; a logged nest overrides. Hover any score for its reasoning.">i</i></span><span class="arw">▲</span></th>
+                    <th data-k="season" data-t="str"><span class="hd">Season<i class="info" tabindex="0" data-t="Best season" data-c="The window when the canyon typically has runnable flow. RopeWiki's best-season field. The table isn't season-filtered, so check this before you plan. A top-ranked canyon might be a spring-only run." data-calc="Source: RopeWiki Has_best_season">i</i></span><span class="arw">▲</span></th>
+          <th data-k="note" data-t="str"><span class="hd">Access notes<i class="info" tabindex="0" data-t="Access notes" data-c="Plain-language read on the approach and exit, plus a <b>thin beta</b> warning when RopeWiki has little access description, which makes that row's Access rating a guess, not a reading." data-calc="Generated from the approach/exit bands + distances">i</i></span><span class="arw">▲</span></th>
         </tr>
       </thead>
       <tbody id="body"></tbody>
@@ -348,14 +348,14 @@
   // Just the badge. Distance/terrain live in a hover -- "distance not stated" next
   // to every score told the reader nothing and wrapped to two lines.
   function segDetail(v,band,stat,which){
-    if(v==null)return '<span class="seg segq" tabindex="0" data-t="'+which+' — no beta"'
+    if(v==null)return '<span class="seg segq" tabindex="0" data-t="'+which+': no beta"'
       +' data-c="RopeWiki has no usable '+which.toLowerCase()+' description for this canyon, so there is nothing to score. That is a gap in the data, <b>not</b> a rating of easy." style="background:var(--e0)">?</span>';
     var b=Math.max(1,Math.min(5,Math.round(v)));
     var c=[];
     if(band&&band!=='unknown')c.push('<b>'+band+'</b>');
     if(stat&&stat!=='no beta'&&stat!=='distance not stated')c.push(stat);
     if(!c.length)c.push('<i>The beta describes the terrain but never states a distance, so this is scored on terrain alone.</i>');
-    return '<span class="seg segi" tabindex="0" data-t="'+which+' '+b+' — '+(BANDWORD[b]||'')+'"'
+    return '<span class="seg segi" tabindex="0" data-t="'+which+' '+b+': '+(BANDWORD[b]||'')+'"'
       +' data-c="'+c.join(' · ')+'" style="background:var('+EC[b]+')">'+b+'</span>';
   }
   function advCell(v){
@@ -380,7 +380,7 @@
     return '<div class="diffcell"><span class="diffword">'+rom+' · '+d.time_word+'</span><span class="diffraw">'+(d.time_hours||'')+'</span></div>';
   }
   function waspCell(d){
-    if(d.wasp==null)return '<span class="seg segq" tabindex="0" data-t="Wasp — no beta"'
+    if(d.wasp==null)return '<span class="seg segq" tabindex="0" data-t="Wasp: no beta"'
       +' data-c="No usable approach/exit description, so there is nothing to read for nesting terrain. A gap in the data, <b>not</b> a low-risk reading." style="background:var(--e0)">?</span>';
     var b=Math.max(1,Math.min(5,Math.round(d.wasp)));
     var c=[];
@@ -394,18 +394,18 @@
         c.push('<i>Terrain alone reads '+d.wasp_terrain.toFixed(1)+'. A logged nest overrides the prediction.</i>');
       c.push('<i>Colonies die each winter, but the sites recur.</i>');
     } else {
-      c.push('<b>Terrain prediction — no nest reported here.</b>');
+      c.push('<b>Terrain prediction. No nest reported here.</b>');
       var why=[];
       if(d.appr_band&&d.appr_band!=='unknown')why.push(d.appr_band);
       if(d.exit_band&&d.exit_band!=='unknown'&&d.exit_band!==d.appr_band)why.push('exit: '+d.exit_band);
       if(why.length)c.push(why.join(' · '));
       c.push(b<=2?'Little nesting terrain on the way in or out.'
         :b<=3?'Some off-trail travel over ground that can hold nests.'
-        :'Sustained off-trail travel through deadfall and brush — prime nesting ground.');
+        :'Sustained off-trail travel through deadfall and brush. Prime nesting ground.');
       c.push('<i>A blank means nobody wrote one up. It never means safe.</i>');
     }
     return '<span class="seg segi'+(d.nests?' hasnest':'')+'" tabindex="0" data-t="Wasp '+b
-      +(d.nests?' — '+d.nests+' nest logged':' — terrain only')+'"'
+      +(d.nests?': '+d.nests+' nest logged':': terrain only')+'"'
       +' data-c="'+c.join('<br>').replace(/"/g,'&quot;')+'" style="background:var('+EC[b]+')">'+b
       +(d.nests?'<span class="nestdot"></span>':'')+'</span>';
   }
