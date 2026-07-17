@@ -196,9 +196,7 @@
   @media (max-width:720px){.tbsep{display:none}}
 
   .seg.segi,.seg.segq{cursor:help}
-  .seg.segi:focus-visible,.seg.segq:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-  tr.flash{animation:flash 1.6s ease-out}
-  @keyframes flash{0%,30%{background:var(--accent-soft)}100%{background:transparent}}
+  .seg.segi:focus-visible,.seg.segq:focus-visible{outline:2px solid var(--accent);outline-offset:2px}100%{background:transparent}}
 
   .seg.hasnest{position:relative}
   .nestdot{position:absolute;top:-3px;right:-3px;width:7px;height:7px;border-radius:50%;
@@ -219,11 +217,7 @@
   </header>
 
   <div class="keys">
-    <div class="card">
-      <h3>Beginner-friendly</h3>
-      <div class="big" id="sweet">—</div>
-      <div class="big-lbl">canyons with easy access, a non-technical or hiking ACA grade, and a short-to-half-day commitment (and real beta behind all three). Your starting pool, marked with a <span style="border-left:3px solid var(--e1);padding-left:5px">green edge</span>. <button class="linkbtn" id="sweetGo">show me these →</button></div>
-    </div>
+    
     <div class="card">
       <h3>What's scored</h3>
       <div class="legrow"><span class="dot" style="background:var(--accent)"></span><b>Access</b>: approach + exit effort <span class="mut">(ours, 1-5)</span></div>
@@ -313,18 +307,6 @@
     if(d.tech==null||d.acc_total==null)return null;
     return Math.round(((d.tech/4*5)*0.5+d.acc_total*0.5)*10)/10;
   }
-  // Beginner-friendly: easy access AND a non-technical/hiking ACA grade, and only
-  // where there's real beta -- a "start here" cue must not ride on missing data.
-  function isBeginner(d){
-    // Easy access + non-technical grade is not enough: Skokomish S Fork is 2C IV --
-    // non-technical, but a 13-18hr day with "headlamp, possible bivy". A starting
-    // pool must also be a SHORT day, and must have real beta behind it.
-    return !d.thin&&d._adv!=null
-      &&d.acc_total!=null&&d.acc_total<=2.6
-      &&d.tech!=null&&d.tech<=2
-      &&d.time!=null&&d.time<=2          // I or II only: short/half day
-      &&d.water!=='C3'&&d.water!=='C4';  // never flag experts-only water
-  }
 
   function recompute(){
     DATA.forEach(function(d){d._adv=computeAdv(d);});
@@ -334,7 +316,6 @@
       return (b.stars==null?-1:b.stars)-(a.stars==null?-1:a.stars);
     });
     r.forEach(function(d,i){d._rank=i+1;});
-    document.getElementById('sweet').textContent=DATA.filter(isBeginner).length;
   }
 
   var state={key:'rank',dir:1,q:'',fThin:false};
@@ -433,7 +414,7 @@
     });
     var h='';
     rows.forEach(function(d){
-      h+='<tr'+(isBeginner(d)?' class="best"':'')+'>'
+      h+='<tr>'
         +'<td class="rank">'+d._rank+'</td>'
         +'<td>'+(d.url?'<a class="cname clink" href="'+d.url+'" target="_blank" rel="noopener">'+d.canyon+'</a>':'<span class="cname">'+d.canyon+'</span>')+'</td>'
         +'<td class="stars">'+(d.stars!=null?d.stars.toFixed(1)+'★':'—')+'</td>'
@@ -516,12 +497,6 @@
   document.getElementById('search').addEventListener('input',function(e){state.q=e.target.value.toLowerCase().trim();render();});
   function toggle(id,flag){var el=document.getElementById(id);el.addEventListener('click',function(){state[flag]=!state[flag];el.setAttribute('aria-pressed',state[flag]);render();});}
   toggle('fThin','fThin');
-  document.getElementById('sweetGo').addEventListener('click',function(){
-    state.key='adventure';state.dir=1;render();
-    var row=document.querySelector('#body tr.best');
-    (row||document.getElementById('tbl')).scrollIntoView({behavior:'smooth',block:'center'});
-    if(row){row.classList.add('flash');setTimeout(function(){row.classList.remove('flash');},1600);}
-  });
 
   recompute();applyWaspSeason();render();
 })();
