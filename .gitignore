@@ -1,3 +1,12 @@
 *.pyc
 .DS_Store
 __pycache__/
+
+# Research caches for the multi-region wasp scan (scripts/wasp_multiregion_scan.py).
+# 2MB of RopeWiki trip reports across 5 states -- kept locally so re-analysis is
+# free, but the site doesn't need them and they're CC BY-NC-SA content we have no
+# reason to redistribute. Delete them to force a fresh crawl.
+data/multiregion_reports.json
+data/multiregion_rosters.json
+data/multiregion_wasp_hits.json
+data/all_condition_titles.json
