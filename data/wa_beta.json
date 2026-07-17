@@ -1,0 +1,1949 @@
+[
+{
+"canyon": "Adams Creek Gorge",
+"structured": {
+"Has_ACA_rating": "3C3 II R (v3a5 III)",
+"Has_best_season": "Sep-Oct",
+"Has_condition_date": "1/2025/10/10",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "80",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C3 II R (v3a5 III)",
+"Has_star_rating": "4",
+"Has_url": "https://ropewiki.com/Adams_Creek_Gorge",
+"Requires_permits": "No"
+},
+"approach": "Adams Creek Gorge can be approached from either the east or the west via High Lakes Trail #116. '''West Approach from Chain of Lakes Campground''': This approach is slightly longer with a steeper approach/exit, but saves about one hour of round-trip driving to the eastside approach if coming via Takhlakh Lake. The downside is that you will not be able to see the flow at the bridge. The trailhead begins where the road ends at 46.2938, -121.5954. Follow the trail down the hillside for 1.6mi until you hit Adams Creek. The canyon is upstream of this crossing, and you will need to cross to continue the approach via the trail (as of 2018 the bridge here has been washed away in a flood and has not been rebuilt). If the creek looks too high to easily cross, consider turning back, as the canyon is unlikely to be runnable. Once across the creek, continue along the trail for 0.35mi. Leave the trail at 46.3015, -121.5797 and continue southeast for 0.25 miles until you reach the drop in (46.2989, -121.5768). This way will NOT allow group to check the flow of the main channel at (46.2691970, -121.5703266). '''East Approach from Horseshoe Lake Campground''': This approach is slightly shorter with a more gradual approach/exit. Road conditions to get here may vary. Very low clearance vehicles may have difficulty reaching the campground. From the parking lot (46.3101, -121.5673), traverse around the lake to the north and find the trail. Hike down approximately 1.45mi. Leave the trail at 46.3015, -121.5797 and hike southwest until you reach the drop in (46.2989, -121.5768). This route will allow you to check the flow of the main fork at (46.2691970, -121.5703266). ''As of 2019, #116 trail shown on some USGS maps is inaccurate. The trail was redone at some point and follows a new path. The KML for this canyon is accurate to the new trail.''",
+"exit": "Follow the High Lakes Trail #116 back to your chosen trailhead."
+},
+{
+"canyon": "Big Creek (Olympic Peninsula)",
+"structured": {
+"Has_ACA_rating": "3C I  (<i>v2a4&nbsp;I</i>)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2023/6/18",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "20",
+"Has_number_of_rappels": "0",
+"Has_rating": "3C I  (<i>v2a4&nbsp;I</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Big_Creek_(Olympic_Peninsula)",
+"Requires_permits": "No"
+},
+"approach": "Follow FR 22 to the bridge where it crosses Big Creek. This is a good place to check the flow. The creek is not impressive from the bridge. Leave a car here and shuttle (or hike) east 0.2mi, then left on FR 2294. Follow for about 0.5mi when you can see the creek down through the trees on the left. Park along the side of the road. There was a wide shoulder as of 2020 with plenty of room for parking. Suit up on at the road and bushwhack down wherever is easiest and drop into Big Creek. * There are a couple of campsites right at the bridge over Big Creek. * The original beta described following FR 2294 to the next bridge over Big Creek and descending from there. This will add +0.7mi of river walking with no additional narrows. Not recommended.",
+"exit": "You can exit DCL up to the campsite, or, if occupied, continue to the bridge and exit DCL up to the road."
+},
+{
+"canyon": "Big Huckleberry Creek",
+"structured": {
+"Has_ACA_rating": "3C1 II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Mar-Jun",
+"Has_condition_date": "1/2026/1/17",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "150",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C1 II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Big_Huckleberry_Creek",
+"Requires_permits": "No"
+},
+"approach": "Drop a car at the bottom and shuttle up to the top. High clearance best per a couple rough spots. In 2023, the last mile or so was a bit brushy, so we parked at about 45.85707, -121.82293 and hiked in rather than risk pin-striping. (This will add +1mi (20min) to the approach, but it's almost completely flat.) If you can get through, there are pullouts for a few cars just before and after the creek. Follow the ridge on the east side of the creek and drop in at about 45.86750, -121.80825. This is just above a nice, narrow section of the creek. There's a nice section of bedrock with a few minor downclimbs. Some drops look like mini-slides, but scout them first. Not far ahead is R1. You can drop into the creek right at the road, but it's not worth it. Few cascades to downclimb and some minor water features, but lots of brush and Devil's Club. Not recommended.",
+"exit": "Keep going until the creek passes through a culvert under the road. Exit DCR. Walk west down the road to the Panther Creek trailhead (2 min)."
+},
+{
+"canyon": "Big Quilcene River",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v2a4&nbsp;III</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "25",
+"Has_number_of_rappels": "0",
+"Has_rating": "3C III  (<i>v2a4&nbsp;III</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Big_Quilcene_River",
+"Requires_permits": "No"
+},
+"approach": "After dropping a shuttle car at the Rainbow Campground, head north about 3.5mi and turn left into Penny Creek Rd. At about 1.5mi, bear left on Big Quilcene River Rd (FR 27) for 1.8mi. At a Y-junction, bear left for a final 1.8mi to where it runs close to the river. Park and head down at any convenient spot directly to the river.",
+"exit": "After about 1.4 miles, the river abruptly turns left and heads off north. The canyon widens out and the walls are less steep. Look for a trail DCR leading up from the river to the Rainbow Campground. It can be easy to miss."
+},
+{
+"canyon": "Bishop Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Dec-Mar",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Bishop_Creek",
+"Requires_permits": "No"
+},
+"approach": "As of January 2018, the road to the drop in has been washed out. Park the car at the washout and hike on the road for 2 miles. When the road makes a hairpin turn, proceed uphill offtrail making sure not to get cliffed out or you\u2019ll miss the first series of drops.",
+"exit": ""
+},
+{
+"canyon": "Boetzke Canyon",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Jun-Sep",
+"Has_condition_date": "1/2021/6/23",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "240",
+"Has_number_of_rappels": "9",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Boetzke_Canyon",
+"Requires_permits": "No"
+},
+"approach": "Park at Rattlesnake Lake. If you park as close to the Iron Horse as you can get, you'll need a Discovery Pass. Parking at any of the other many parking lots is free, though. Bike or hike the Iron Horse (old railroad grade) trail until you come to Boetzke Creek. Check out the flow, stash/lock bikes if you have them, and head uphill following the ridge on the west side of the canyon. There is no obvious trail, you will have to bushwhack your way up. Watch your steps and go slow as it is steep and loose in some sections. A fall may result in a serious injury. Stick to the ridgeline as much as possible, until you're around 150 ft below the entrance to the canyon, then start cutting across a couple small gulleys to the canyon until you come to near the top of the first falls. You'll know it if you come to the canyon too low - go higher. If you come in too high, the creek won't look like much of a creek, just a bunch of dense, thorny brush. Check the gps coordinates uploaded by Geormorphdan. The bushwhacking is mostly BW3, but it's not hard to get yourself into some not-so-fun BW4 or BW4+ if you stray from the ridgeline too much. Use the force, and find the path of least resistance, or something.",
+"exit": "After you get to the bottom of the last rap (the falls you can see from the bridge over Boetzke), walk downstream (there's a good changing spot under the bridge). There are a few options for getting back to the Iron Horse, some likely much better than others. We took a nasty scree slope that comes in on the R just downstream of the bridge, which ended with an overhanging root-climb, then bushwhack to the iron horse. That sucked, so consider going a bit further downstream, cutting up left, and bushwhacking up from there back to the iron horse. Please edit this if you find a more preferable exit downstream. Once back to the bridge, head back along the Iron Horse to your car."
+},
+{
+"canyon": "Bottleneck Canyon",
+"structured": {
+"Has_ACA_rating": "3C II  (v3a3 II)",
+"Has_best_season": "Late Spring - Early Summer",
+"Has_condition_date": "1/2022/7/24",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "70",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C II  (v3a3 II)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Bottleneck_Canyon",
+"Requires_permits": "No"
+},
+"approach": "'''Driving Directions''': From Olympia, take Hwy 12 from Olympia to the town of Montesano. This is the last stop for fuel and other supplies before heading north. From Montesano, take Wynoochee Valley Road north for 33 miles until it abruptly turns to gravel and becomes NF-2312. Continue another 6.8 miles until the creek for Bottleneck Canyon appears on the right side of the road. Find a suitable spot to park along the side of the road. '''Canyon Approach''': From the creek, walk up the road (north) and look for a suitable place to cut into the dense forest. There is no official route here. Some trimming and flagging for future approaches may be helpful at some point. (If a decent approach route is established, it would be great for someone to record a track and update the KML map in the near future). The first rappel is at approximately 1,400' elevation.",
+"exit": "Walk the road back to your vehicles."
+},
+{
+"canyon": "Bozoo Creek",
+"structured": {
+"Has_ACA_rating": "3C IV  (<i>v3a4&nbsp;IV</i>)",
+"Has_best_season": "Jan-Mar",
+"Has_condition_date": "1/2019/2/2",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "200",
+"Has_number_of_rappels": "13",
+"Has_rating": "3C IV  (<i>v3a4&nbsp;IV</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Bozoo_Creek",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Brush Creek",
+"structured": {
+"Has_ACA_rating": "3C I  (<i>v3a4</i> I)",
+"Has_best_season": "Mar - May",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "50",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C I  (<i>v3a4</i> I)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Brush_Creek",
+"Requires_permits": "No"
+},
+"approach": "From road, down ridge, into tributary.",
+"exit": ""
+},
+{
+"canyon": "Budweiser Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Apr-June",
+"Has_condition_date": "1/2016/7/24",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "1",
+"Has_url": "https://ropewiki.com/Budweiser_Creek",
+"Requires_permits": "No"
+},
+"approach": "This area is a maze of logging roads. Map and GPS may be handy. Roads are gravel but 2WD-friendly if driven slowly. High clearance may be nice. ===Lower Parking=== From Bridge of the Gods, follow Hwy 14 east for 1.6mi. Turn left on SW Rock Creek Dr (signed for Skamania Lodge) and follow for 0.3mi before turning left onto Foster Creek Rd. FCR becomes Ryan-Allen Rd; follow for 0.9mi. Under a set of powerlines, turn left onto Red Bluff Rd. Red Bluff quickly becomes a good gravel road; follow it northwest for 2.5mi, before turning right on CG 2330. The road drops down to a bridge crossing Rock Creek in 0.3mi. On the far side, stay on CG 2330 as it climbs out of the drainage. Follow this windy road for 2.8mi to a prominent junction about UTM 10 582576mE 5067254mN. From the junction continue on CG2330 for 100yrds before bearing left on an unnamed gravel road diverting to the northwest. Follow for 0.75mi to a large pullout just before the road swings north into the Budweiser drainage. Pullout is at about UTM 10 582238mE 5067788mN. ===Upper Parking=== Drive back out to CG 2330 and head north about 1mi, passing a prominent junction along the way. Your goal is to reach the spot where the road crosses Budweiser Creek. There is room off the road here for several vehicles.",
+"exit": "Map and GPS highly recommended to escape Budweiser. There are cliffs above R4, so head downstream a hundred yards or so before exiting the drainage DCL. Thrash up wherever is easiest and round the nose of the ridge, separating Budweiser from a tributary stream. We found a well-trodden series of game trails and followed them upwards. Beware poison oak in open areas through here... which just makes this creek even more special. We reach the bottom of a steep cliffy area and traversed east, continuing on game trails until the terrain moderated enough to get up on the ridge. Follow the ridge upwards until you intersect the good logging road running along the drainage around 1850' and your waiting shuttle car. At last... the nightmare is over!"
+},
+{
+"canyon": "Cabin Creek (Olympics)",
+"structured": {
+"Has_ACA_rating": "3C1 II  (v4a3 IV)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2026/6/6",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "200",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C1 II  (v4a3 IV)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Cabin_Creek_(Olympics)",
+"Requires_permits": "No"
+},
+"approach": "Park at the large camp on the side of the road and descend downhill towards the open cliffs. Traverse towards the canyon keeping the large cliffs on your left until you see the weakness in the cliffs below you. A 60m meter rope can be used to rappel this section which provides a safe location to pull rope. File:Cabin A R1.jpg|thumb|Approach R1 (Photo: Terry Hiatt) Use one of the cedars below to make a 200' rappel down the cliff face to the canyon floor. Next party through should bring anchor material for the trees. File:Cabin A R2.jpg|thumb|Approach R2 (Photo: Tom Finley)",
+"exit": "Follow the creek a short distance until the canyon opens up and make your way towards the gravel pit. There is a faint trail that comes from this area to the creek if you can find it. A road leads from the area to the locked gate."
+},
+{
+"canyon": "Calligan Creek Canyon",
+"structured": {
+"Has_ACA_rating": "3C2 II PG (v4a4 III)",
+"Has_best_season": "May - October",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "120",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C2 II PG (v4a4 III)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Calligan_Creek_Canyon",
+"Requires_permits": "Yes"
+},
+"approach": "Turn off i90 at exit 27 and proceed to where North fork Road SE branches left (do not take SE 72nd St). At this point you are on a well maintained gravel road for 3.3 miles. Park at the spur 10 gate. At this point it is highly recommended to take bikes for the remainder of the approach as it turns the 3.5 mile forest road slog into a breezy 15-20 cycle. Don't forget to get your permit from the self serve kiosk (on the right side of the road 500 feet from the gate). Cycle or walk until you cross the NF Snoqualmie river (approx 1.5 miles), then take the left hand branch of the road and follow for a further 2 miles until you cross the bridge over Calligan Creek. Park your bikes in the woods and hike straight up the clear cut section of the forest under which the pipes for the hydro electric project are housed, it's steep but pretty easy going due to the short grass under foot. When you reach the gravel road again, hike up to the 1600 contour line at which point you can suit up in the woods next to the creek.",
+"exit": "After R4 continue down until you see the bridge over the creek. Climb out on a faint user trail on DCR about 200 feet before the bridge. Cycle or walk back to the car (3.5 miles)"
+},
+{
+"canyon": "Cape Horn Creek",
+"structured": {
+"Has_ACA_rating": "3C   (<i>v3a4</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_rating": "3C   (<i>v3a4</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Cape_Horn_Creek",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Change Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (v4a3 II)",
+"Has_best_season": "Apr-Nov, BEST May-Jul",
+"Has_condition_date": "1/2026/5/17",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "125",
+"Has_number_of_rappels": "7",
+"Has_rating": "3C II  (v4a3 II)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Change_Creek",
+"Requires_permits": "No"
+},
+"approach": "===Drive=== From Interstate 90 Eastbound, take Exit 38. Turn right onto SE Homestead Valley Road. Just past the bridge over the South Fork Snoqualmie River, the road curves to the left. After 0.6 mi (1 km), proceed to the parking area on the left (northeast) side of the road. ===Hike=== The approach hike will probably take 45-60 minutes. From the parking area, cross the road and proceed up the Deception Crags Trail, just northwest (DCL - looking Down the Canyon, on the Left) of Change Creek. Follow the trail under the old railroad bridge high above (now the Palouse to Cascades State Park Trail). On the other side of the bridge the trail splits. Most people will be following the well-worn right fork to the popular rock climbing area. Instead turn left on to the lesser-worn trail which drops towards the creek. Start following the brightly colored marker-tape uphill, shadowing the creek the whole way. The final rappel of the route (which is used for water level reference) can be seen from halfway up the trail. Take care to follow the flagging. Social trails have been blocked with branches, but are still visible. Following the flagged trail will help prevent erosion of the loose slope. The trail continues to switch back-and-forth and vary in pitch, until you're lead straight into the creek above the first rappel.",
+"exit": "Continue down the creek until you see the trellis bridge almost above you and the slopes on DCL flatten out. Exit the creek DCL, pick up the trail only a few feet from the creekbed, and follow it 0.25 miles back to the road."
+},
+{
+"canyon": "Chikamin Narrows",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "May-Jul",
+"Has_condition_date": "1/2025/7/13",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "60",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Chikamin_Narrows",
+"Requires_permits": "No"
+},
+"approach": "Walk up the road a short distance past a local highpoint on the right, then drop down through open forest to enter the creek just above R1. If you find the right spot, you do not need a rope to get into the creek.",
+"exit": "You know you're drawing near the end when the canyon walls fall back and a small waterfall (unnamed minor tributary) enters DCR. There's also a gigantic old-growth log that's fallen across the creek here. Go downstream perhaps 100 yards, then scramble out DCR onto a mini-ridge which provided relatively easy access up the bank into open forest beyond. Head generally southwest wherever is easiest, staying just south of the aforementioned mini-tributary. You can avoid thorny devil's club and swampy areas by staying on higher ground. When you spot the road above, just turn south and ascend directly to it. Walk back up the road to the pullout."
+},
+{
+"canyon": "Clark Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (v3a3 II)",
+"Has_best_season": "Early Summer",
+"Has_condition_date": "1/2024/9/1",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "130",
+"Has_number_of_rappels": "8",
+"Has_rating": "3C III  (v3a3 II)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Clark_Creek",
+"Requires_permits": "No"
+},
+"approach": "'''Getting There''': From Olympia, take Hwy 12 to the town of Montesano. This is the last stop for fuel and other supplies before heading north. From Montesano, take Wynoochee Valley Road north for 33 miles until it abruptly turns to gravel and becomes NF-2312. Continue another 9.7 miles until the road reaches a junction. Turn left and cross the Wynoochee River. Clark Creek is less than a minute up the road on the left. '''Parking''': There are spots both above and below where the road crosses Clark Creek to park multiple vehicles. The best spot is just downhill from the creek, though it is often taken by campers. In a pinch, you can park at the T junction just before the road crosses the Wynoochee River. '''Approach''': Not too far on the downhill/east side of the creek, look for an open space to cut up into the forest. Look for a faint use trail that meanders up the hillside. This use trail is marked occasionally with old flagging tape, but it is not consistent. At several points you may find yourself off the use trail, but the forest is not very thick/brushy in most places and usually you can find your way back to the original route. Eventually, you\u2019ll make it to an overgrown but very obvious forest road at around 2000'. Bushwhack your way to the creek on the forest road, which will put you into the creek just below R0, which can be skipped if desired. If looking for a bonus rappel, cut up from the forest road into the forest and traverse over until you find an obvious place to cut down the hillside to the creek above R0.",
+"exit": "Climb out of the pool and walk the road back to the parking area."
+},
+{
+"canyon": "Cora Creek",
+"structured": {
+"Has_ACA_rating": "3C I  (<i>v3a4&nbsp;I</i>)",
+"Has_best_season": "May-Jul",
+"Has_condition_date": "1/2023/7/23",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "95",
+"Has_number_of_rappels": "5",
+"Has_rating": "3C I  (<i>v3a4&nbsp;I</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Cora_Creek",
+"Requires_permits": "No"
+},
+"approach": "From the Cora Lake trailhead, follow the trail upward about 0.45mi. The trail crosses below R2, then switchbacks up and crosses again just before R1. Just before the second creek crossing, bushwhack upwards (easy) to the top of R1. There's a nice bench above the creek for suiting up. You might take a quick detour over to the lake for great views of High Rock towering above.",
+"exit": "Below R6 is a garden of Devil's Club. It's probably best to exit the creek and bushwhack back to the parking area (5min) in largely open forest."
+},
+{
+"canyon": "Cortright Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2025/9/6",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "80",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Cortright_Creek",
+"Requires_permits": "No"
+},
+"approach": "Park in a paved pullout just north of the bridge over Cortright Creek. From the parking area cross the highway, jump the guardrail, and head down slopes to the west to enter the creek. There are a number of elk trails in the area and the going is pretty easy.",
+"exit": "Cross the bridge and follow the road west about 0.3mi to the day-use parking area and your waiting car."
+},
+{
+"canyon": "Covell Creek (Main Fork)",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Dec-May",
+"Has_condition_date": "1/2021/5/2",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "110",
+"Has_number_of_rappels": "5",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Covell_Creek_(Main_Fork)",
+"Requires_permits": "No"
+},
+"approach": "Covell Creek is located just south of the Cispus Environmental Learning Center. Park at the location indicated and follow the trail to Angel Falls. Several other side trails fork off of the main trail so be aware of this on the approach. Just before reaching Angel Falls, the trail crosses the main fork of Covell Creek which is the checkpoint for the flow. Cross the main fork, then the west fork, then continue on up the Burley Mountain trail. After several switchbacks, the trail starts to return to the creek. At about: 46.42314, -121.85395 at ~2500ft elevation there's an easy place to drop West Fork. Cross the West Fork and climb out the far side. The forest is open and the going is so easy it can barely be called bushwhacking. Head up the ridge a couple hundred feet until terrain abruptly flattens out around 2600' elevation. Continue southeast for about five minutes and descend easy slopes to drop into the western fork of the Main Branch somewhere between 2500-2600' elevation. Suit up and head downstream.",
+"exit": "Exit immediately up DCR to the well-maintained trail just above the creek. Head downstream following the trail until it crosses the creek at the bottom of the hill. Instead of crossing the creek, cut right through the brush and follow pink flagging tape to get back to the road. Walk back to the parking area."
+},
+{
+"canyon": "Covell Creek (West Fork)",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Winter - Spring",
+"Has_condition_date": "1/2024/6/24",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "200",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Covell_Creek_(West_Fork)",
+"Requires_permits": "No"
+},
+"approach": "Covell Creek is located just south of the Cispus Environmental Learning Center. Park at the location indicated and follow the trail to Angel Falls. Several other side trails fork off of the main trail so be aware of this on the approach. Just before reaching Angel Falls, the trail crosses the main fork of Covell Creek. Keep following the trail. Just ahead is Angel Falls (bottom of R2). Continue on up the Burley Mountain trail. After several switchbacks, the trail starts to return to the creek. At about: 46.42314, -121.85395 at ~2500ft elevation, there's an easy place to drop West Fork. Suit up and head downstream.",
+"exit": "Exit immediately up DCR to the well-maintained trail just above the creek. Head downstream following the trail to where the old bridge was. The new trail loops back toward the parking area. Wahoo!"
+},
+{
+"canyon": "Crater Lake Creek Canyon",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "150",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Crater_Lake_Creek_Canyon",
+"Requires_permits": "No"
+},
+"approach": "Trail to crater lake",
+"exit": "Once you're done rappelling, bushwhack back to the trail."
+},
+{
+"canyon": "Cultus Creek",
+"structured": {
+"Has_ACA_rating": "2C II  (<i>v1a4&nbsp;II</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "0",
+"Has_number_of_rappels": "0",
+"Has_rating": "2C II  (<i>v1a4&nbsp;II</i>)",
+"Has_star_rating": "1",
+"Has_url": "https://ropewiki.com/Cultus_Creek",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Dalles Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Spring",
+"Has_condition_date": "1/2015/5/17",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "150",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Dalles_Creek",
+"Requires_permits": "No"
+},
+"approach": "Parking is located on the east side of WA-410, about 0.3 mile south of the Skookum Falls viewpoint. This is the trailhead for Palisades Trail 1198], a popular trail for hiking and mountain biking. Follow the trail about 0.25 mile to a trail junction with a prominent marker. Proceed left on Palisades Trail 1198. Approximately 0.75 mile farther, the trail nears Lower Dalles Creek Falls. A short spur trail leads directly to the bottom of the falls, where the East Fork and West Fork of Dalles Creek converge. This spur trail serves as a convenient place to check water flow conditions and to access the main trail at the end of the descent. Continue up the trail as it switchbacks along the West Fork past moss-covered basalt cliffs. Stairs aid in climbing the steepest section before the trail turns southward and crosses the West Fork on a single wood plank, followed by the East Fork on a log bridge. To check water flow conditions, a 500 foot off-trail hike upstream leads to the bottom of Upper Dalles Creek Falls. After crossing the East Fork on the log bridge, continue on Palisades Trail 1198 to an overlook. Skookum Falls can be seen across the White River. Continue up the trail as it trends east and approaches the steep canyon rim. At the point nearest the creek, you will be able to hear but not see the Upper Falls below. About 600 feet past the switchback, take an ESE bearing off trail to follow the canyon rim. There is very little underbrush, so bushwhacking is easy. Soon, a game trail leads down to the East Fork, about 500 feet upstream of the Upper Falls.",
+"exit": "From the bottom of Lower Dalles Creek Falls, use the short spur trail to access Palisades Trail 1198, and follow the trail back to the parking area. Below Lower Dalles Creek Falls, the creek is overgrown with brush, and navigating through it is ill-advised."
+},
+{
+"canyon": "Dark Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (v4a3 IV)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2026/6/23",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "110",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C III  (v4a3 IV)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Dark_Creek",
+"Requires_permits": "No"
+},
+"approach": "Park at the unsigned trailhead on FR-23. The road here was previously washed out, but was repaired in 2018. There's now a wide area in the road with room for 4-5 vehicles. Note the large berm (aka dam-like construction of logs and chains) put in to keep the road from getting washed out again in winter floods. Ford the creek to the trail on the far side (easily identified by a concrete ramp) and follow it. After about 1.3mi, the trail crosses Dark Creek; this is a good place to check the flow. Continue upwards 0.6mi to a junction around 3500ft (approx. UTM 10N 595991mE 5128029mN) just past Dark's minor western tributary. Follow the trail southwest and keep going to about UTM 10N 596295mE 5127734mN. Leave the trail and thrash northeast down a shallow drainage to Dark Creek. Off-trail section takes ~5min. Don't cut thrash over early or you'll miss some nice canyon. Other notes: * Older USGS maps depict the trail looping just above Dark Creek Falls. It doesn't exist. See ropewiki map for actual trail location. * This is a popular motorcycle use trail. Give way to riders. Getting an early start in the morning might be a good way to avoid them on the approach. * It might be possible to shuttle up using FR 2325, although this option has not been explored as of 2019.",
+"exit": "Walk downstream 5min to reach the trail. Follow it back to your car. Declare victory."
+},
+{
+"canyon": "Davis Creek Canyon",
+"structured": {
+"Has_ACA_rating": "3C2 II  (v4a4 III)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2026/7/10",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "120",
+"Has_number_of_rappels": "5",
+"Has_rating": "3C2 II  (v4a4 III)",
+"Has_star_rating": "5",
+"Has_url": "https://ropewiki.com/Davis_Creek_Canyon",
+"Requires_permits": "No"
+},
+"approach": "===Lower Parking=== From the junction of Hwy 12 and Hwy 131 in Randle, WA: head east on Hwy 12 for 5.9mi and turn off left/north on Davis Creek Rd. (Be aware: Davis Creek Rd intersects Hwy 12 in two places, but bridge linking the two appears to have been washed out by Davis Creek, so accesss is only possible from the western end.) Follow Davis Creek Rd for 1.1mi to a large \"Road Closed\" sign at the bridge site. FR-63 turns left/north just before the creek. Park at the bridge or just up FR-63 (unpaved, good gravel road) on the righthand shoulder. There is room for several vehicles. There are some houses immediately nearby, so please be courteous to the neighbors and locals. ===Upper Parking=== From the lower parking area, either drive (5min) or hike the road (40min) to the upper parking area. * At 0.6mi up the road is a bridge crossing Davis Creek. This is the water level checkpoint. If water levels are safe, continue another 0.9mi up the road. Where the road starts to curve back east, there's a huge grassy pullout on the right/east side of the road. Park here. ===Hiking In=== Directly across the road from the upper parking area, find a faint use trail that leads straight down toward Davis Creek. As you get close enough to hear the creek, the trail is faint and splits. Stay left to head directly down and drop in right in right above R1. If you go right at the split you'll reach the top of a steep embankment, perhaps 50ft high and may need to do a dirty rappel to drop in and will be well above R1.",
+"exit": "Shortly after the last rappel the canyons opens up. Climb the scree slope DCR to reach the road where you parked the vehicle."
+},
+{
+"canyon": "Denny Creek Canyon",
+"structured": {
+"Has_ACA_rating": "3B III  (<i>v3a2&nbsp;III</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_condition_date": "1/2024/7/13",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "150",
+"Has_number_of_rappels": "4",
+"Has_rating": "3B III  (<i>v3a2&nbsp;III</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Denny_Creek_Canyon",
+"Requires_permits": "No"
+},
+"approach": "Park at the Denny Creek trailhead for handicap only, all others go 150 yards east to the Franklin Falls lot. From the Franklin falls parking, take the trail at the west end over to the Denny Creek parking. Cross the river and a trail starts at the abandoned turn around. Hike up the Denny Creek Trail, going under I90. You'll cross the river DCL to DCR at some slabs - There are logs that you can cross to keep your feet dry. This is your main exit. Keep hiking up, passing Keekwulee Falls until you cross Denny Creek again, this time from DCR to DCL. Here, suit up and head downstream.",
+"exit": "From the trail crossing, hike down back to the trailhead"
+},
+{
+"canyon": "Dingford Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (v3a4 II)",
+"Has_best_season": "Jul-Sep",
+"Has_condition_date": "1/2026/7/12",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "100",
+"Has_number_of_rappels": "8",
+"Has_rating": "3C III  (v3a4 II)",
+"Has_star_rating": "5",
+"Has_url": "https://ropewiki.com/Dingford_Creek",
+"Requires_permits": "No"
+},
+"approach": "The final 6mi of road to the trailhead is rough. High-clearance recommended to get through several washouts. Expect the drive to take at least 45min from I-90. Hike the Dingford Creek Trail for 1.1 mile (30-40min), 70 yrd just after the Alpine Lakes Wilderness sign (10 ft up on a big tree, but easy to miss). You will see pink flagging on trees downhill towards the creek. This is where you (approximately 47.51963, -121.44401) start off trail following the pink flagging downhill and slightly to your left. You should hit the creek just above the first jump, where a big flat slab is convenient for changing.",
+"exit": "After the final waterfall rappel, walk across the slabs on DCL to exit the drainage at the bridge. It is a 2 min walk up the road to the right to the parking area."
+},
+{
+"canyon": "Discovery Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "May-June",
+"Has_condition_date": "1/2025/7/12",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "125",
+"Has_number_of_rappels": "8",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Discovery_Creek",
+"Requires_permits": "No"
+},
+"approach": "After checking the flow, ascend steep slopes wherever is easiest on the west side of the creek. It's a little easier going if you drift climber's left away from the creek. Slopes are relatively open, without much thick bushwhacking. Drift back towards the creek around 2700ft to find a relatively flat-ish area which can be used for staging and easy entry to the creek. You'll need to ascend higher if you want to run R0.",
+"exit": "After the last rappel, the canyon opens and there's an easy exit DCL. Just walk down to the road. It's possible to continue down the creek, but there's just a couple of boulder jumbles remaining."
+},
+{
+"canyon": "Downclimbs R Us Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (v4a3 II)",
+"Has_best_season": "May-June",
+"Has_condition_date": "1/2022/5/23",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "130",
+"Has_rating": "3C II  (v4a3 II)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Downclimbs_R_Us_Creek",
+"Requires_permits": "No"
+},
+"approach": "'''Parking''': Park at or as close to the Mt. Washington trailhead (TH) as possible. Parts of the road leading up to the TH may be covered in snow depending on the time of year that you go. '''Approach''': The approach is on the Mt. Washington trail with some off-trail to drop into the creek. In the early season, expect the approach to be covered in snow as you gain altitude and postholing the closer you reach 3800\u2019. A suggestion to improve the pay-to-play\u201d ratio would be to drop in sooner (around 3400-3500\u2019) to bypass the first few rappels, additional nuisance downclimbing and snow--however, this approach has not been verified.",
+"exit": "Walk back to where you parked your car."
+},
+{
+"canyon": "East Canyon Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (v3a3 IV)",
+"Has_best_season": "June-Sept",
+"Has_condition_date": "1/2026/6/14",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "60",
+"Has_number_of_rappels": "1",
+"Has_rating": "3C II  (v3a3 IV)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/East_Canyon_Creek",
+"Requires_permits": "No"
+},
+"approach": "===Classic Route=== Park on the shoulder of FR-23. Bushwhack 0.5mi to the rim of the canyon and then descend 200' into the canyon via a steep draw just upstream of R1. (Alternately, find a place to rappel in.) Note, the track that goes directly east is misleading as the contours push you left and down and make it very difficult and unpleasant to side-hill over to the drop in. It is recommended to head a couple hundred feet south on pavement and then start your bushwack arcing south and easterly to the drop in. There are several hills and dales. ===Tributary Entrance=== A somewhat nicer entrance on the east side of the creek with more bushwacking which gives you +1 rappel. Drop a car on FR-2322, bushwack due north, and enter via the tributary creek. The trib had low water in late July 2022. This approach is slightly longer. * R0a - 25ft from tree DCR to rebelay. (Or 150ft in one pitch.) * R0b - 115ft from tree DCL.",
+"exit": "Continue through the short set of narrows until you reach the Cispus River. Traverse the downriver along the bank for about 300 yards (~0.2mi) before cutting uphill on a faint game trail through the brush. The brush clears up once underneath the tree canopy and follow the obvious game trail upward about 200ft to the top of the hill. The trail mostly disappears at this point, although it's a fairly flat easy bushwhack about 0.25mi back to your car. If you did the tributary entrance and did not leave a shuttle car you can exit by going upstream along the Cispus for about twenty yards from the confluence. Look for a light steep game trail in the ferns. This is a steep loose trail with several exposed areas and is a tough climb but it will take you back to the top of the ridge where you can bushwack south to your car on the 2322 road. This climb and bushwack will take about an hour."
+},
+{
+"canyon": "Eightmile Creek (South Cascades)",
+"structured": {
+"Has_ACA_rating": "3C1 III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Mar-May",
+"Has_condition_date": "1/2023/11/11",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "120",
+"Has_number_of_rappels": "5",
+"Has_rating": "3C1 III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Eightmile_Creek_(South_Cascades)",
+"Requires_permits": "No"
+},
+"approach": "From the upper parking area, just drop into the creek and go downstream.",
+"exit": "Unfortunately, the technical section is relatively short and sweet. Head downstream by the easiest available route. Expect up to 2 hours or more to reach Panther Creek (~1.4mi). Cross Panther Creek to the south shore. Either follow the bank or inland user trails to a campsite and follow trails back to the lower parking area. (About 5min from Panther Creek.) * If water levels on Panther Creek are too high, follow Panther Creek downstream to the bridge on NF-65. This has not yet been explored, however. * It looks like the easiest exit may be to follow the creek downstream after R2 until the creek bends to the left. At this point you could climb out DCR back up to the road, which is close to the ridge. * A shorter exit might be possible by bailing out of the creek DCL / north (towards Pt 2130) and circle back up to the top on old logging roads, but this has not yet been explored. Exiting early on the south side looks like you might get cliffed out."
+},
+{
+"canyon": "Elwha River",
+"structured": {
+"Has_ACA_rating": "2C3  R (<i>v1a6</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "0",
+"Has_number_of_rappels": "0",
+"Has_rating": "2C3  R (<i>v1a6</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Elwha_River",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Falls Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Aug-Sept",
+"Has_condition_date": "1/2025/11/15",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "160",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Falls_Creek",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Falls Creek (Marymere Falls)",
+"structured": {
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Falls_Creek_(Marymere_Falls)",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Fir Creek",
+"structured": {
+"Has_ACA_rating": "3C1 I  (v3a3 II)",
+"Has_best_season": "June-Aug",
+"Has_condition_date": "1/2025/7/20",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "95",
+"Has_number_of_rappels": "5",
+"Has_rating": "3C1 I  (v3a3 II)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Fir_Creek",
+"Requires_permits": "No"
+},
+"approach": "'''Driving Directions''' From US-101, drive west on Skykomish Valley Road for ~5.6mi before bearing right at a junction onto Govey Road (aka FR 23 or FR 2353). Follow the road steeply uphill; it becomes a good dirt road shortly. From the junction, continue another 2.5mi. After a hairpin turn in the road (where the road crosses Fir Creek), park at a pullout next to a gate on the left. Do NOT block the gate; you will be ticketed or towed. '''Foot Approach''' Walk through the gate about 100 meters, and, when the slope looks less steep, bushwhack east down to the creek. Alternatively, walk down the road past the hairpin turn and find a spot along the straight stretch of road to cut into the brush down to the creek, spending about 20mins. creekwalking to the first rappel.",
+"exit": "Depending on your preference there's a couple of exit options to choose from: ====1. Longer, but easy and relaxed. (Vance Creek)==== Continue down Fir, and change out of canyon gear near the junction of Vance Creek. Then follow it upstream about 0.8mi to a bridge. Then hike the road 1.2mi back to your car. This route may not be possible when Vance Creek is running high. In summer, the creek runs quite low and it is easily waded. There are many dry braided channels on either side of the main watercourse. ====2. Short & tough. (2024 shortcut exit)==== Half way to Vance Creek exit Fir on the right, and bushwhack uphill to meet the road. It's steep and bushy, but creek-to-road is 25mins. ====3. Disliked disused road==== A short bushwhack from Vance Creek up to an old logging road. Note: this is a very thorny option, and takes as long as the Vance Creek exit."
+},
+{
+"canyon": "Fisher Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Apr-June, Oct-Nov",
+"Has_condition_date": "1/2026/7/12",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "150",
+"Has_number_of_rappels": "7",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Fisher_Creek",
+"Requires_permits": "No"
+},
+"approach": "From the switchback, head south, taking the path of least resistance down into a minor tributary creek that leads you down into Fisher Creek. The tributary some minor downclimbing but was largely open and brush-free. Approach to the creek takes about 5-10min. You'll drop in just below a minor 8ft drop just upstream. (No, there are no more drops upstream... we checked.)",
+"exit": "From the final rappel continue downstream about 10-15min to the road. Alternately, exit DCR up onto the ridge when you can. Passes through open forest and follow the nose down to the road. Declare victory."
+},
+{
+"canyon": "Fools Canyon (Olympic Peninsula)",
+"structured": {
+"Has_ACA_rating": "2C II  (<i>v1a4&nbsp;II</i>)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2022/7/23",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "0",
+"Has_number_of_rappels": "0",
+"Has_rating": "2C II  (<i>v1a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Fools_Canyon_(Olympic_Peninsula)",
+"Requires_permits": "No"
+},
+"approach": "Park at a pullout on either side of the bridge (47.31275, -123.45230) and hike down into the creek. Suit up and walk in. There's an easy way down on the south side just upstream of the bridge. * '''Checkpoint''' is the creek just under the bridge. * '''Optional''': drop a shuttle car at the exit (47.30299, -123.46395). There were a couple of pull-offs with room for one or two vehicles.",
+"exit": "'''Suggested exit''': Upon swimming the last pool in the narrows, the canyon opens up. Climb out onto the rocks DCL and locate a gully/drainage entering here. Start your way up the climber's right side of the gully, breaking off almost immediately to climb up the nose of a ridge. Follow game trails upwards (easy) for 100ft or so to a relatively flat bench. Bear left a bit on a gentle ascent until you reach the road. Mostly open forest and few obstructions. Once on the road, walk (or shuttle) 1mi back to your car at the bridge. (Jun 2021 - couldn't identify drainage. Bushwhacked straight up from ~150ft after the canyon exit, steep but after not too long it drastically plateaus-off, as you head into the forestry trees trend slightly left and up a easier climb to meet the road at the closest point. 20mins - much quicker than I had expected). '''Alternative exit''', taken from original beta: When you emerge from the lower end of the canyon continue downstream about a quarter mile. There is a very crude road (too rough even for four wheel drive) running closely along side the left side of the river. This road is not readily visible from the river so you will have to scramble a very short distance up the river bank to find it. Once on the road, follow it upstream as it parallels the river. It soon goes uphill and turns east. When you come to a good dirt road bear right, and you will be back to Forest Service Road 2341 in a quarter mile. Turn left to return to your vehicle. Either way, by the time you're back at the road you'll be missing that cool canyon water!"
+},
+{
+"canyon": "Fulton Creek",
+"structured": {
+"Has_ACA_rating": "3C1 II  (v4a3 <i>II</i>)",
+"Has_best_season": "Jun-Jul-Aug",
+"Has_condition_date": "1/2026/6/30",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "110",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C1 II  (v4a3 <i>II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Fulton_Creek",
+"Requires_permits": "No"
+},
+"approach": "Just north of Triton Cove State Park, turn left off Hwy 101 onto Seamount Dr. Follow the road upwards ~0.9mi where the pavement ends. The road gets very rough after this point. High clearance recommended (maybe 4WD); use extreme caution with low-clearance 2WD vehicles. * Please do NOT park in the pullout at the end of the pavement. While technically legal, there are several homes very close by. Some canyon groups parking here and hiking/carpooling up the road has led to conflicts with the local residents. To avoid problems and keep them happy, it's recommended to park elsewhere (ex: Triton Cove State Park - Discovery Pass required) and carpool to Fulton in a high-clearance vehicle. At the end of the pavement, continue up the rough dirt road for another 1.1mi to an obvious junction. Park here. There's room for a number of vehicles. (As of 2022, a large berm/ditch blocks the road and it is no longer possible to drive to the drop-in.)",
+"exit": "Below the log jam, creek walk approximately 15 minutes until you reach a shallow draw DCL and it becomes relatively easy to climb out. If it's steep & brushy, you're in the wrong place. Make your way uphill on a faint use trail to the canyon rim (~300ft gain). The going is relatively easy until you reach the top where the terrain abruptly levels out and you enter an old clear-cut. Don't try to cross the clear cut directly as it's a major bushwhack. Instead turn left and follow along the canyon rim as best you can. It's a little brushy, but not bad. After a few minutes, pop out on the road and walk back to your car. (2min)."
+},
+{
+"canyon": "Galena Creek",
+"structured": {
+"Has_ACA_rating": "3C1 I PG (v4a3 II)",
+"Has_best_season": "Dec-Jun",
+"Has_condition_date": "1/2026/4/25",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "114.8294",
+"Has_number_of_rappels": "1",
+"Has_rating": "3C1 I PG (v4a3 II)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Galena_Creek",
+"Requires_permits": "No"
+},
+"approach": "Walk north up the road until you locate a forming user trail leading up the embankment. (This is easier than climbing directly up from the creek.) Head up the very steep hillside (bushwhack) until you reach an obvious rock outcrop. Bear climber's right until it's easy to climb up on top of it. Head down the far side to drop back into the creek above R1. * Alternatively, start your descent right from road (R3).",
+"exit": "From the bottom of R5, exit on a forming user trail up the steep embankment DCL. Follow it directly upwards, following elk trails climber's right of the main ridge. When nearing the road at the top, bear back left to pop right out at your car."
+},
+{
+"canyon": "Goat Creek",
+"structured": {
+"Has_ACA_rating": "3C   (<i>v3a4</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_rating": "3C   (<i>v3a4</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Goat_Creek",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Goforth Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_condition_date": "1/2020/10/3",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "50",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Goforth_Creek",
+"Requires_permits": "No"
+},
+"approach": "The lower parking area is the bridge crossing the East Fork Humptulips River along FR 22. From here, hike or shuttle 0.1mi southwest then turn off on FR 2206. Follow for 1.6mi until it crosses Goforth Creek in a culvert. There's a pullout just past the culvert on the right with room for several vehicles. * The checkpoint is the East Fork Humptulips River from the bridge. Be sure it's running at a comfortable level for you before running Goforth.",
+"exit": "Exit is a dirty grovel up a steep eroded chute DCR under the bridge. There might be a better exit just downstream on either side of the river, but this option has not yet been explored. There is also the option to exit DCR at any flattish area in sight of the bridge to reach FR 2206 then hike back to the parking area."
+},
+{
+"canyon": "Hager Canyon",
+"structured": {
+"Has_ACA_rating": "3C2 III <i>R</i> (v5a4 II)",
+"Has_best_season": "July-Sep",
+"Has_condition_date": "1/2026/7/14",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "80",
+"Has_number_of_rappels": "14",
+"Has_rating": "3C2 III <i>R</i> (v5a4 II)",
+"Has_star_rating": "5",
+"Has_url": "https://ropewiki.com/Hager_Canyon",
+"Requires_permits": "No"
+},
+"approach": "From the parking area, head uphill into the forest and skirt the edge of the creek for several hundred feet along an obvious use trail. At about 2100' elevation, continue following the use trail and drop into the creek at S1 (46.58514, -121.65250).",
+"exit": "After exiting the lower technical section, keep going downstream. Below Feature 25, the creek opens up again. Look for a cairn atop a log DCL which marks an easy exit on a game trail up out of the drainage. This route out is a better long-term solution per combating erosion. The route out was well-marked in 2023. Once out of the drainage, contour left/west to pick up the obvious trail. Follow it downhill to a minor saddle at approx. 46.59072, -121.66043. From here, traverse west back over to the road through open forest. This connects with the approach trail or can short-cut to a shuttle car if you left one."
+},
+{
+"canyon": "Hall Creek",
+"structured": {
+"Has_ACA_rating": "3C1 II  (v3a3 I)",
+"Has_best_season": "May-Oct",
+"Has_condition_date": "1/2024/11/6",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "175",
+"Has_number_of_rappels": "5",
+"Has_rating": "3C1 II  (v3a3 I)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Hall_Creek",
+"Requires_permits": "No"
+},
+"approach": "From I-90, take exit 38. Drive to the parking location marked on the map (a small pullout just east of where Hall Creek crosses the road). This pullout is just uphill of the Olallie State Park parking lot, which requires a Discover Pass. This pullout, as well as the larger pullout for Change Creek and Deception Crags, does not require a Discover Pass. The trail starts from a small gate marked with a 'no shooting or motorized vehicles' sign. Hike up the trail and under the railroad grade bridge. You can get a good view of the creek from where the trail starts to switchback uphill just after the bridge. Go left at a fork to climb these switchbacks. The right side of the fork will take you to the exit. Follow the trail up to the Iron Horse Trail, then wrap around to the right to continue up until you come to the fork marked with the Zig Zag trail on the left and the Hall Creek trail on the right. Go right. The next fork will lead to the bottom of Hall Creek Falls (right) or above the falls (left). Go left, or use this spur trail to check out Hall Creek Falls (a large slab of a waterfall) and the flow. On the left trail, you will soon come to yet another fork. Here, go right, and you'll soon come to the creek a little ways above Hall Creek Falls. You can walk up the creek a little, but this is the location for the entrance to the technical section.",
+"exit": "On the small trail on the right, continue down the right side of the creek a short ways to reconnect with the main trail that leads quickly back to the pullout."
+},
+{
+"canyon": "Hancock Creek",
+"structured": {
+"Has_ACA_rating": "3C2 III PG (v4a4 II)",
+"Has_best_season": "May-Oct",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "160",
+"Has_number_of_rappels": "7",
+"Has_rating": "3C2 III PG (v4a4 II)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Hancock_Creek",
+"Requires_permits": "Yes"
+},
+"approach": "Turn off i90 at exit 27 and proceed to where North fork Road SE branches left (do not take SE 72nd St). At this point you are on a well maintained gravel road for 3.3 miles. Park at the spur 10 gate. At this point it is highly recommended to take bikes for the remainder of the approach as it turns the 2 mile forest road slog into a breezy 10-15 minute cycle. Don't forget to get your permit from the self serve kiosk (on the right side of the road 500 feet from the gate). Cycle or walk until you cross the NF Snoqualmie river (approx 1.5 miles), then take the right hand branch of the road and follow for a further 0.5 miles until you cross the bridge over Hancock Creek. If cycling, park your bikes in the woods and hike straight up the clear cut section of the forest under which the pipes for the hydro electric project are housed, it's steep but pretty easy going due to the short grass under foot. If you want to make it easier you can just walk the gravel road which switchbacks its way up the hill.",
+"exit": "After the final rap follow the creek through some nice narrows and then continue either creek walking or get out DCL and hike parallel to the creek through relatively open forest. When you see the bridge, hike out to the road DCL."
+},
+{
+"canyon": "Hinkle Tinkle Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Apr-May",
+"Has_condition_date": "1/2026/5/24",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "110",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Hinkle_Tinkle_Creek",
+"Requires_permits": "No"
+},
+"approach": "Parking options: * For Lower or Full Hinkle, drop a shuttle car at the very bottom. There are several pullouts and campsites along the main road once it turns to gravel. * Midpoint: there's a muddy parking area/campsite with room for 3-4 vehicles just before reaching the creek. * Top: This is the trailhead for Tatoosh South.",
+"exit": "From the bottom tier of R14, abruptly exit DCL. Follow logs and side-hill a short distance, ascending to cross the nose of the ridge. Find an old logging grade and follow it as it switchbacks upwards. At the top (re-entering public land), break off climber's right and bushwhack, descending east through relatively easy open forest. Eventually, reach a stream and descend the DCR side to locate a user trail that will take you to the bottom. Cross the squelchy swamp to the winter gate, and walk the road back to your car."
+},
+{
+"canyon": "Hopkins Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (v4a3 III)",
+"Has_best_season": "April-July, Nov-Dec,",
+"Has_condition_date": "1/2026/1/15",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "250",
+"Has_number_of_rappels": "9",
+"Has_rating": "3C III  (v4a3 III)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Hopkins_Creek",
+"Requires_permits": "No"
+},
+"approach": "Turn off onto Silverbrook Road and park in the pullout at the intersection. There's room for several vehicles. ===Visiting the Checkpoint=== From the parking area, walk north up Silverbrook Road 200ft. Note the first driveway on the right and the obvious trail heading up into the forest. Do NOT park here as it may upset the local residents. This is the exit trail and it's worth walking up the short 600ft to view the bottom of the last rappel. Please be respectful of the locals and avoid private property. Flow can also be checked at the highway bridge close to Silverbrook Road. ===Hiking Up=== From the cars, walk east along the shoulder of Hwy 12 for about five minutes. Several hundred feet after crossing Hopkins Creek watch for a dirt pullout on your left (beyond the road with houses that is on the left) and note a sandy trail blocked by fallen trees heading steeply up the embankment. Follow this dirty trail upward to reach the main trail in a couple hundred feet. The main trail is overgrown in summer, but push on through... it's not that bad and soon gets better. Follow the trail up to the end of a switchback at about 1700' - and proceed westerly off-trail until you reach Hopkins Creek. Depending on the season, you may cross a tiny seasonal stream before reaching Hopkins Creek. A good place to target is to drop into Hopkins just where a small tributary joins it at ~1800ft elevation.",
+"exit": "Trail is DCR that will take you back to the parking lot. Please avoid going directly down the creek as there are houses nearby."
+},
+{
+"canyon": "Howe Creek",
+"structured": {
+"Has_ACA_rating": "2C III  (<i>v1a4&nbsp;III</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "0",
+"Has_number_of_rappels": "0",
+"Has_rating": "2C III  (<i>v1a4&nbsp;III</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Howe_Creek",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Hughes Gorge",
+"structured": {
+"Has_ACA_rating": "2B II  (v2a2 III)",
+"Has_best_season": "Jul to Sep Best time",
+"Has_condition_date": "1/2025/8/2",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "40",
+"Has_number_of_rappels": "0",
+"Has_rating": "2B II  (v2a2 III)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Hughes_Gorge",
+"Requires_permits": "No"
+},
+"approach": "Please park where signage permits. Take extra caution to stay on trail for first the 0.4 miles, due to narrow easement through private property. Simply hike along the West Elwha Trail till you hike the bridge that crosses Hughes Creek then turn upstream to start hiking in the gorge.",
+"exit": "Same as approach just in reverse."
+},
+{
+"canyon": "Humptulips River (East Fork)",
+"structured": {
+"Has_ACA_rating": "2C III  (<i>v1a4&nbsp;III</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "0",
+"Has_number_of_rappels": "0",
+"Has_rating": "2C III  (<i>v1a4&nbsp;III</i>)",
+"Has_star_rating": "4",
+"Has_url": "https://ropewiki.com/Humptulips_River_(East_Fork)",
+"Requires_permits": "No"
+},
+"approach": "To get there take state highway 101 north from Hoquiam. Turn right on to Donkey Creek Road which is 3.6 miles north of where highway 101 crosses the Humptulips River. Follow the road for 13.1 miles, and turn left onto Forest Service Road 2206 which is unsigned. This road is just before Donkey Creek Road crosses the Humptulips River on a bridge. Follow road 2206. At 2.3 miles an old logging road takes off to the right. Go another two tenths of a mile to another logging road on the right, and park. Hike the old road down hill as it switchbacks through a clearcut. When the road ends, bushwack downhill towards the river. You can hear the river, so it\u2019s not hard to find. The brush is pretty nasty at first, but it opens up as you near the river. There is a second less brushy approach to the river. From Donkey Creek Road follow road 2206 3.2 miles and park. There is a faint trail (the remains of an old logging road) that takes off to the right. The trail fades out in 100 yards, but you can bear right and follow elk trails down to the river. This approach is shorter, but it reaches the river about three quarters of a mile upstream of the above approach.",
+"exit": ""
+},
+{
+"canyon": "Koda Creek",
+"structured": {
+"Has_ACA_rating": "3C1 II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Apr-Jul, BEST in May-June",
+"Has_condition_date": "1/2025/6/8",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "200",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C1 II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Koda_Creek",
+"Requires_permits": "No"
+},
+"approach": "From the Paradise Creek Campground, follow the Wind River Rd north towards Old Man Pass for 3mi. Turn off left on FR 102 (approx. UTM 10N 582950mE 5092285mN)and follow it for 1.2mi to a saddle just above Koda Creek. Watch for elk. From the parking area, bushwhack west (easy) for 0.25mi to drop into the creek. Go downstream a few hundred feet to reach the place where Koda Creek abruptly drops off into the valley. A nice area of bedrock marks the final approach to the falls. * Checkpoint is right at the top of the falls.",
+"exit": "Sadly, Koda Creek is short & sweet. Head downstream about 0.15mi, passing some large house-sized boulders. On the DCL side of the creek watch for an obvious gully which is the best-looking place to exit the creek that you\u2019ve seen yet. Follow the gully up and out of the creek, and, when you can, climb up onto the nose of the ridge to climber\u2019s left. Head on up the ridge (steep) wherever is easiest until reaching a headwall. This is the crux of Koda. Bear slightly left into a dirty gully and grovel your way up perhaps 100ft, digging out steps for footholds, until the terrain eases off. For safety, might be good for the first person up to trail a rope, then tie it off to a tree up at the top. Rope can then be used to ascend out by the rest of the team. Above the headwall, walk through open forest (easy) trending northeast. Follow an obvious mini-ridge that appears on your left. Circle around a large bowl-like collapsed area to you right/south (possible old landslide where the hillside gave way). Follow it northeast for two minutes to reach the road and walk back to your car. * It might not be a bad idea to visit the top of the exit gully before descending Koda and set a rim rope to make the life easier. Top of the gully is at approx. UTM 10N 581447mE 5091210mN. * More exploration of the area might locate an easier route up through the cliffs...? * Another option is to hike the creek out to a shuttle down on FR 30. This has not been explored and looks long."
+},
+{
+"canyon": "Lake Creek Narrows",
+"structured": {
+"Has_ACA_rating": "<i>3C2</i> I  (v2a5 <i>I</i>)",
+"Has_best_season": "Mar - Nov",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_rating": "POI <i>3C2</i> I  (v2a5 <i>I</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Lake_Creek_Narrows",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "LeBar Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (v2a3 III)",
+"Has_best_season": "Summer-Fall",
+"Has_condition_date": "1/2025/7/20",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "30",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C III  (v2a3 III)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/LeBar_Creek",
+"Requires_permits": "No"
+},
+"approach": "A short shuttle is required for the full canyon route. Park your lower shuttle car at the Skokomish Lower South Fork Trail (47.418833, -123.329241). Arrive early for parking. The area right around the bridge seems to be super popular with locals who camp down by the creek. Shuttle to the upper parking area (~2mi). The road gets brushy just before the end. If you have a vehicle you care about, there are a couple of pullouts (room for 2-3 vehicles) just before it gets brushy. From the pullouts, it's a 2min walk to a mediocre campsite at the end of the road. From the campsite, climb over the berm at the north end and follow an easy walk through an old brushy logging grade (aka decommissoned road) northwards about 0.6mi. As of 2024, the path through has become noticeably more overgrown. Some clearing/maintenance may be beneficial at some point. The trail will cross two tributary creeks. Scramble down the second tributary creek until you reach LeBar Creek. There's a good suit-up spot on the far side of the creek. To add another 30 minutes of floating & pretty creek walking, stay on trail and cross the second tributary, then drop in to the creek when you reach a large obvious washout. * It is likely possible to drop in to the lower section of the creek via LeBar Horse Camp, but has not been confirmed.",
+"exit": "Continue down the creek until LeBar Creek intersects Nfdr 2340 and walk back to car (likely parked at Lower South Fork Skokomish Trailhead). This should take around 30 minutes. Note: It is possible to exit the canyon earlier by taking the alternative exit leading up to LeBar Horse Camp (as indicated on the map). Taking this exit will take about 25 minutes and does not save time or energy as it is an uphill brushy exit following an overgrown \"trail.\" ''Don't do it!'' It is easier and faster to follow the creek down to the bridge. Just before the bridge, a short trail exits up DCR right to the parking area by the restroom."
+},
+{
+"canyon": "Lena Creek",
+"structured": {
+"Has_ACA_rating": "3C1 II  (<i>v3</i>a3 III)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2026/7/8",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "95",
+"Has_number_of_rappels": "7",
+"Has_rating": "3C1 II  (<i>v3</i>a3 III)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Lena_Creek",
+"Requires_permits": "No"
+},
+"approach": "From the Upper Approach, continue down canyon. There is a 0.5 mile creek walk with some small slides and jumps prior to the first rappel. Utilizing the Lower Approach line saves approximately 0.5 mi on trail and 0.5 mi of creek walk without missing the technical portions of the canyon. Can be accessed without a rappel into the creek.",
+"exit": "Continue down canyon through the boulder garden and creek scramble for 0.20 miles or use way trail DCR until you see the bridge where Lena Creek meets NF-25."
+},
+{
+"canyon": "Little Goose Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Aug-Sept",
+"Has_condition_date": "1/2023/8/3",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "65",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Little_Goose_Creek",
+"Requires_permits": "No"
+},
+"approach": "Parking options: * There is a small pullout on the east side of FR 88 just south of the bridge over Little Goose Creek. This pullout can accommodate one car. * About 300ft south of the bridge on the west side of FR88 is a small spur road / dispersed camping site with plenty of room for a few vehicles. * A few hundred yards further is a spur road branching off to the southwest with plenty of room on the shoulder for parking. From the pullout above, follow a user trail into the forest along the south side of the creek. Go a few hundred feet and locate a steep dirty scramble trail (scramble down or rappel) that drops immediately into the drainage below the bridge. R1 is a few minutes walk downstream.",
+"exit": "On reaching the confluence with Trout Lake Creek, the flow triples. Continue downstream another 100ft or so. There might be an easier way out further downstream(?), but we exited DCR directly up a steep forested slope bearing slightly climber's right on the ascent to detour around a cliff band. * Just to climber's left on the same set of cliffs is a small cave; perhaps 20ft deep. Bear prints were found in the wet dirt inside the cave in Aug 2017. Continue your way up generally open forested slopes for several hundred vertical feet. We followed an old trail (elk trail) along the north edge of a clear cut, but instead of following trails all the way back to the bridge as described in the original beta, we pushed on up along the west side of the clear cut and exited to FR88. Easy hike back along the road."
+},
+{
+"canyon": "Little Mashel River",
+"structured": {
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Little_Mashel_River"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Lookingglass Creek",
+"structured": {
+"Has_ACA_rating": "3C2 IV  (v4a5 II)",
+"Has_best_season": "Jul-Sep",
+"Has_condition_date": "1/2020/8/28",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_rating": "3C2 IV  (v4a5 II)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Lookingglass_Creek",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Looky here",
+"structured": {
+"Has_ACA_rating": "4C I  (v3a3 I)",
+"Has_best_season": "Jan-May",
+"Has_condition_date": "1/2025/3/19",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "120",
+"Has_number_of_rappels": "7",
+"Has_rating": "4C I  (v3a3 I)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Looky_here",
+"Requires_permits": "No"
+},
+"approach": "Drive on NF-23 until you pass the Blue Lake campground. About 2 miles later you'll see a spry painted arrow and the word \"LOOK!\" on the road pointing to the left side. You'll then pass the drainage and park at the pull off. The approach is on the lookers left side of the creek. Just walk next to the creek and drop in wherever you feel is best. We started at 46.37619, -121.72176 so that's where this beta will start. There is an additional rappel above it, up to you if you want to fight for it. We didn't.",
+"exit": "Walk across the street back to your car."
+},
+{
+"canyon": "Lower Fulton Creek",
+"structured": {
+"Has_ACA_rating": "3C1 II  (v3a3 IV)",
+"Has_best_season": "Jul-Aug-Sep",
+"Has_condition_date": "1/2026/7/6",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "40",
+"Has_number_of_rappels": "7",
+"Has_rating": "3C1 II  (v3a3 IV)",
+"Has_star_rating": "4",
+"Has_url": "https://ropewiki.com/Lower_Fulton_Creek",
+"Requires_permits": "No"
+},
+"approach": "Just north of Triton Cove State Park, turn left off Hwy 101 onto Seamount Dr. Follow the road upwards ~0.9mi where the pavement ends. The road gets very rough after this point. High clearance recommended (maybe 4WD); use extreme caution with low-clearance 2WD vehicles. (2025: the road has deteriorated at this first section, so it's less of a recommendation and more of a requirement). * Please do NOT park in the pullout at the end of the pavement. While technically legal, there are several homes very close by. Some canyon groups parking here and hiking/carpooling up the road has led to conflicts with the local residents. To avoid problems and keep them happy, it's recommended to park elsewhere (ex: Triton Cove State Park - Discovery Pass required) and carpool to Fulton in a high-clearance vehicle. At the end of the pavement, continue up the rough dirt road for another 0.3mi to a pullout on the right with room for several vehicles.",
+"exit": "Below the final rappel, the canyon abruptly opens out. There's a nice place DCL to change out of wetsuits. * On the DCL/north side of the creek, a very nice, well-maintained trail heads off downstream. ''Do not go this direction!'' The path leads quickly onto private property. Plans are currently afoot to contact the local land owner regarding access. This page will be updated when new information becomes available. (With a good exit and car shuttle, Lower Fulton would be amazing.) * Instead, exit the creek abruptly DCL, and make your way directly north, bushwhacking up a ridge. The distance is .3 miles and elevation gain back to the road is 430 feet, it is steep and unrelenting. Keep a northerly course to stay on timber company land. Ascend the initial section of the exit route until you reach a relatively flat area. This section is slightly overgrown, but offers a clear view of the next climb. Press onward, finding the most direct route upward. A game trail is present in this area, which significantly eases the climb once located. The top of this ascent brings you to another flat area, marking the false summit. From here, the houses of neighboring residents will be visible, so be sure to keep left as you navigate toward the road. A final short but steep climb remains, with some brushy sections. While a trail has been cut, some areas with lighter brush may still require attention. The exit should take approximately 45-60 minutes to complete. Upon intersecting Fulton Creek Road, walk back to your waiting vehicle (~2min). Declare victory."
+},
+{
+"canyon": "Madison Falls",
+"structured": {
+"Has_ACA_rating": "3C III  (v4a3 I)",
+"Has_best_season": "Most of the year except for heavy rain",
+"Has_condition_date": "1/2026/1/17",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "100",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C III  (v4a3 I)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Madison_Falls",
+"Requires_permits": "No"
+},
+"approach": "Park at Madison Falls Trailhead, often is quite a full parking lot. Checkpoint: Head up the trail for Madison Falls (it is a short 5-minute walk to the falls), at the end you\u2019ll see R6. Start heading up the road. Turn off the road to start heading up the bypass trail. Turn onto Cascade Rock Trail and start making your way up. Use the pin to find the ridge that will take you down to the creek. The approach could potentially be shortened a bit by continuing to navigate north instead of heading east up the switchbacks, the first rap is marked on the map. I have not explored that route but it looks like it would probably go with some careful navigation.",
+"exit": "Walk back via the paved trail."
+},
+{
+"canyon": "Malachite Canyon",
+"structured": {
+"Has_ACA_rating": "3B   (<i>v3a2</i>)",
+"Has_best_season": "June-Sept",
+"Has_condition_date": "1/2018/8/4",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "200",
+"Has_number_of_rappels": "11",
+"Has_rating": "3B   (<i>v3a2</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Malachite_Canyon",
+"Requires_permits": "No"
+},
+"approach": "Follow the tracks until you reach the bottom of the first waterfall -- this will be fairly straightforward consisting of easy forest and stream walking. Enjoy the thimble berries and prepare for the slog up. Proceed to bushwhack your way DCR until the drop-in point. The approach is steep and often times requires grabbing onto salal and branches for stability. Try to stay on the crest of the mountain until you reach the elevation 3500'. Gear up and prepare to use any number of trees to rappel down into the canyon. Cutting too soon into the canyon will result in some pretty heinous cliff navigation. The mosquitos are quite aggressive, particularly at the parking spot and at the bottom of the last waterfall.",
+"exit": "Follow the same approach route to get back to the car. You may find it easier to follow the stream bed entirely."
+},
+{
+"canyon": "Marble Creek",
+"structured": {
+"Has_ACA_rating": "3C1   (<i>v3a4</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "100",
+"Has_number_of_rappels": "2",
+"Has_rating": "3C1   (<i>v3a4</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Marble_Creek",
+"Requires_permits": "No"
+},
+"approach": "From a large pullout on Hwy 503 just east of Marble Creek, follow a faint trail upstream on Marble Creek 700ft to the base of Marble Falls.",
+"exit": "Take steep scramble path up to viewing deck and follow Marble Creek trail to Merwin Park."
+},
+{
+"canyon": "Marten Creek (Alpine Lakes)",
+"structured": {
+"Has_ACA_rating": "3C IV  (<i>v3a4&nbsp;IV</i>)",
+"Has_best_season": "July-Sept",
+"Has_condition_date": "1/2018/9/14",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "164.042",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C IV  (<i>v3a4&nbsp;IV</i>)",
+"Has_star_rating": "4",
+"Has_url": "https://ropewiki.com/Marten_Creek_(Alpine_Lakes)",
+"Requires_permits": "No"
+},
+"approach": "Take exit 34 from I-90 and take 468th Ave SE north. Turn right onto SE Middle Fork Rd (NF 5600) and take all the way to the Snoqualmie Lake/Taylor River Trailhead. You will need a Northwest Forest Pass to park at the trailhead. Hike (or bike) the Snoqualmie Lake/Taylor River Trail 3 mi (5 km) to Marten Creek. Take a look at the creek on the bridge before heading back up the trail (the way you came) to the Marten Creek Trail, which heads uphill west of the creek. Take the trail 1 mi up to Marten Lake. Enter the creek just downstream of the lake. The Taylor River trail is open to mountain bikes and is easy-moderate singletrack depending on recent washouts.",
+"exit": "After reaching the bridge across Marten Creek on the Taylor River Trail, hike or bike back to the trailhead following the same route used on the approach."
+},
+{
+"canyon": "Mashel River",
+"structured": {
+"Has_ACA_rating": "2A II  (<i>v1a1&nbsp;II</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "0",
+"Has_number_of_rappels": "0",
+"Has_rating": "2A II  (<i>v1a1&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Mashel_River",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Middle Fork Big Creek (Olympic Peninsula)",
+"structured": {
+"Has_ACA_rating": "3C I  (v2a3 III)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2023/7/23",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "25",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C I  (v2a3 III)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Middle_Fork_Big_Creek_(Olympic_Peninsula)",
+"Requires_permits": "No"
+},
+"approach": "From the parking area, just walk up the road on the north side of the creek. Keep going up until the road flattens out and bends right (all of five minutes). Break off the road and thrash down into the creek wherever is easiest. * You could shuttle, but parking is limited up there. It's so short, why bother? * Checkpoint is the falls visible from the parking area. * The road is right above the canyon all the way up. It's possible to take a peek down into the canyon in places to see what you're in for.",
+"exit": "Upon reaching the culvert, look DCR to find a user trail leading directly up to the road."
+},
+{
+"canyon": "Miller Creek",
+"structured": {
+"Has_ACA_rating": "4   (<i>v4</i>)",
+"Has_best_season": "Mid spring to early summer",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "115",
+"Has_number_of_rappels": "7",
+"Has_rating": "4   (<i>v4</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Miller_Creek",
+"Requires_permits": "No"
+},
+"approach": "(46.0236852, -121.9653963)",
+"exit": ""
+},
+{
+"canyon": "Mosquito Creek (South Cascades)",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2023/9/4",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_number_of_rappels": "5",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Mosquito_Creek_(South_Cascades)",
+"Requires_permits": "No"
+},
+"approach": "Park as per Langfield Falls trailhead at Big Tire Junction. This is a semi-popular trailhead with a short trail that leads to both the top & bottom of R1. Short 1min approach from the parking area to the top of the falls. '''Aug 2017: FYI: FR88 is washed out 7mi north of the Langfield trailhead. Road is closed.''' Don't try to come from that direction. Best approach is from Carson or Trout Lake.",
+"exit": "Below Lower Langfield Falls, head downstream a few hundred yards through some nice bedrock. The creek turns a corner left, then right. Note the large low-angle ridge DCR that comes all the way down to the water. Climb up to find a very nice elk trail that heads directly up the ridge and out of the canyon. From here it's easy walk through open forest to FR 88. Walk back on the road to your car. * Extra bonus points: hike the short interpretive loop at the Basket Tree historical site en route back."
+},
+{
+"canyon": "Mouse Creek",
+"structured": {
+"Has_ACA_rating": "2C II  (<i>v1a4&nbsp;II</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "0",
+"Has_number_of_rappels": "0",
+"Has_rating": "2C II  (<i>v1a4&nbsp;II</i>)",
+"Has_star_rating": "1",
+"Has_url": "https://ropewiki.com/Mouse_Creek",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Murhut Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (v4a3 III)",
+"Has_best_season": "Jun-Sept",
+"Has_condition_date": "1/2026/5/17",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "130",
+"Has_number_of_rappels": "8",
+"Has_rating": "3C III  (v4a3 III)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Murhut_Creek",
+"Requires_permits": "No"
+},
+"approach": "From the trailhead, a large pullout on the north side of the road, follow the signed trail 0.8mi to Murhut Falls. The view from bench is the checkpoint. To get to the top of the big falls, head up the steep wooded slopes behind the upper viewpoint. Bear gradually right as you gain elevation until well above the falls. If it's not easy, you're in the wrong place. Head downhill to the creek just upstream of the waterfall. It's a little steep, but easy, as the forest is very open and there is hardly any brush. For Upper Murhut starting by walking up the forest road past trailhead for about 2.5 miles, then hop off the road and head down the steep slope to the creek. Marked on the map is the way we tried it, but might be easier to take the abandoned road that the slope shade in CalTopo implies is there.",
+"exit": "From the confluence of Murhut Creek and Duckabush River, exit the canyon DCR. Bushwhack up the slope, trending southeast. Ascend the slope for about 200ft until you encounter an old logging road grade (described as FR 032 on FS topo maps from 2016). Follow this mostly level grade east until it eventually intersects FR2530. The grade is overgrown but a use trail is developing. The overgrown road hike takes about 30 minutes to get to Lower Parking. * Alternately, you can float/ creek walk down the Duckabush River to the bridge if you placed a shuttle vehicle at Lowest Parking. At high flow the river swim is not recommended. At low flow the river swim is not recommended due to foot entrapment. '''SOMEONE ON THE TEAM SHOULD BE TRAINED IN SWIFTWATER RESCUE''' if swimming the river. Foot entrapment is the number one cause of river fatalities. The best thing about Murhut Canyon may be the after-canyon swimming hole at the bridge. There is a rope swing and jumping platforms from 10' to 20'. A great place to cool off and clean off your wetsuit and gear."
+},
+{
+"canyon": "Nash Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (v2a3 III)",
+"Has_best_season": "Winter & Spring",
+"Has_condition_date": "1/2020/3/7",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "70",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C II  (v2a3 III)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Nash_Creek",
+"Requires_permits": "No"
+},
+"approach": "From the bottom shuttle point where the creek flows beneath the road (46.4339, -121.9410), drive east along forest road 76 for 1.15 miles and take a right onto forest road 77. Follow the road up the hillside for about 3 miles to where the road crosses the creek (46.4248, -121.9403). Park and suit up at the road.",
+"exit": ""
+},
+{
+"canyon": "Neat Canyon",
+"structured": {
+"Has_ACA_rating": "3C III  (v3a3 <i>III</i>)",
+"Has_best_season": "Early Summer",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "90",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C III  (v3a3 <i>III</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Neat_Canyon",
+"Requires_permits": "No"
+},
+"approach": "We parked acrossed the exit and walked 5 miles. 1 mile on FS 28 and then crossed Pinto creek via a log. Walked the old logging road that dead ends at the drop in, roughly at 3,300 elevation. The 28 was in drivable shape.",
+"exit": "Cross Pinto Creek and climb a steep hillside to the left of a prominent cliffband and back to the 28road"
+},
+{
+"canyon": "Noochee Creek",
+"structured": {
+"Has_ACA_rating": "3C1 I  (<i>v3a4&nbsp;I</i>)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2023/10/28",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "45",
+"Has_number_of_rappels": "5",
+"Has_rating": "3C1 I  (<i>v3a4&nbsp;I</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Noochee_Creek",
+"Requires_permits": "No"
+},
+"approach": "Park in a pullout just west of the bridge. Hike west along the road about 0.3mi (you could shuttle, but why bother?), then turn off right up the old decommissioned road grade (marked as FR 640 on Forest Service maps; FR680 on the east side is also decommissioned). Hike the old road upwards about 0.4mi, then turn off and make your way down open forested slopes to the creek. If look around you should be able to find a place where you can walk right into the creek above R1.",
+"exit": "Upon reaching the bridge, exit wherever is easiest up to the road."
+},
+{
+"canyon": "North Fork Granite Creek",
+"structured": {
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[Eastern Washington]] ([[:Washington|Washington]])",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/North_Fork_Granite_Creek",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "One and a Half Mile Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "150",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/One_and_a_Half_Mile_Creek",
+"Requires_permits": "No"
+},
+"approach": "From Highway 101 going south from Quilcene, take a right on Rocky Brook Road (FR 2620). The road leads SW uphill and crosses One and a Half Mile Creek at approx. 2 miles. There are several options for accessing this creek. One is to hike down an abandoned logging road that starts approx. 3/4 of a mile up Rocky Brook Road. The other options are to start your descent where the road crosses One and a Half Mile Creek or the unnamed tributary just before One and a Half Mile Creek on Rocky Brook Road. The advantages of taking the abandoned logging road are that you will be about a mile closer to your car when you exit the Big Quilcene at Rainbow Campground. The logging road will take a sharp eye to identify as it veers off to the right from Rocky Creek Road. The hike down the logging road is level all the way to One and a Half Mile Creek. However it does require some bushwhacking as nature is working fast to reclaim this road.",
+"exit": "Follow the Big Quilcene downstream about a mile and locate the trail that leads up to the Rainbow Campground. The trail can be easy to miss. If you didn't stash a shuttle car here, hike back up Rocky Brook Road to your vehicle."
+},
+{
+"canyon": "Palouse Canyon",
+"structured": {
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[Eastern Washington]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "200",
+"Has_rating": "POI",
+"Has_star_rating": "4",
+"Has_url": "https://ropewiki.com/Palouse_Canyon",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Panther Creek",
+"structured": {
+"Has_best_season": "Jul-Sep",
+"Has_condition_date": "1/2025/3/21",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_rating": "POI",
+"Has_star_rating": "5",
+"Has_url": "https://ropewiki.com/Panther_Creek",
+"Requires_permits": "No"
+},
+"approach": "Look for a large gravel quarry / pullout on the south side of FR-65. A maintained trail leads down on the north side of the road, although it's easy to miss. It's located right along the road about 50ft west of the parking area. There may or may not be a sign indicating the way to the falls. The Forest Service seems to have an ongoing war with the locals -- as soon as a new sign goes up, it promptly disappears. The maintained trail switchbacks down to the top of a beautiful viewing platform overlooking the main falls.",
+"exit": ""
+},
+{
+"canyon": "Paradise Creek",
+"structured": {
+"Has_ACA_rating": "3C1 III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Jun-July",
+"Has_condition_date": "1/2025/6/8",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "125",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C1 III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Paradise_Creek",
+"Requires_permits": "No"
+},
+"approach": "Expect the approach to take at least an hour. Getting through the clear cut up at the top is the worst part. Once into open forest, travel goes a lot faster. Alternatively, walking up the creek via Wind River rd isn\u2019t terrible. Very mellow until you hit the landslide area. Creek bed could be a distraction as it is loaded with agates.",
+"exit": "Get ready for a serious workout as you need to ascend / bushwhack up some Very Steep slopes DCR up about 1000ft to get back to the plateau and make your way back to the car. Literally going on all fours is easier in some place as it's so steep. Another equally unpleasant option might be stream-walking ~2mi the road at the Paradise Creek campground. Hope you've got a shuttle."
+},
+{
+"canyon": "Pothole Surprise",
+"structured": {
+"Has_ACA_rating": "3C I  (v3a3 I)",
+"Has_best_season": "May to Oct",
+"Has_condition_date": "1/2023/9/2",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "50",
+"Has_number_of_rappels": "1",
+"Has_rating": "3C I  (v3a3 I)",
+"Has_star_rating": "1",
+"Has_url": "https://ropewiki.com/Pothole_Surprise",
+"Requires_permits": "No"
+},
+"approach": "Park at the Olympic Discovery Trail parking area. From here, head east about 2min along the bike trail to reach the bridge. Cross, and on the far side, follow an obvious social trail on your right that curves down to the creek.",
+"exit": "When you see a large cliff up ahead, that's the end of the technical section. Exit the creek DCL and make your way back up the west side of the creek. The user trail gets better as you ascend, and eventually find your way back up to the bike trail."
+},
+{
+"canyon": "Prairie Creek",
+"structured": {
+"Has_ACA_rating": "3C1 II  (v3a3 II)",
+"Has_best_season": "June-July",
+"Has_condition_date": "1/2024/8/7",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "70",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C1 II  (v3a3 II)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Prairie_Creek",
+"Requires_permits": "No"
+},
+"approach": "Turn onto NF-2325 on the south side of NF-23. Cross the bridge over East Canyon Creek. Just past the large clearing on your left, take a right on the dirt road heading up the hill. Continue for several minutes until the road ends abruptly at a campsite. Park here for the exit. Take a shuttle back down the dirt road, make a right, and continue for about 2.5 miles. Park your vehicle where the road crosses a stream. Just before the stream is a pullout with room for several vehicles.",
+"exit": "After the last drop, there will be around a half hour of slippery creekwalking and logjam navigating. Soon you'll come to a significant logjam in the creek. The creek takes a sharp right after this logjam. Around 100' further downstream, cut up into the brush on CR. Expect some bushwhacking. Once it flattens out a bit, parallel the creek for a few minutes. You'll eventually come across a clearing that is an extension of the old road where you parked your shuttle vehicle. Although overgrown, it's easy walking back to the vehicle."
+},
+{
+"canyon": "Prospect Creek (Washington)",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "40",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "1",
+"Has_url": "https://ropewiki.com/Prospect_Creek_(Washington)",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Prospector Creek",
+"structured": {
+"Has_ACA_rating": "3C I  (<i>v3a4&nbsp;I</i>)",
+"Has_best_season": "Jun-Aug",
+"Has_condition_date": "1/2023/8/26",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "60",
+"Has_number_of_rappels": "1",
+"Has_rating": "3C I  (<i>v3a4&nbsp;I</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Prospector_Creek",
+"Requires_permits": "No"
+},
+"approach": "===Driving=== From Hwy 14 in Washougal, WA take the Washougal River Road north to Dougan Falls. Continue on the same road, now good dirt/gravel, for another 8.3mi to a T-junction. Turn left and continue 1.4mi to where a new logging bridge crosses Prospector Creek (might be dry in summer). There is a parking area/campsite just before the bridge. Drive-time is about 1hr. ===Hike In=== Behind the remains of the old bridge which once crossed the creek here, hike the ATV trail about 1mi to Prospector Falls. There are two creek crossings along the way, plus you'll pass the remnants of two more older bridges back when this was a road. Easy walk that takes maybe 15min.",
+"exit": "Just below Washougal Falls beach area, look for a cut log on the east bank (DCL). Scramble up a rock here to find a user trail leading back up to the ATV track. It was flagged in 2023. Follow the track back to your car."
+},
+{
+"canyon": "Proverbial Creek",
+"structured": {
+"Has_ACA_rating": "3B II  (<i>v3a2&nbsp;II</i>)",
+"Has_best_season": "Spring",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "70",
+"Has_number_of_rappels": "4",
+"Has_rating": "3B II  (<i>v3a2&nbsp;II</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Proverbial_Creek",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Purcell Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Spring",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "60",
+"Has_number_of_rappels": "1",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "1",
+"Has_url": "https://ropewiki.com/Purcell_Creek",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Queets Canyon",
+"structured": {
+"Has_ACA_rating": "3C   (<i>v3a4</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "125",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C   (<i>v3a4</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Queets_Canyon",
+"Requires_permits": "No"
+},
+"approach": "To descend the canyon you will need to get to the headwaters of the river at Queets Basin. There are several ways of doing this. By any route it is a long hike that will take two days and possibly more. One route is to hike the Elwha River trail to Elwha Basin. Climb northwest to Dodwell Rixon Pass and descend to Queets Basin. A shorter route is to hike the trail up the North Fork of the Quinalt River. Follow the trail over Low Divide, join the Elwha River trail , and continue as above. Once in Queets Basin, follow the river downstream for about two miles to the canyon. * Sidebar: We descended from Queets Basin to the Elwha Trail as part of the high alpine Baily Traverse in September 2018. We made it through successfully, but it was probably one of the more dangerous parts of the route. The drainage below Dodwell-Rixon Pass collects avalanche snow off the sides of Mt. Queets and Mt. Barnes throughout the winter season. This used to be a reliable \"snow finger\" allowing climbers access to the pass above. With a warming climate, however, the NPS has been discouraging use of this route. Flowing water under the snow can carve out huge tunnels, and passing through them is not always feasible. Climbing over them can be seriously sketchy. Climbers descending from the pass usually exit the drainage and bypass DCR to avoid technical terrain & waterfalls near the bottom. We found a user trail passing over a high point and descending the slopes into Elwha Basin, then it was full on thick bushwhacking to find the trail down to the confluence. Anyone seriously interested in this route should take a look at descriptions of this area as outlined in the Bailey Traverse. A few pictures of the Elwha Snow Finger in September 2018:",
+"exit": "The canyon is about a mile long. Once through the canyon (assuming that you make it) you have two choices for your return route. You can leave the river, ascend slopes on its west, and make a difficult traverse high above the canyon and return to the river above the canyon. This would enable you to return the same way you came. Read Mike\ufffds account for an idea of what that is like. An easier option is to follow the Queets River downstream. Allow at least three days to reach the road. Maps: USGS Mount Queets, Mount Olympus The following photos were provided by Mike MacFerrin. More fine photos can be seen at http://community.webshots.com/user/gobluehiker and at his website www.rainforesttreks.com ^Both Sites seem to also be no longer up, way back couldn't recover anything from them either"
+},
+{
+"canyon": "Rachor Creek",
+"structured": {
+"Has_ACA_rating": "3C IV  (<i>v3a4&nbsp;IV</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_condition_date": "1/2026/6/28",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "300",
+"Has_number_of_rappels": "7",
+"Has_rating": "3C IV  (<i>v3a4&nbsp;IV</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Rachor_Creek",
+"Requires_permits": "Yes"
+},
+"approach": "For the lowest pay-to-play ratio paying for a parking permit from Campbell Global logging company is the best way to go. If doing so, the exit hike becomes a 60 second walk and the approach hike is about 20 minutes. For the approach the drop in is JUST BELOW THE CANDY CANE shaped tube on the logging road. A pretty visible use trail has emerged to zig zag down to the watercourse right at rappel 1. If parking behind the gate, it will add several hours to your day. Total hiking approach is between 3.5 and 4 miles each way. The approach is on good logging roads, but cannot be driven without a motorized access pass and gate key. Mountain bikes make a great option for the approach, but retrieval can be complicated if exiting via option #1 or option #3. To get there take I-90 to exit 31 North Bend. Go 3.6 miles on North Bend Way and turn left on to Ballarat Ave. North. In 0.7 mile the main road turns right and becomes NE 12th Street. Go another half mile and the main road turns left and becomes 428th Ave SE. Follow the road for 2.9 miles. The name of the road changes to SE North Fork Road. After 2.9 miles you come to an intersection of North Fork Rd. SE and SE Ernie\u2019s Grove Road. Bear left and drive up hill 0.4 mile to where the pavement ends. Continue about four more miles and you come to a major intersection with a gated road on the right. This is gate 11. From the gate, walk or bike about a mile and a half and cross the North Fork Snoqualmie River on a bridge. Turn right and go about a mile to an intersection. This is a good place to stash bikes if you are planning to complete the upper canyon or have figured out exit #2.",
+"exit": "'''Upper Section''' If only doing the upper canyon proceed DCR from below Old Spur Falls and follow the overgrown logging road back to the log pile near SMC falls. '''Lower Section''' After the big falls, bag up your rope and get ready for some of the best downclimbing around. Downclimb about 1,000 feet or so until the first place the walls relent and there is a steep bear trail visible on DCR. 47.5445, -121.7115. Scramble and side step up a steep and very soft slope until you reach the edge of the clear cut. Stay on the faint bear trail most of the way. Stay out of the clear cut for easy hiking under the canopy near the top of the canyon ridge until you reach the cars. Resist the tendency to go left."
+},
+{
+"canyon": "Razzle Dazzle Creek",
+"structured": {
+"Has_ACA_rating": "3C I  (v4a3 II)",
+"Has_best_season": "Winter, Spring, Early Summer",
+"Has_condition_date": "1/2025/5/17",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "150",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C I  (v4a3 II)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Razzle_Dazzle_Creek",
+"Requires_permits": "No"
+},
+"approach": "To get to the creek, drive up FR 63 as if you were going to run Davis. The road crosses the creek about 2.8 miles in. Park anywhere along the road here. The final falls is visible from the road. * Update 2023: Close to the falls are a couple of small rock slides. It's passable, but larger vehicles squeaking through might lose some paint. The approach begins just around the bend in the road past the creek. The approach is straightforward and parallels the creek for ~0.25mi, gaining ~500' of elevation. Pass numerous burrows of ground-dwelling varmints. You'll likely get views of the upper set of falls on your way up. Drop in to the creek at around 2,600'.",
+"exit": "What exit? Walk down the creek to your car (30s)."
+},
+{
+"canyon": "Ring of Fire (Olympics)",
+"structured": {
+"Has_ACA_rating": "2 I  (<i>v1&nbsp;I</i>)",
+"Has_best_season": "Jul-Sept",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "0",
+"Has_number_of_rappels": "0",
+"Has_rating": "POI 2 I  (<i>v1&nbsp;I</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Ring_of_Fire_(Olympics)",
+"Requires_permits": "No"
+},
+"approach": "Turn off the Wynoochee River Road (FR 2270) about 4.5mi south of FR22 (road leading to the Wynoochee Dam). Follow the old RR grade (now road) in about 2mi. Find a place to park off the road. * Top of the South Trail: 47.32989, -123.64236 * Top of the North Trail: 47.33012, -123.64335 - just a stone's throw further down the road on the left. Follow the obvious user trails down to the wreck.",
+"exit": "Return the way you came."
+},
+{
+"canyon": "Rock Creek (Alternate, South Cascades)",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Spring",
+"Has_condition_date": "1/2025/5/26",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "200",
+"Has_number_of_rappels": "9",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Rock_Creek_(Alternate,_South_Cascades)",
+"Requires_permits": "No"
+},
+"approach": "There are two choices on the approach: 1) If hiking, continue up the road about 0.5mi and, just past a bend in the road, look for the Snag Creek trailhead on the right. (USGS maps do not show the correct location of the trail.) The lower part of the trail is a bit overgrown and was a little tricky to follow as of 2025. It basically heads northeast along the edge of the clearcut and then is easier to find when it enters the forest just above Snag Creek. The trail then follows the ridge northwest. 2) Alternatively, shuttle ~1mi up the road to a turnaround in an old clearcut, and bushwhack your way uphill about 0.1mi (+150ft elevation) to meet the trail. The trail switchbacks up onto the plateau, gaining about 600ft, before flattening out and becoming easy hiking. Pass a large signboard where you pass from DNR land to National Forest. Small wooden posts also mark the mileage. The second post is a good marker to break off trail and bushwhack your way down to drop into the Alt Rock tributary.",
+"exit": "You're not done yet. There are still five more rappels, plus a lengthy hike out. The rest of the beta is on the Classic Rock] page."
+},
+{
+"canyon": "Rock Creek (Cowlitz County)",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "May - July",
+"Has_condition_date": "1/2021/5/31",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "150",
+"Has_number_of_rappels": "2",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Rock_Creek_(Cowlitz_County)",
+"Requires_permits": "No"
+},
+"approach": "Park in an obvious pullout on the south side of Hwy 503 just east of the bridge over Rock Creek. There's room for several vehicles here. * The checkpoint is the large pullout on the west side of the bridge. There's an opening in the trees where you can look down on Rock Creek Falls. Some user paths lead southwest down to the creek between R2 and R3, but you'll miss some nice canyon going that way. Instead, cross Hwy 503, and make your way down through the forest to drop in above just north the bridge. Use caution as it's steep and there are some cliff bands occasionally as you drop down through the trees. If lucky, you may find a way to get down without using a rope, but setting a hand line or rappelling may be a safer option.",
+"exit": "Sadly, the big falls is the end of the technical section. Continue downstream all the way to Lake Merwin. The going is slow and slippery. A couple of nice cascades (easily bypassed) signal you're nearing the bottom. Be aware: the creek reaches the lake at the eastern end of the private community of Woodland Park. You're practically in someone's backyard. Immediately exit the creek DCL (east) and pick up a somewhat overgrown user trail (looked like people were crossing on a log in 2021) leading along the lakeshore. Follow this old trail east until about 45.98965, -122.4675 where a giant patch of blackberries blocks your way. Circle around this bramble thicket and pick up an old, nearly indistinct track leading east into the woods. The track, marked occasionally, with flagging, switchbacks a couple of times, then ascends on a rising traverse up to the powerlines at about 750ft elevation. The track is indistinct at first, but gets better for a good stretch, then gets worse again on nearing the top. At this point, just break off trail and head up wherever is easiest to pop out under the powerlines. * Alternately, from the blackberry thicket, you might be able to ascend directly up the ridge through mostly open forest. This route has not been explored. Follow the powerline access track northeast for a couple minutes to Hwy 503 (gated) and walk back along the wide shoulder to your car (~1min). Total distance from the lake back to your car is about 1mi with a gain of ~500ft elevation."
+},
+{
+"canyon": "Rock Creek (Indie, South Cascades)",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Spring",
+"Has_condition_date": "1/2019/6/16",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "150",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "1",
+"Has_url": "https://ropewiki.com/Rock_Creek_(Indie,_South_Cascades)",
+"Requires_permits": "No"
+},
+"approach": "There are two choices on the approach: 1) If hiking, continue up the road about 0.5mi and, just past a bend in the road, look for the Snag Creek trailhead on the right. (USGS maps do not show the correct location of the trail.) The lower part of the trail is a bit overgrown and was a little tricky to follow as of 2025. It basically heads northeast along the edge of the clearcut and then is easier to find when it enters the forest just above Snag Creek. The trail then follows the ridge northwest. 2) Alternatively, shuttle ~1mi up the road to a turnaround in an old clearcut, and bushwhack your way uphill about 0.1mi (+150ft elevation) to meet the trail. The trail switchbacks up onto the plateau, gaining about 600ft, before flattening out and becoming easy hiking. Pass a large signboard where you pass from DNR land to National Forest. Small wooden posts also mark the mileage. On crossing an obvious drainage, head downstream into Indie-Rock.",
+"exit": "Note that water levels will quadruple or more entering Classic Rock. Below the last falls it's ~1.8mi downstream to the PCT footbridge. It goes relatively quickly, however, as there's lots of gravel bars and bedrock to hike on. There's almost always an easy way forward. Throw in a couple of short narrows, boulder gardens, and logjam obstacles to keep you busy. Cool off in pools as needed. You will pass Post Rock on the way out. There are two features that signal you're nearing the end: * Big logjam: Bear DCR initially, following the water, then climb up/over/through the logs bearing back DCL. * Blue-green cliff: It's located on the left just past the big logjam. Exit the bridge DCL and follow the PCT southwest. There's a short climb out of the drainage, then the route is mostly flat thereafter. Follow the trail about 0.5mi back to your car, going straight at the junction with the Snag Creek trail."
+},
+{
+"canyon": "Rock Creek (Olympic Peninsula)",
+"structured": {
+"Has_ACA_rating": "3C II  (v3a3 II)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2026/7/1",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "60",
+"Has_number_of_rappels": "2",
+"Has_rating": "3C II  (v3a3 II)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Rock_Creek_(Olympic_Peninsula)",
+"Requires_permits": "No"
+},
+"approach": "From Hwy 101 north of Shelton, WA, turn left onto W Skokomish Valley Road, which eventually turns into FR 23. Drive about 11.4 miles from the highway to the parking area. Park at the pullout just west of the culvert where FR 23 crosses Rock creek (47.3743, -123.3172). Suit up here. * Checkpoint is the falls coming out from under the bridge.",
+"exit": "Just downstream of the final rappel, Rock Creek merges with Flat Creek (which is anything but flat) entering on the right via a small falls. The initial steepness of the exit is mercifully counterbalanced by the short distance back to the road. To exit: *Climb up flat creek, staying in the watercourse. It becomes thick with vegetation at times, but is mostly an easy scramble. *After you've gone further than you think you should, look for a yellow forest service boundary sign slightly up the hillside on the right side of the creek, with pink flagging on top. This sign is quite low to the ground, and requires your team keeping an eye out for it. Nearby is some blue and pink flagging. At the sign, begin to switchback uphill. *A dry, stripped log will allow you to traverse below a steep face - from that log, head uphill through steep scree along a social trail. From here, it's not far to the road. *Walk the road back to the parking area."
+},
+{
+"canyon": "Rock Creek (Post, South Cascades)",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Spring",
+"Has_condition_date": "1/2025/6/14",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "90",
+"Has_number_of_rappels": "7",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Rock_Creek_(Post,_South_Cascades)",
+"Requires_permits": "No"
+},
+"approach": "There are two choices on the approach: 1) If hiking, continue up the road about 0.5mi and, just past a bend in the road, look for the Snag Creek trailhead on the right. (USGS maps do not show the correct location of the trail.) The lower part of the trail is a bit overgrown and was a little tricky to follow as of 2025. It basically heads northeast along the edge of the clearcut and then is easier to find when it enters the forest just above Snag Creek. The trail then follows the ridge northwest. 2) Alternatively, shuttle ~1mi up the road to a turnaround in an old clearcut, and bushwhack your way uphill about 0.1mi (+150ft elevation) to meet the trail. The trail switchbacks up onto the plateau, gaining about 600ft, before flattening out and becoming easy hiking. Pass a large signboard where you pass from DNR land to National Forest. Small wooden posts also mark the mileage On crossing a not-so-obvious minor drainage, head downstream into Post Rock.",
+"exit": "Note that water levels will quadruple or more entering Classic Rock. Below the last falls it's ~1.7mi downstream to the PCT footbridge. It goes relatively quickly, however, as there's lots of gravel bars and bedrock to hike on. There's almost always an easy way forward. Throw in a couple of short narrows, boulder gardens, and logjam obstacles to keep you busy. Cool off in pools as needed. There are two features that signal you're nearing the end: * Big logjam: Bear DCR initially, following the water, then climb up/over/through the logs bearing back DCL. * Blue-green cliff: It's located on the left just past the big logjam. Exit the bridge DCL and follow the PCT southwest. There's a short climb out of the drainage, then the route is mostly flat thereafter. Follow the trail about 0.5mi back to your car, going straight at the junction with the Snag Creek trail."
+},
+{
+"canyon": "Rock Creek (South Cascades)",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Apr-Aug",
+"Has_condition_date": "1/2024/5/19",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "50",
+"Has_number_of_rappels": "8",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Rock_Creek_(South_Cascades)",
+"Requires_permits": "No"
+},
+"approach": "From the pass, turn right on an ATV track that climbs steeply up the hill. The track winds around the southern end of a local high point and then heads off northwest. The track is obvious and mostly easy to follow. Follow up and down along the ridgecrest for about 3mi. At about 45.77869, -122.06901, break off the track and bushwhack down into Rock Creek.",
+"exit": "Below the last falls it's ~2mi downstream to the PCT footbridge. Expect it to take a couple of hours. It goes relatively quickly, however, as there's lots of gravel bars and bedrock to hike on. There's almost always an easy way forward. Throw in a couple of short narrows, boulder gardens, and logjam obstacles to keep you busy. Cool off in pools as needed. You will pass the Indie Rock and Post Rock tributaries on the way out. There are two features that signal you're nearing the end: * Big logjam: Bear DCR initially, following the water, then climb up/over/through the logs bearing back DCL. * Blue-green cliff: It's located on the left just past the big logjam. Exit the bridge DCL and follow the PCT southwest. There's a short climb out of the drainage, then the route is mostly flat thereafter. Follow the trail about 0.5mi back to your car, going straight at the junction with the Snag Creek trail."
+},
+{
+"canyon": "Rock Creek (Tsolo Scramble)",
+"structured": {
+"Has_ACA_rating": "2C II  (<i>v1a4&nbsp;II</i>)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2017/7/23",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "30",
+"Has_number_of_rappels": "0",
+"Has_rating": "2C II  (<i>v1a4&nbsp;II</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Rock_Creek_(Tsolo_Scramble)",
+"Requires_permits": "No"
+},
+"approach": "===Lower Parking=== From Bridge of the Gods, turn right on Hwy 14 and go 1.5mi. Turn left onto SW Rock Creek Dr for 0.3mi before turning left again onto Foster Creek Rd. Follow Foster Creek Rd (becomes Ryan-Allen Rd) for 0.9mi before turning off left onto Red Bluff Rd. Follow Red Bluff Rd down to cross a creek; it become gravel on the far side. At 0.7mi reach a Y-jct: bear right to stay on Red Bluff Rd. Follow Red Bluff Rd for 1.8mi further before turning off right on an unsigned road that switchbacks down 0.2mi to a large bridge crossing Rock Creek. There are several pullouts before the bridge which make good parking and room for several vehicles. Under the bridge is a popular swimming hole. * Be aware: a bunch of broken glass was found at the lower trailhead. Try not to leave anything of value in your car. * It appears that idiots with no respect for the environment often frequent the area around and under the bridge. Please help keep the area clean by packing out any trash you might find. ===Upper Parking=== Either drive or hike back up to Red Bluffs Rd and turn right. Go another 1.3mi. There's no sign, but just a small pullout on the north side of the road big enough for two vehicles. A GPS may be handy here. ===Bushwhack In=== Walk along the road to find a culvert. Drop down and thrash your way into the forest. You want to bear generally north / northwest. Head along wherever is easiest and make your way down into the drainage of Rock Creek (0.1mi; 5min). There are a couple of steep-ish slopes, but nothing too hard. If you get cliffed out, you are in the wrong place. Drop into the creek and go downstream.",
+"exit": "Under the bridge, look DCR for a trail that switchbacks up the road. This is probably the easiest means of exit."
+},
+{
+"canyon": "Rock Creek (Upper North Fork, South Cascades)",
+"structured": {
+"Has_ACA_rating": "3C1 II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Dec-Apr",
+"Has_condition_date": "1/2026/7/12",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "50",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C1 II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Rock_Creek_(Upper_North_Fork,_South_Cascades)",
+"Requires_permits": "No"
+},
+"approach": "Google Terrain maps shows the \"Sunset-Hemlock Rd\" (FR 41) running along the ridgecrest - but this road has been closed and pretty much obliterated by Washington State DNR. Getting a car in there is not possible, making the PCT the only viable approach to this creek. ===Directions=== From the Bridge of the Gods, turn right on Hwy 14 and continue 1.5mi east to turn off left/north towards Skamania Lodge on Rock Creek Dr. Turn left again in 0.3mi onto SW Foster Creek Rd. Continue 0.4mi and continue straight onto SW Ryan Allen Rd for another 0.5mi before turning left again onto Red Bluff Rd (becomes gravel). Follow Red Bluff Rd for 5.7mi to a bridge across Rock Creek. (Steep Creek Falls is just upstream / left of the bridge.) Continue west on Red Bluff Rd for 1.5mi to a junction where the main road swings left to cross a bridge over Rock Creek. Continue up the main road for another 0.8mi and turn right at an unsigned junction (Jct 1380). Follow this unnamed road for 0.5mi. On heading up the hill, watch for the crossing of the PCT and continue 200ft to a large pullout with room for several vehicles on the left. Roads are rocky but 2WD okay if driven carefully. ===Hike In=== Follow the PCT north about 1.75mi. At this point, the trail crosses the western tributary just above R3. Continue on up the switchbacks another 0.25mi and enter the western tributary higher up.",
+"exit": "Continue downstream ~5min to the confluence with the Lower North Fork. Just before the confluence, watch for a game trail DCR that's an easy means of access up onto a spur ridge west of the creek. Atop the ridge, go directly up to reach the PCT. Once back on the trail, hike south ~1mi back to the trailhead."
+},
+{
+"canyon": "SMC Creek",
+"structured": {
+"Has_ACA_rating": "3C1 II  (v4a4 I)",
+"Has_best_season": "spring-fall",
+"Has_condition_date": "1/2025/6/3",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "147.6378",
+"Has_number_of_rappels": "7",
+"Has_rating": "3C1 II  (v4a4 I)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/SMC_Creek",
+"Requires_permits": "Yes"
+},
+"approach": "===Drive=== From North Bend Bar and Grill, drive north on Ballarat Ave N, which turns east and becomes SE 108th St, turns north and becomes 428th Ave SE, and turns northeast and becomes N Fork Rd SE. At Ernie's Grove, the road forks\u2014stay left on N Fork Rd SE to go up the hill. The pavement ends, and N Fork Rd SE makes a sharp left switchback and becomes NF-5700. The road passable in a passenger car as of November 2016, although there are some large potholes. After 2.5 miles, a major road intersects NF-5700. Gate 11 is on the right; park near the intersection, but do not block the gate. Driving directions] ===Bicycle and Hike=== From Gate 11: *Bicycle or hike 2.7 mi (4.3 km) :This section is relatively flat and well suited to bicycling. Travel east 1.4 mi (2.3 km) on the mainline road, across the bridge over the N. Fork Snoqualmie River, to a junction just beyond the bridge. Turn right (south) at the junction, and travel 1.3 mi (2.1 km) on the mainline, staying straight at the T-intersection, to a Y-junction. Park bicycles here. *Hike 4.7 mi (7.5 km), 2,100 ft (640 m) elev. gain :From the Y-junction, bear left to go uphill on the mainline road. In 0.6 mi (1 km), the road goes over SMC Creek at SMC Falls; this is a good checkpoint for waterflow. Continue up the mainline to the plateau and a large clear cut. Leave the road (turn left), and bushwhack down about 450 ft (140 m) elev. into the SMC Creek drainage as indicated on the map. From the topo map and satellite imagery, the bushwhack appears to be mostly across the clear cut and then a short distance through possibly brushy new-growth forest.",
+"exit": "Soon after descending Lower SMC Falls, the creek passes under the access road for the Black Creek Hydroelectric Plant. *Hike 0.5 mi (0.8 km) :Exit the creek at the bridge, and turn right (north) on the road. Follow the road to the Y-junction with the mainline road. This is the bicycle parking location. *Bicycle or hike 2.7 mi (4.3 km) :Follow the mainline road north 1.3 mi (2.1 km) to the T-junction. Turn left (west), and follow the mainline back across the bridge over the N. Fork Snoqualmie River for 1.4 mi (2.3 km) to Gate 11."
+},
+{
+"canyon": "Satsop River Gorge (West Fork)",
+"structured": {
+"Has_ACA_rating": "2C I  (<i>v1a4&nbsp;I</i>)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2022/7/16",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "0",
+"Has_number_of_rappels": "0",
+"Has_rating": "2C I  (<i>v1a4&nbsp;I</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Satsop_River_Gorge_(West_Fork)",
+"Requires_permits": "No"
+},
+"approach": "From Wynoochee River Road, turn off east on FR 23. Follow FR 23, bearing right at two junctions for about 2.5mi to a bridge spanning the West Fork Satsop River on a high bridge. Just ahead on the far side is a large pullout for a trailhead for Spoon Creek Falls (marked with a post). Park here. Hike (or shuttle) back up FR 23 the way you came for about 0.5mi. Watch carefully on the right for a user trail leading down to a large fallen cedar tree that someone's been cutting up. Follow the trail downward until it becomes faint and keep going (easy bushwhacking) until you can easily drop into the river. Head downstream. * A wetsuit is recommended. Water can be cold even in late summer. Have your flotation dialed. * Checkpoint: It's hard to get a real sense of flow from the bridge. A better checkpoint is the creek just before entering the river gorge.",
+"exit": "At the confluence with Spoon Creek, look left for an excellent user trail that winds its way back up to the trailhead. There are two junctions. Go straight at the first, left at the second."
+},
+{
+"canyon": "Skokomish River (South Fork)",
+"structured": {
+"Has_ACA_rating": "2C IV  (<i>v1a4&nbsp;IV</i>)",
+"Has_best_season": "Aug-Sept",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "0",
+"Has_number_of_rappels": "0",
+"Has_rating": "2C IV  (<i>v1a4&nbsp;IV</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Skokomish_River_(South_Fork)",
+"Requires_permits": "No"
+},
+"approach": "===Full Skykomish=== To get there from Hwy 101, turn off onto the Skokomish Valley Rd for 4.4mi where you'll see the river on your right. Leave a shuttle vehicle here. Continue west on Skokomish Valley Road for 1.2mi and veer right onto Govey Rd (eventually becomes FR 23). Follow for 7mi to park in a pullout on the right. There used to be a road here (now gated) that leads down ~1mi to an old campground next to the river. Follow the old road down to the river and head south. Total distance to the mouth of the upper gorge is about 1.9mi. * It may be possible to cut off some significant distance on the entrance and exit (see map above). This option has not been explored previously. ===Half Skykomish=== If you only want to do half the trip, it's also possible to access the river at a point in the middle. From the lower parking, continue west on Skykomish Valley Road for 1.2mi, then veer right onto Govey Rd (FR 23) for 2.3mi. Turn right on FR 2340 for 1.8mi to an unmarked junction. From the original beta: \"You will encounter three forks. Turn right at each one The road goes downhill through a lage clear cut. Continue to the end and pick up a faint trail which goes to the lower end of the clearcut then turns right going downhill thorugh the forest to the river. the trail is very good once you're in the woods.\" ===High Steel Bridge=== While you're in the are, definitely follow FR 2340 to High Bridge. This steel span is over 400 feet above the Skykomish River and provides some great views of the canyon.",
+"exit": "After the lower gorge, there's some 2.3mi of easy walking along the river through an open scenic valley back to the road."
+},
+{
+"canyon": "Skookum Falls",
+"structured": {
+"Has_ACA_rating": "3C II  (v4a3 IV)",
+"Has_best_season": "Winter to Spring",
+"Has_condition_date": "1/2026/5/2",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "220",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C II  (v4a3 IV)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Skookum_Falls",
+"Requires_permits": "No"
+},
+"approach": "From Enumclaw, drive 27 miles east on WA-410 until you reach the Skookum Falls Viewpoint on your right. Stop here to check the flow and confirm that the log spanning the river is still there. You will use this log to cross the river on the exit. Once confirmed the log is all good, park your exit vehicle(s) here. To get to the start parking, take a left (north) out of the parking area. Continue for 2.1 miles and take the first left turn onto FS-7300. Continue for 1.3 miles until the road forks. Take the left fork onto FS-7315 and continue for 1.7 miles until you see an old forest road branching off to your left. Park here (47.05556, -121.58372). ''Note: FS-7315 is closed and gated from December 15 to May 1 (2026: this is a lie 2nd May still closed!). If you are running Skookum in winter or early spring, you will need to park outside the gate and hike the 1.7 miles and 900\u2019 elevation gain to reach the turnoff for the old forest road.'' Follow the overgrown forest road on foot for 0.6 miles. As the road loses definition, follow the sound of water to reach the water course.",
+"exit": "Follow the well established Skookum Falls Trail downhill 100m, then turn North onto the Skookum Flats Trail. From there you've got two options: * Very short: bushwhack to the river, and cross close to the view point. * Much longer: follow the trail north 3km to the closest bridge at NF73. Note: since early 2020s a blown down tree has provided a stable footbridge to cross the river directly next to the view point."
+},
+{
+"canyon": "Snag Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Mar-May",
+"Has_condition_date": "1/2021/5/15",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "130",
+"Has_number_of_rappels": "2",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Snag_Creek",
+"Requires_permits": "No"
+},
+"approach": "Google Maps lies, but the road abruptly ends at a junction / turnaround at about 2000ft elevation. Park here, and continue on foot past the giant berms and up the decommissioned road for about 1mi. The going is a little thrashy at first, but the road soon opens up again and becomes grassy / relatively easy to travel. Follow the old road up to around 2400' elevation where it abruptly ends and plunge into the forest. Thrash on up the ridgecrest wherever is easiest. Here and there are remnants of an old human-made path to make the going a little easier, but it comes and goes. Eventually break out into a lovely grassy cliff-top meadow with wildflowers in season. Continue on up and north to almost 3000ft before breaking off the ridge and descending into the Snag Creek drainage on a descending traverse to the north. Your goal is to drop into the creek at about 45.7855, -122.0326, just above the first waterfall. The vine maple is thick dropping off the ridge, so it's a bit slow-going. Once in the creek, suit up, and head downstream.",
+"exit": "Sadly, the bedrock section ends all too soon. At this point, you're better off de-wetsuiting and hiking out. Initially it's best to head downstream about 0.2mi on the west side (DCR). Cross the creek, then thrash 0.25mi to a clearcut. Pick up a faint track right of the tree island and drop down to a decent dirt road that leads back to the parking area."
+},
+{
+"canyon": "Snoqualmie River (North Fork)",
+"structured": {
+"Has_ACA_rating": "2C II  (<i>v1a4&nbsp;II</i>)",
+"Has_best_season": "Summer",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "0",
+"Has_number_of_rappels": "0",
+"Has_rating": "2C II  (<i>v1a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Snoqualmie_River_(North_Fork)",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Snoqualmie River (South Fork)",
+"structured": {
+"Has_ACA_rating": "3C III  (v3a4 III)",
+"Has_best_season": "July - Sep",
+"Has_condition_date": "1/2025/8/11",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "100",
+"Has_number_of_rappels": "4",
+"Has_rating": "3C III  (v3a4 III)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Snoqualmie_River_(South_Fork)",
+"Requires_permits": "No"
+},
+"approach": "===Driving=== *From Seattle (I-90 Eastbound), take Exit 52 West Summit. Turn left (north) to proceed under the highway and turn left (west) onto NF-58. *From Ellensburg (I-90 Westbound), take Exit 53 East Summit. Turn left (west) on Yellowstone Trail Rd to go under I-90. Turn right (north) onto WA-906 and go about 0.7 miles, continuing on NF-9041. Turn left (west) on NF-58. In a quarter mile, NF-58 passes under the westbound lanes of I-90. Very soon, you will arrive at a gravel pullout with a low rock wall on the right (north) side of the road. This is the parking area for the starting point of the canyon. ===Shuttle=== Continue west on NF-58 for 1.8 miles. At the fourth switchback, there is room to park on the side of the road. This location is very close to Denny Camp Falls. Park a car here for the shuttle. Alternatively, drive further on NF-58 to the Franklin Falls Trail 1036] trailhead parking area. ===Hike=== Fall in the Wall can be viewed from the low rock wall. Take a short social trail to reach the jumping point above the pool (DCL) at the base of Fall in the Wall.",
+"exit": "The last rappel of the route, Denny Camp Falls, is a waterfall that shoots out creating an arch. Immediately after this rappel is a large pool, a use trail DCL from the bottom of the pool takes up to the actual official trail which then takes to the parking lot. Don't forget the last jump of the canyon just below this trail - it's a fun way to wash up before the hike out. If you didn't shuttle, you can walk the wagon road trail that parallels the road, then only have to walk the road a short ways back to Fall into the Wall."
+},
+{
+"canyon": "Snoquera Falls",
+"structured": {
+"Has_ACA_rating": "4C III R (<i>v5a5&nbsp;III</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_rating": "4C III R (<i>v5a5&nbsp;III</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Snoquera_Falls",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "South Fork Buck Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (v2a3 <i>III</i>)",
+"Has_best_season": "March-June",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "30",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C III  (v2a3 <i>III</i>)",
+"Has_star_rating": "1",
+"Has_url": "https://ropewiki.com/South_Fork_Buck_Creek",
+"Requires_permits": "No"
+},
+"approach": "Steep and thick bushwhack. 30 minutes",
+"exit": "Steep, Thick Bushwhack"
+},
+{
+"canyon": "Star Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Spring",
+"Has_condition_date": "1/2026/5/9",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "190",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Star_Creek",
+"Requires_permits": "No"
+},
+"approach": "From the upper parking area, follow Ed's Trail upward about 1.8mi. The trail passes through a natural arch, but there are a couple of scrambly sections along the way. (You can skip the scrambly bits by cutting over to the old road grade part way up.) Break off the trail around 45.75135, -122.24169, and drop into the basin below. The going is easy at first through open forest, but soon becomes a maze of swampy ground, creeks, Devils Club, and salmonberry thickets. Make your way through wherever is easiest until you reach the rim where two side-by-side creeks launch off the cliff into the valley below. R1 is located on the left tributary (looking north) on the DCR side. Look for a nice rock-slab area created by a fallen tree just before the first drop. This is a good place to suit up.",
+"exit": "From the bottom of R7, continue downstream a short distance further. Detour around some annoying brush on rock ledges DCR. Reach an area of bedrock slabs above a final cascade into a nice-looking pool. This is a good place to declare victory and de-suit. Climb up the rock slabs DCR to find the trail cut through the vine maple. It's a bit faint in places, but gets better the farther you descend. Follow it back to the Starway Trailhead."
+},
+{
+"canyon": "Steel Canyon",
+"structured": {
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Steel_Canyon",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Steel Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "May-Jul",
+"Has_condition_date": "1/2023/7/8",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "70",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "2",
+"Has_url": "https://ropewiki.com/Steel_Creek",
+"Requires_permits": "No"
+},
+"approach": "Steel Creek is located about nine miles west/northwest of LeBar Creek on FR 2394. As of 2023, the road is in decent shape but becomes progressively more overgrown as one travels west. As of 2023, some enterprising four-wheelers had cut a route in as far as Tebo Creek, but gave up shortly thereafter. We parked and hiked the road in, but, in future, one might be able to drive all the way to Steel which would cut off a good chunk of the approach & exit. If you can drive to Steel, there's a nice pullout just before the road bends right. Suit up at parking area, walk up the road a short distance, and descend into the creek wherever is easiest. A rappel might be required depending on where you enter the creek (R0). After checking the flow, head downstream. There are a couple of downclimbs before you reach R1.",
+"exit": "After the finale, downclimb a few minor steps and exit the creek DCL whenever it looks feasible just before a lesser waterfall. You may want to de-wetsuit before beginning your exit thrash out, climbing about 300ft back up to the road. There is a lot of fallen trees (some giant old growth) in the area and we found that the going was okay staying in general proximity to the base of a cliff on climber's left, then eventually getting up on top when the terrain permitted. It's a bit steep in sections. From here it was a relatively easy bushwhack up to the road."
+},
+{
+"canyon": "Summit Creek Canyon",
+"structured": {
+"Has_ACA_rating": "3C II  (v3a3 II)",
+"Has_best_season": "July-Sept",
+"Has_condition_date": "1/2025/8/14",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "120",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C II  (v3a3 II)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Summit_Creek_Canyon",
+"Requires_permits": "No"
+},
+"approach": "Summit Creek Campground divides the canyon in the Upper and Lower sections. You will need to set up a shuttle to descend the Lower or Upper sections. No shuttle needed for the Middle section, which starts at the old campground (or the bridge crossing the creek) and end ends right after Thunder Falls.",
+"exit": "===Middle Exit=== After downclimbing the small cascade immediately after Thunder Falls, look for a memorial plaque on a rock DCR. From the plaque, look immediately across the creek for a DCL moss-covered talus field. Climb up the talus field a few yards to find a well-worn user trail that leads steeply up climber's left and back to the road. Follow the road a couple hundred yards back to the old campground. ''Optional:'' lap the middle section two or three times more! If you have time, you may want to check out the nearby Mount Rainier National Park. The Grove of the Patriarchs is a nice stroll among millennial trees, and a short side hike from this trail will allow you to check out the Olallie Creek flow checkpoint."
+},
+{
+"canyon": "Tebo Creek",
+"structured": {
+"Has_ACA_rating": "3C   (<i>v3a4</i>)",
+"Has_best_season": "Spring",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_number_of_rappels": "5",
+"Has_rating": "3C   (<i>v3a4</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Tebo_Creek",
+"Requires_permits": "No"
+},
+"approach": "Tebo Creek is located about 8mi west/northwest of LeBar Creek on FR 2394. As of 2023, the road is in decent shape but becomes progressively more overgrown as one travels west. Some enterprising four-wheelers had cut a route in as far as Tebo Creek.",
+"exit": ""
+},
+{
+"canyon": "Tesseract Canyon",
+"structured": {
+"Has_ACA_rating": "4B III PG (v4a3 V)",
+"Has_best_season": "May-July",
+"Has_condition_date": "1/2026/5/9",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "190",
+"Has_number_of_rappels": "9",
+"Has_rating": "4B III PG (v4a3 V)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Tesseract_Canyon",
+"Requires_permits": "No"
+},
+"approach": "A small parking area is available at the gate to the bridge/old road that is the Taylor River Trailhead (parking option 1). If this area is full, you may have to park a few hundred yards back down the road (parking option 2). A pit toilet is available at the latter parking area ''(as of September 2020, this toilet is closed due to Covid-19)''. From the Taylor River trailhead, take a faint fishermans track just past the gate on the right. Work your way along the riverbank until you cross the Tesseract drainage. The fisherman's track itself disappears a short way in, and some bushwhacking is involved. Once the fisherman's trail peters out, drop down close to the river as soon as it's reasonable to do so. Travel is much easier closer to the river, rather than staying high. This route could use some maintenance at some point. Alternatively to save time, when the Taylor River is low (usually late July through the end of summer), cross the bridge and take an easy walk about 500 yards down the trail, then cross the river. Do the same at the end of the day. Cross the Tesseract creekbed. Heading up the hill on the north bank, the understory is generally open, with occasional thick patches of salal and vine maple. You will gain about 1,200' of elevation on the approach, and certain sections are quite steep. Starting in the late 1920's on up through the 1970's the Taylor Valley was logged, so most of the uphill approach here is in second growth timber. Along the river, there is a cautious mix of thorny salmonberry and devils club, with a friendly scattering of trillium, bleeding heart, and other floral/mossy carpets. Avoid getting too close the edge of the canyon on the hike up where you may get cliffed out. The brush gets noticeably thicker towards the top of the approach. At around 2250' elevation you will reach the base of a large cliffband. Traverse the bottom of the cliffband towards the canyon. You'll soon scramble up onto a broad rocky platform at the top of the falls that affords access directly into the Tesseract.",
+"exit": "The last rappel is only a few minutes away from the confluence with the Taylor River. Exit back to the parking area on the same route as your approach."
+},
+{
+"canyon": "Three Corner Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "mar-Sept",
+"Has_condition_date": "1/2026/6/27",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "100",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Three_Corner_Creek",
+"Requires_permits": "No"
+},
+"approach": "The standard approach is to drop a car at the bottom and shuttle up. The roads are rocky, but 2WD friendly if driven carefully. Upon reaching the parking area at the end of the road, hike north down the ridge directly to R1. The route passes through an older clear cut area. * If you don't have a shuttle, there's an alternate bushwhack approach.",
+"exit": "A short distance downstream from R3, you'll reach a confluence with another tributary entering from DCL. Continue downstream for maybe 0.25mi. Watch DCL for a user trail that leads directly up to the parking area. * Alternate exit: at the confluence, exit the creek, and bushwhack directly up the hill to the north. There's a bit of a user trail that winds through an old clearcut to meet the road. Walk back down the road to your. (You could also park up here to save yourself a short road walk.)"
+},
+{
+"canyon": "Tranquility Canyon",
+"structured": {
+"Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Jul-Sep",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "140",
+"Has_number_of_rappels": "6",
+"Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Tranquility_Canyon",
+"Requires_permits": "No"
+},
+"approach": "Park where the upper middle fork road consistently washes out (usually, there's a big dip in the road if you go straight, and many folks avoid the dip by going left). This washout is the creek draining this canyon. Go up the creek, figure out a way to bushwhack (or free solo on some friction slab) around the canyon (canyon left is alright), and drop in wherever it suits you. If you reach the top of Garfield, you've gone too far, but good on ya for doing a pretty serious climb on accident.",
+"exit": "At the base of the canyon, walk downstream to your car."
+},
+{
+"canyon": "Trapper Creek",
+"structured": {
+"Has_ACA_rating": "3C   (<i>v3a4</i>)",
+"Has_best_season": "Aug-Sept",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_rating": "3C   (<i>v3a4</i>)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Trapper_Creek",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
+"canyon": "Tule Canyon (South Cascades)",
+"structured": {
+"Has_ACA_rating": "3C III  (v4a4 <i>III</i>)",
+"Has_best_season": "May-July",
+"Has_condition_date": "1/2025/8/23",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "130",
+"Has_number_of_rappels": "11",
+"Has_rating": "3C III  (v4a4 <i>III</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Tule_Canyon_(South_Cascades)",
+"Requires_permits": "No"
+},
+"approach": "Follow the East Canyon Ridge Trail #265 until it reaches the closest point to the creek (about 3300 ft). Bushwhack down to the creek and suit up near the creek.",
+"exit": "The creek flattens shortly after R11 to river gravels. Leave the creek DCR and walk through easy brush back to your car."
+},
+{
+"canyon": "Twin Falls",
+"structured": {
+"Has_ACA_rating": "4C3 II  (v4a5 II)",
+"Has_best_season": "Aug-Sept",
+"Has_condition_date": "1/2026/7/7",
+"Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "140",
+"Has_number_of_rappels": "4",
+"Has_rating": "4C3 II  (v4a5 II)",
+"Has_star_rating": "4",
+"Has_url": "https://ropewiki.com/Twin_Falls",
+"Requires_permits": "No"
+},
+"approach": "Park at Twin Falls Parking Lot, situated just off junction 34 of I90. Hike the well maintained trail for 1.2 miles until just BEFORE you cross the wooden footbridge across the canyon. DO NOT CROSS THE BRIDGE... (unless you want to take some photos of the canyon below. Instead, deviate from the trail and hike up an obvious user trail up through steep trees and ferns. When you reach the top of the ridge, the trail continues right, along flat ground. Follow this until you come to the top of a large cliff. You will be able to hear and see the river below. Look for a webbing anchor around a tree. If you see it, you have arrived at the start of this epic canyon. There is plenty of room here to suit up and perhaps inhale a Clif bar or 2. ''Water level reference pictures are of R2. This is visible from the hike-in shortly after leaving the official trail.''",
+"exit": ""
+},
+{
+"canyon": "Wallanding Creek",
+"structured": {
+"Has_ACA_rating": "3C II  (v3a3 III)",
+"Has_best_season": "June-Aug",
+"Has_condition_date": "1/2024/6/22",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "60",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C II  (v3a3 III)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Wallanding_Creek",
+"Requires_permits": "No"
+},
+"approach": "Park your vehicle(s) at a pullout where an overgrown logging road crosses FR 73 at 46.62573, -122.37376. Hike up FR 73 for 0.5 miles and locate a good spot to drop into the forest on your right. You will be leaving the road at roughly 2,450\u2019 elevation. Hike down following a faint use trail through open forest. A small gulch will be on your left. About halfway down, cross over the gulch. Work your way down staying about 100 - 200 feet to the north of the gulch. It is steep and has a deep loose leaf floor that makes it slippery. About 150 feet to the north of the gulch and you will find a walk-in to a wide patio with room for the whole group to suit up. It is steep it is hard to see the walk in, but it becomes apparent as you get closer.",
+"exit": "Continue downcanyon a short distance to approximately 46.62809, -122.36902 where it\u2019s possible to scramble out of the creek DCR. Look for the \"stone stairs\" DCR. Exit was flagged in June 2023. Go up the stairs and hike directly uphill following the use trail gaining about 500ft in largely open forest. The going is steep at first, but straightforward. When the terrain mellows out, bear left south to pick up an overgrown logging grade - follow the grade southwest about 0.2mi on a gentle traverse back to your vehicle(s); alternatively, continue directly up to the approach road for a clean road entry and hike down about 500 feet to the vehicles."
+},
+{
+"canyon": "Washout Waterslide",
+"structured": {
+"Has_ACA_rating": "3C1 II  (<i>v3a4&nbsp;II</i>)",
+"Has_best_season": "Winter-Spring",
+"Has_condition_date": "1/2025/4/14",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "220",
+"Has_number_of_rappels": "5",
+"Has_rating": "3C1 II  (<i>v3a4&nbsp;II</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Washout_Waterslide",
+"Requires_permits": "No"
+},
+"approach": "The approach we chose was just before the bend in the road, right before the falls become visible. Scramble up a steep loose rocky game trail that goes up for quite a ways. Work your way up to about 2600ft staying away from the creek to avoid the cliffs. Traverse at that point crossing one small drainage and then continue down to the main creek. This approach drops you right above a small downclimb above R1. It is possible to skip R1 and R2, drop down a little earlier and start with R3 which is the 1st big drop in the canyon. The creek is surprisingly grippy so starting out at R1 does not add much time and offers a nice area to dress out and get a feel for water temps.",
+"exit": "Walk down creek 50 yards to car, when standing near the culvert facing down creek, look to your right and you'll see the view of Langille Peak, a very prominent in the area."
+},
+{
+"canyon": "Whitehorse Creek (Olympic Peninsula)",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Jul-Sept",
+"Has_condition_date": "1/2026/7/7",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "120",
+"Has_number_of_rappels": "7",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Whitehorse_Creek_(Olympic_Peninsula)",
+"Requires_permits": "No"
+},
+"approach": "=== Main Section === Follow the Putvin Trail upwards for 1.2mi (~800ft gain) to meet an old logging track. Follow the track west 100ft to a signpost (~2370ft) where the Putvin Trail continues upwards towards Lake the Angels. Instead of going up, continue down the road to a switchback. This is a good place to suit up. When ready, bushwhack almost due west about 200ft, then descend carefully to the creek (losing about 100ft elevation) on the nose of a short ridge. If you find the right place, you should be able to enter the creek without need of a rope. You will drop in right above R9 as described in the beta below. === Upper Whitehorse === At the signpost described above, continue on up the Putvin Trail (becomes much steeper and rockier) for another 0.3mi (+300ft gain) to ~2690ft elevation. At the trail's closest approach to the creek, it abruptly turns to the right (approx. 47.58625, -123.25359). Look straight ahead to find a faint user trail (possibly an old climber's trail?) that contours ahead, then drops down through the slide alder into the creek. It was a tad overgrown, but there was zero bushwhacking in July 2021. Suit up at the creek. * Note that USGS maps do not accurately show the location of the Putvin Trail.",
+"exit": "Upon exiting the chasm, exit the creek DCR immediately before a logjam / swamp. Make your way wherever is easiest, heading more-or-less due south to pop out on the Hamma Hamma Road. The bushwhack should take less than five minutes. If you didn't stash a shuttle car nearby, just walk the road 0.6mi back to the Putvin Trailhead (easy and flat). Declare victory."
+},
+{
+"canyon": "Wieberg Creek",
+"structured": {
+"Has_ACA_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_best_season": "Dec-May",
+"Has_condition_date": "1/2026/3/7",
+"Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "160",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Wieberg_Creek",
+"Requires_permits": "No"
+},
+"approach": "Park at B-5000, but do not to block the gate. This land is owned by SDS logging and is open to hiking unless there is a fire ban (they have their own system independent of the state) - or signs are posted indicating active logging is going on. ===Bushwhack Route=== Walk up the road until you get to the first big right turn, and then hike up the ridge to about 1,900ft elevation. The ridge is a good place to suit up. When the trees open up into a rocky area, descend climber's left to R2, or keep following the ridge and work your way down to R1. Be aware: the hillside is a boulder field; don't knock rocks on anyone below you. Entering at a staggered diagonal is recommended. ===Road Route=== Follow the road up to Jct 2076, then take the side road (somewhat overgrown) over to the creek and drop in from above. This approach has minimal bushwhacking and may add +1 short rappel.",
+"exit": "From the base of the big falls: Hike downstream ~0.25 miles until you reach a large, upright old-growth snag in the creek bed. Exit DCL, bushwhacking to find a faint overgrown road grade. Follow the mostly level grade around the nose of the ridge. This will intersect the original road used to hike in. Alternate exit: Continue downstream an additional 0.25 miles to Highway 141."
+},
+{
+"canyon": "Wolf Creek (Olympic Peninsula)",
+"structured": {
+"Has_ACA_rating": "3C III  (v4a3 III)",
+"Has_best_season": "July",
+"Has_condition_date": "1/2023/7/17",
+"Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "115",
+"Has_number_of_rappels": "3",
+"Has_rating": "3C III  (v4a3 III)",
+"Has_star_rating": "3",
+"Has_url": "https://ropewiki.com/Wolf_Creek_(Olympic_Peninsula)",
+"Requires_permits": "No"
+},
+"approach": "Start at the Madison fall trailhead. Bike up to till you reach the intersection of the watercourse and road. Stash bike Get into the watercourse",
+"exit": "Follow creek DCL till you see reach the sediment benches left by Lake Mill, climb up the slope of these. Then on top near the hillside, you\u2019ll find the old Smokey trail. Take this trail to whiskey bend road, it\u2019s in fairly good shape albeit with the downed trees. From the top take a left to head down the road back to where you stashed your bike. Bike out to Madison falls TH."
+}
+]
