@@ -124,6 +124,32 @@ NEG = re.compile(
 # Trail quality sets the band. Ordered worst -> best; first match wins.
 OFFTRAIL = re.compile(r"\b(bushwhack\w*|bush-?whack\w*|thrash\w*|off.?trail|no trail|"
                       r"trailless|cross.?country|whack\w*)\b", re.I)
+
+# How MUCH off-trail? "off trail" appearing at all used to floor a canyon at 3.
+# Dingford is ~1mi of trail then "70 yrd" of flagged drop to the creek -- Scott
+# calls that a 2, and he's descended it. A short flagged drop-in is not a bushwhack.
+SHORT_OFFTRAIL = re.compile(r"\b(\d{1,3})\s*(?:yrds?|yards?|yds?|feet|ft|')\b", re.I)
+FLAGGED = re.compile(r"\b(flagging|flagged|flags|cairn\w*|ribbon\w*|marked with|"
+                     r"pink tape|survey tape)\b", re.I)
+
+
+def _offtrail_extent(txt):
+    """-> 'brief' | 'sustained'. Brief = a short, often flagged drop-in at the end
+    of a trail hike. Sustained = you are actually bushwhacking."""
+    # an explicit short distance attached to the off-trail move
+    m = OFFTRAIL.search(txt)
+    if m:
+        window = txt[max(0, m.start() - 160): m.end() + 160]
+        yd = SHORT_OFFTRAIL.search(window)
+        if yd and float(yd.group(1)) <= 300:      # <=300yd/ft of off-trail
+            return "brief"
+        if FLAGGED.search(window) and not re.search(r"\b(mile|mi\b)", window, re.I):
+            return "brief"                        # flagged route, no mileage = a drop-in
+    # sustained language
+    if re.search(r"\b(long|sustained|miles? of|continuous|endless|relentless)\s+"
+                 r"(?:\w+\s+){0,2}(bushwhack|thrash|brush)", txt, re.I):
+        return "sustained"
+    return "sustained"
 FAINT    = re.compile(r"\b(use.?trail|game.?trail|climber.?s?.?trail|social trail|"
                       r"faint|fading|unmaintained|overgrown trail|boot path|way.?trail)\b", re.I)
 TRAIL    = re.compile(r"\b(maintained trail|well.?marked|obvious trail|good trail|"
@@ -216,10 +242,13 @@ def access_segment(txt):
 
     clean = _strip_negated(txt)
 
-    # 1. Trail quality -> the band. Off-trail wins if mentioned at all: a route
-    #    that bushwhacks for 200yd and then hits a trail is still a bushwhack.
+    # 1. Trail quality -> the band. But HOW MUCH off-trail matters: a 70yd flagged
+    #    drop to the creek at the end of a trail hike is not a bushwhack (Dingford).
     if OFFTRAIL.search(clean):
-        band, lo, hi = "off-trail", 3.0, 5.0
+        if _offtrail_extent(clean) == "brief":
+            band, lo, hi = "trail + short off-trail drop", 1.5, 3.0
+        else:
+            band, lo, hi = "off-trail", 3.0, 5.0
     elif FAINT.search(clean):
         band, lo, hi = "faint/use trail", 2.0, 4.0
     elif TRAIL.search(clean):
@@ -259,6 +288,117 @@ def access_segment(txt):
 
     why["band"] = (lo, hi)
     return max(1.0, min(5.0, score)), why
+
+
+# ---------------------------------------------------------------------------
+# Wasp exposure -- a TERRAIN PREDICTION grounded in wasp nesting research.
+#
+# Why this is NOT just Access wearing a hat (the old proxy correlated 0.64 with
+# Access because both counted the same general-effort words):
+#   * it scores GROUND-NEST HABITAT specifically -- burrows, deadfall, rotten
+#     logs, dirt/creek banks, duff -- not "steep" or "loose", which are effort.
+#   * distance multiplies OFF-TRAIL travel only. 2mi of maintained trail is
+#     exposure 1; 200ft of deadfall outranks it.
+#
+# Research basis: Vespula and relatives nest in ground burrows, rodent holes,
+# cavities in soil/logs, and creek banks (typically 10-15cm down), and are set
+# off by ground vibration -- so off-trail travel over forest floor and deadfall
+# puts you over more buried nests than a maintained trail does.
+#   https://ropewiki.com/ACA_rating is unrelated; sources for this:
+#   Penn State Extension (Eastern Yellowjacket), UC Riverside Entomology,
+#   OSU Solve Pest Problems, American Trails.
+#
+# What this is NOT: it is not derived from trip reports. Across 2,199 reports in
+# WA/OR/UT/AZ/CA only 39 mention wasps, and most of those nests were AT ANCHORS
+# (where people stop and write things down), not on approaches. That is a
+# reporting-visibility pattern, not evidence about where wasps are. The log
+# column carries that real evidence separately; it never lowers this score.
+# ---------------------------------------------------------------------------
+NEST_HABITAT = {
+    r"\bdeadfall\b": 1.6, r"\bdowned (?:trees|logs)\b": 1.6, r"\bblowdown\b": 1.6,
+    r"\brotten (?:logs?|wood|stumps?)\b": 1.8, r"\bstumps?\b": 1.0,
+    r"\bduff\b": 1.2, r"\bleaf litter\b": 1.2, r"\bforest floor\b": 1.2,
+    r"\bburrow\w*\b": 1.8, r"\brodent\b": 1.5, r"\bhollow\b": 1.0,
+    r"\bcreek bank\w*\b": 1.4, r"\bdirt bank\w*\b": 1.4, r"\bembankment\b": 1.2,
+    r"\bloamy?\b": 1.0, r"\bsandy soil\b": 1.0, r"\bdry slope\b": 1.0,
+    r"\bbrush(y|ing)?\b": 1.1, r"\bovergrown\b": 1.1, r"\bslide alder\b": 1.2,
+    r"\bdevils?.?club\b": 1.0, r"\bthick\b": 0.8, r"\bdense\b": 0.8,
+    r"\bblackberr\w*\b": 1.1, r"\bvine maple\b": 0.9,
+}
+
+
+def wasp_exposure(appr, exit_, nests_found=0):
+    """1-5. -> (score float | None, why dict)
+
+    Two inputs, same question ("does this canyon hold nest habitat?"), answered
+    two ways:
+
+      terrain  -- a PREDICTION. Nesting habitat (deadfall, burrows, banks, duff)
+                  is the heavy term; off-trail travel modifies it, and distance
+                  multiplies off-trail only. Habitat leads because off-trail
+                  alone is what Access already measures -- leaning on it just
+                  reprints the Access column.
+      nests    -- an OBSERVATION. Someone logged a nest here. A confirmed nest
+                  outweighs a guess about the same canyon, and compounds when
+                  multiple parties found one. Colonies die each winter but the
+                  SITES recur (Davis Creek: same nest logged Jul and Oct), so
+                  this never decays to zero.
+
+    Whether anyone was STUNG is deliberately ignored. Hager's reporter wrote "we
+    were fortunate" -- same nest, same risk, different luck. The nest is the
+    signal; the sting is downstream noise.
+
+    Silence never lowers the score: 112 of 119 WA canyons have no wasp report at
+    all, and that is nobody writing it down, not evidence of absence.
+
+    NOT folded into the Adventure Score.
+    """
+    why = {"offtrail": False, "extent": None, "habitat": 0.0,
+           "offtrail_mi": None, "nests": nests_found, "terrain_only": None}
+    both = " ".join(t for t in (appr, exit_) if t)
+    if not both.strip() or len(both.strip()) < 40:
+        # No beta to read -- but a logged nest is still hard evidence on its own.
+        if nests_found:
+            s = min(5.0, 3.0 + 0.7 * (nests_found - 1))
+            why["terrain_only"] = None
+            return s, why
+        return None, why
+
+    clean = _strip_negated(both)
+    habitat = _severity(clean, NEST_HABITAT)
+    why["habitat"] = round(habitat, 2)
+
+    offtrail = bool(OFFTRAIL.search(clean))
+    faint = bool(FAINT.search(clean))
+    why["offtrail"] = offtrail
+    extent = _offtrail_extent(clean) if offtrail else None
+    why["extent"] = extent
+
+    # HABITAT leads. This is the term Access does not have.
+    terrain = 1.0 + min(habitat * 0.62, 2.6)
+
+    # Off-trail modifies: it is how you come into contact with the habitat.
+    # Kept modest on purpose -- it is the term Access already owns.
+    if offtrail:
+        terrain += 0.9 if extent == "sustained" else 0.35
+    elif faint:
+        terrain += 0.3
+
+    # Distance multiplies OFF-TRAIL travel only -- 2mi of trail is not exposure,
+    # 2mi of deadfall is. (Scott's 2-mile-vs-20-foot rule.)
+    d = _dist_mi(both)
+    why["offtrail_mi"] = d
+    if d is not None and offtrail and extent == "sustained":
+        terrain += 0.0 if d < 0.5 else 0.3 if d < 1.5 else 0.6 if d < 3 else 0.9
+
+    terrain = max(1.0, min(5.0, terrain))
+    why["terrain_only"] = round(terrain, 2)
+
+    # A found nest is confirmation, and outweighs the prediction for this canyon.
+    if nests_found:
+        confirmed = min(5.0, 3.4 + 0.6 * (nests_found - 1))
+        return max(terrain, confirmed), why
+    return terrain, why
 
 
 def access_total(appr, exit_):
