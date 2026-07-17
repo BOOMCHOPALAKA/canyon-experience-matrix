@@ -6,7 +6,9 @@ An interactive, sortable matrix of every technical canyon in Washington State, s
 
 ## Why
 
-Canyon rating systems tell you how hard the *technical* descent is, but say nothing about **getting in and out** — the approach and exit hikes, which are often what actually make or break a day. This scores those explicitly.
+RopeWiki describes the approach and exit for every canyon. But it's **prose** — you read it one canyon at a time, and there's no number to compare or sort by. The two things you *can* sort by, the ACA rating and the star rating, are both about the descent.
+
+So the hike in and the climb out — often what actually makes or breaks the day — never show up as a score. This reads that beta and quantifies it: a number for the approach, a number for the exit, and one **Access** score combining them.
 
 It also stops throwing away two thirds of the official rating. The ACA rating is three independent parts, and most tools show only the first:
 
