@@ -199,6 +199,11 @@
   .seg.segi:focus-visible,.seg.segq:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
   tr.flash{animation:flash 1.6s ease-out}
   @keyframes flash{0%,30%{background:var(--accent-soft)}100%{background:transparent}}
+
+  .seg.hasnest{position:relative}
+  .nestdot{position:absolute;top:-3px;right:-3px;width:7px;height:7px;border-radius:50%;
+    background:var(--e5);border:1.5px solid var(--panel);box-shadow:0 0 0 1px rgba(0,0,0,.15)}
+  .tipyr{font-family:var(--mono);font-size:10px;color:var(--e5);font-weight:700;margin-right:3px}
 </style>
 </head>
 <body>
@@ -223,7 +228,7 @@
       <h3>What's scored</h3>
       <div class="legrow"><span class="dot" style="background:var(--accent)"></span><b>Access</b> — approach + exit effort <span class="mut">(ours, 1–5)</span></div>
       <div class="legrow"><span class="dot" style="background:var(--e4)"></span><b>ACA</b> — technical · water · time <span class="mut">(theirs, official)</span></div>
-      <div class="legrow"><span class="dot" style="background:var(--e5)"></span><b>Wasp</b> — nest terrain + logged nests <span class="mut">(seasonal)</span></div>
+      <div class="legrow"><span class="dot" style="background:var(--e5)"></span><b>Wasp</b> — nesting terrain, hover for why <span class="mut">(seasonal)</span></div>
       <div class="legrow" style="margin-top:6px"><b>Adventure</b> = ACA technical + Access</div>
     </div>
     <div class="card">
@@ -264,9 +269,8 @@
           <th data-k="acc_appr" data-t="num"><span class="hd">Approach<i class="info" tabindex="0" data-t="Approach effort (1–5)" data-c="Car to water. <b>Trail quality sets the band</b>, distance and vertical move you inside it:<br><b>1 Walking</b> — trail to the water, under a mile<br><b>2 Hiking</b> — still a trail, but longer or steeper<br><b>3 Off-trail</b> — the trail runs out partway<br><b>4 Bushwhacking</b> — sustained, a bad section<br><b>5 Suffering</b> — long bushwhack, in the thick of it<br><br>A trail caps out around 2 no matter how long; off-trail floors at 3 no matter how short. A short flagged drop-in to the creek is not a bushwhack." data-calc="band from trail quality; distance × terrain severity within it; negation stripped first">i</i></span><span class="arw">▲</span></th>
           <th data-k="acc_exit" data-t="num"><span class="hd">Exit<i class="info" tabindex="0" data-t="Exit effort (1–5)" data-c="Same 1–5 bands as Approach (Walking → Suffering), for getting from the end of the canyon back to the car. <b>1</b> = the road is right there · <b>5</b> = a long arduous climb-out.<br><br>Note: this reads the wiki's exit description. Where a canyon has two exits (Fir Creek), the beta usually describes one and the trip reports describe the other — check the reports before you commit." data-calc="same bands as Approach, parsed from RopeWiki exit beta">i</i></span><span class="arw">▲</span></th>
           <th data-k="acc_total" data-t="num"><span class="hd">Access<i class="info" tabindex="0" data-t="Total Access (1–5)" data-c="Approach and exit combined into one <b>get-in-and-out</b> number — the thing canyon ratings leave out entirely. Weighted toward the <b>worse</b> of the two, since one brutal end defines the day." data-calc="0.65 × worse end + 0.35 × average of both">i</i></span><span class="arw">▲</span></th>
-          <th data-k="wasp" data-t="num" class="waspcol"><span class="hd">Wasp<i class="info" tabindex="0" data-t="Wasp exposure (1–5)" data-c="A <b>terrain prediction</b>, grounded in wasp nesting research — not in trip reports. Many wasps (yellowjackets, paper wasps, hornets) nest in ground burrows, deadfall, rotten logs and creek banks, and get set off by ground vibration. So <b>off-trail miles matter more than total miles</b>: 2mi of maintained trail is a 1; 200ft of deadfall isn't.<br><br>A <b>logged nest</b> overrides the prediction for that canyon (see the Nest log column). Reports only ever push this <b>up</b> — nobody mentioning wasps isn't evidence they're absent.<br><br><b>It tracks Access closely, and that's the mechanism, not a coincidence:</b> brushy off-trail terrain is both harder to walk and better for nesting." data-calc="nest habitat (heavy) + off-trail travel + distance × off-trail; logged nest overrides">i</i></span><span class="arw">▲</span></th>
-          <th data-k="nests" data-t="num" class="waspcol"><span class="hd">Nest log<i class="info" tabindex="0" data-t="Nest log — actual sightings" data-c="Dated, <b>boots-on-ground</b> nest reports from RopeWiki's condition reports. Real evidence, not a prediction.<br><br><b>Only 7 of 119 Washington canyons have one.</b> Treat a blank as 'nobody wrote it down,' never as 'safe.' We count nests found, not stings taken — Hager's reporter found an active nest and wrote 'we were fortunate.' Same nest, same risk, different luck.<br><br>Colonies die each winter but the sites recur: Davis Creek's nest was logged in July and again in October." data-calc="Scanned 625 WA condition reports for wasp/hornet/yellowjacket/nest">i</i></span><span class="arw">▲</span></th>
-          <th data-k="season" data-t="str"><span class="hd">Season<i class="info" tabindex="0" data-t="Best season" data-c="The window when the canyon typically has runnable flow. RopeWiki's best-season field. The table isn't season-filtered, so check this before you plan — a top-ranked canyon might be a spring-only run." data-calc="Source: RopeWiki Has_best_season">i</i></span><span class="arw">▲</span></th>
+          <th data-k="wasp" data-t="num" class="waspcol"><span class="hd">Wasp<i class="info" tabindex="0" data-t="Wasp exposure (1–5)" data-c="A <b>terrain prediction</b>, grounded in wasp nesting research — not in trip reports. Many wasps (yellowjackets, paper wasps, hornets) nest in ground burrows, deadfall, rotten logs and creek banks, and get set off by ground vibration. So <b>off-trail miles matter more than total miles</b>: 2mi of maintained trail is a 1; 200ft of deadfall isn't.<br><br>A <b>logged nest</b> overrides the prediction for that canyon (see the Nest log column). Reports only ever push this <b>up</b> — nobody mentioning wasps isn't evidence they're absent.<br><br><b>It tracks Access closely, and that's the mechanism, not a coincidence:</b> brushy off-trail terrain is both harder to walk and better for nesting." data-calc="nest habitat (heavy) + off-trail travel + distance × off-trail; a logged nest overrides. Hover any score for its reasoning.">i</i></span><span class="arw">▲</span></th>
+                    <th data-k="season" data-t="str"><span class="hd">Season<i class="info" tabindex="0" data-t="Best season" data-c="The window when the canyon typically has runnable flow. RopeWiki's best-season field. The table isn't season-filtered, so check this before you plan — a top-ranked canyon might be a spring-only run." data-calc="Source: RopeWiki Has_best_season">i</i></span><span class="arw">▲</span></th>
           <th data-k="note" data-t="str"><span class="hd">Access notes<i class="info" tabindex="0" data-t="Access notes" data-c="Plain-language read on the approach and exit, plus a <b>thin beta</b> warning when RopeWiki has little access description — which makes that row's Access rating a guess, not a reading." data-calc="Generated from the approach/exit bands + distances">i</i></span><span class="arw">▲</span></th>
         </tr>
       </thead>
@@ -375,11 +379,35 @@
     var rom=['','I','II','III','IV','V','VI'][d.time];
     return '<div class="diffcell"><span class="diffword">'+rom+' · '+d.time_word+'</span><span class="diffraw">'+(d.time_hours||'')+'</span></div>';
   }
-  function nestCell(d){
-    if(!d.nests)return '<span class="nowasp">—</span>';
-    var l=d.nest_log[0]||{};
-    return '<span class="nestflag"><span class="wdot"></span>'+(l.year||'')
-      +(d.nests>1?' ·'+d.nests+'×':'')+'</span><span class="nestwhat">'+(l.what||'')+'</span>';
+  function waspCell(d){
+    if(d.wasp==null)return '<span class="seg segq" tabindex="0" data-t="Wasp — no beta"'
+      +' data-c="No usable approach/exit description, so there is nothing to read for nesting terrain. A gap in the data, <b>not</b> a low-risk reading." style="background:var(--e0)">?</span>';
+    var b=Math.max(1,Math.min(5,Math.round(d.wasp)));
+    var c=[];
+    if(d.nests){
+      // Evidence first: this is the part that is real rather than predicted.
+      c.push('<b>'+d.nests+' nest'+(d.nests>1?'s':'')+' logged here.</b>');
+      d.nest_log.forEach(function(n){
+        c.push('<span class="tipyr">'+(n.year||'—')+'</span> '+(n.what||''));
+      });
+      if(d.wasp_terrain!=null&&d.wasp_terrain<d.wasp)
+        c.push('<i>Terrain alone reads '+d.wasp_terrain.toFixed(1)+'. A logged nest overrides the prediction.</i>');
+      c.push('<i>Colonies die each winter, but the sites recur.</i>');
+    } else {
+      c.push('<b>Terrain prediction — no nest reported here.</b>');
+      var why=[];
+      if(d.appr_band&&d.appr_band!=='unknown')why.push(d.appr_band);
+      if(d.exit_band&&d.exit_band!=='unknown'&&d.exit_band!==d.appr_band)why.push('exit: '+d.exit_band);
+      if(why.length)c.push(why.join(' · '));
+      c.push(b<=2?'Little nesting terrain on the way in or out.'
+        :b<=3?'Some off-trail travel over ground that can hold nests.'
+        :'Sustained off-trail travel through deadfall and brush — prime nesting ground.');
+      c.push('<i>A blank means nobody wrote one up. It never means safe.</i>');
+    }
+    return '<span class="seg segi'+(d.nests?' hasnest':'')+'" tabindex="0" data-t="Wasp '+b
+      +(d.nests?' — '+d.nests+' nest logged':' — terrain only')+'"'
+      +' data-c="'+c.join('<br>').replace(/"/g,'&quot;')+'" style="background:var('+EC[b]+')">'+b
+      +(d.nests?'<span class="nestdot"></span>':'')+'</span>';
   }
   function noteCell(d){
     var s=[];
@@ -416,8 +444,7 @@
         +'<td>'+segDetail(d.acc_appr,d.appr_band,d.appr_stat,'Approach')+'</td>'
         +'<td>'+segDetail(d.acc_exit,d.exit_band,d.exit_stat,'Exit')+'</td>'
         +'<td>'+seg(d.acc_total)+'</td>'
-        +'<td class="waspcol">'+seg(d.wasp)+'</td>'
-        +'<td class="waspcol">'+nestCell(d)+'</td>'
+        +'<td class="waspcol">'+waspCell(d)+'</td>'
         +'<td class="season">'+(d.season||'—')+'</td>'
         +'<td class="note">'+noteCell(d)+'</td>'
         +'</tr>';
