@@ -6,9 +6,11 @@ An interactive, sortable matrix of every technical canyon in Washington State, s
 
 ## Why
 
-RopeWiki describes the approach and exit for every canyon. But it's **prose** — you read it one canyon at a time, and there's no number to compare or sort by. The two things you *can* sort by, the ACA rating and the star rating, are both about the descent.
+RopeWiki describes the approach and exit for every canyon. But it's **prose** — you read it one canyon at a time, and there's no number to compare or sort by.
 
-So the hike in and the climb out — often what actually makes or breaks the day — never show up as a score. This reads that beta and quantifies it: a number for the approach, a number for the exit, and one **Access** score combining them.
+The two fields you *can* sort by don't fill the gap. The **ACA rating** covers the canyoneering itself. The **star rating** is anyone's guess: every rater decides privately what it means, so one person's 5 might account for a brutal approach and the next person's might be purely about the canyoneering — and you can't tell which from the number.
+
+So this reads that beta and scores it **the same way for every canyon**: a number for the approach, a number for the exit, and one **Access** score combining them.
 
 It also stops throwing away two thirds of the official rating. The ACA rating is three independent parts, and most tools show only the first:
 
