@@ -37,6 +37,35 @@ def nest_notes():
     return out
 
 
+def latest_reports():
+    """canyon -> {date, url, count} from RopeWiki's Conditions: namespace.
+
+    Titles look like 'Conditions:<Canyon Name>-YYYYMMDDHHMMSS'. We match the stem
+    EXACTLY against the canyon name -- fuzzy matching cross-attributes reports
+    between distinct same-named canyons (Big Creek Sierra NF vs. ours), which is
+    worse than showing 'no report'. Date shown is the newest report's date.
+    """
+    out = {}
+    p = os.path.join(DATA, "all_condition_titles.json")
+    if not os.path.exists(p):
+        return out
+    pat = re.compile(r"^Conditions:(.+)-(\d{14})$")
+    by_canyon = collections.defaultdict(list)
+    for t in json.load(open(p)):
+        m = pat.match(t)
+        if m:
+            by_canyon[m.group(1)].append((m.group(2), t))
+    for name, reps in by_canyon.items():
+        reps.sort(reverse=True)  # newest first by the YYYYMMDDHHMMSS timestamp
+        ts, title = reps[0]
+        out[name] = {
+            "date": f"{ts[0:4]}-{ts[4:6]}-{ts[6:8]}",
+            "url": "https://ropewiki.com/" + title.replace(" ", "_"),
+            "count": len(reps),
+        }
+    return out
+
+
 def approach_stat(txt, seg_why):
     """Never say 'short' when we mean 'we could not tell' -- the old build did."""
     if seg_why is None or seg_why.get("trail") is None:
@@ -53,6 +82,7 @@ def approach_stat(txt, seg_why):
 def main():
     beta = json.load(open(os.path.join(DATA, "wa_beta.json")))
     notes = nest_notes()
+    reports = latest_reports()
     out = []
     for b in beta:
         name, st = b["canyon"], b["structured"]
@@ -97,6 +127,10 @@ def main():
             "wasp": rd(w), "wasp_terrain": rd(ww.get("terrain_only")),
             "nests": len(nl), "nest_log": nl,
             "adventure": adventure, "thin": thin,
+            # Latest RopeWiki trip report (date + link); None if none exist
+            "report_date": (reports.get(name) or {}).get("date"),
+            "report_url": (reports.get(name) or {}).get("url"),
+            "report_count": (reports.get(name) or {}).get("count", 0),
         })
 
     json.dump(out, open(os.path.join(DATA, "canyons.json"), "w"), indent=0)

@@ -28,7 +28,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2022-03-27",
+"report_url": "https://ropewiki.com/Conditions:Able_Creek-20220327044309",
+"report_count": 2
 },
 {
 "canyon": "Adams Creek Gorge",
@@ -59,7 +62,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": "2025-10-10",
+"report_url": "https://ropewiki.com/Conditions:Adams_Creek_Gorge-20251010213835",
+"report_count": 11
 },
 {
 "canyon": "Agnes Creek",
@@ -90,7 +96,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Alec Creek",
@@ -121,7 +130,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2017-08-28",
+"report_url": "https://ropewiki.com/Conditions:Alec_Creek-20170828000640",
+"report_count": 1
 },
 {
 "canyon": "Anderson Creek",
@@ -152,7 +164,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2023-08-24",
+"report_url": "https://ropewiki.com/Conditions:Anderson_Creek-20230824042042",
+"report_count": 1
 },
 {
 "canyon": "Ape Canyon",
@@ -183,7 +198,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.0,
-"thin": false
+"thin": false,
+"report_date": "2025-07-29",
+"report_url": "https://ropewiki.com/Conditions:Ape_Canyon-20250729202531",
+"report_count": 5
 },
 {
 "canyon": "Ape Cave",
@@ -214,7 +232,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 1.1,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Archer Creek (Columbia River Gorge)",
@@ -245,7 +266,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2026-05-03",
+"report_url": "https://ropewiki.com/Conditions:Archer_Creek_(Columbia_River_Gorge)-20260503031534",
+"report_count": 19
 },
 {
 "canyon": "Asbestos Creek",
@@ -276,7 +300,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.1,
-"thin": false
+"thin": false,
+"report_date": "2026-05-26",
+"report_url": "https://ropewiki.com/Conditions:Asbestos_Creek-20260526041237",
+"report_count": 11
 },
 {
 "canyon": "Ashton Canyon (Main Fork)",
@@ -307,7 +334,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.8,
-"thin": false
+"thin": false,
+"report_date": "2026-07-16",
+"report_url": "https://ropewiki.com/Conditions:Ashton_Canyon_(Main_Fork)-20260716042346",
+"report_count": 9
 },
 {
 "canyon": "Babyshoe Creek",
@@ -338,7 +368,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2023-09-18",
+"report_url": "https://ropewiki.com/Conditions:Babyshoe_Creek-20230918002202",
+"report_count": 1
 },
 {
 "canyon": "Barometer Creek",
@@ -369,7 +402,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Beacon Rock",
@@ -400,7 +436,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 1.0,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Bear Creek (NF Skykomish River)",
@@ -431,7 +470,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": false
+"thin": false,
+"report_date": "2025-10-06",
+"report_url": "https://ropewiki.com/Conditions:Bear_Creek_(NF_Skykomish_River)-20251006032335",
+"report_count": 7
 },
 {
 "canyon": "Big Bull Canyon",
@@ -462,7 +504,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2026-06-04",
+"report_url": "https://ropewiki.com/Conditions:Big_Bull_Canyon-20260604213537",
+"report_count": 1
 },
 {
 "canyon": "Big Creek (Olympic Peninsula)",
@@ -493,7 +538,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": "2023-06-23",
+"report_url": "https://ropewiki.com/Conditions:Big_Creek_(Olympic_Peninsula)-20230623041736",
+"report_count": 2
 },
 {
 "canyon": "Big Creek (South Cascades)",
@@ -524,7 +572,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": false
+"thin": false,
+"report_date": "2026-07-13",
+"report_url": "https://ropewiki.com/Conditions:Big_Creek_(South_Cascades)-20260713184611",
+"report_count": 55
 },
 {
 "canyon": "Big Creek (Upper, South Cascades)",
@@ -555,7 +606,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Big Four Ice Caves",
@@ -586,7 +640,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 1.5,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Big Huckleberry Creek",
@@ -617,7 +674,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.0,
-"thin": false
+"thin": false,
+"report_date": "2026-01-18",
+"report_url": "https://ropewiki.com/Conditions:Big_Huckleberry_Creek-20260118044311",
+"report_count": 4
 },
 {
 "canyon": "Big Quilcene River",
@@ -648,7 +708,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Bishop Creek",
@@ -679,7 +742,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Boetzke Canyon",
@@ -710,7 +776,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.9,
-"thin": false
+"thin": false,
+"report_date": "2021-06-27",
+"report_url": "https://ropewiki.com/Conditions:Boetzke_Canyon-20210627211358",
+"report_count": 3
 },
 {
 "canyon": "Boston Creek (North Cascades)",
@@ -741,7 +810,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Bottleneck Canyon",
@@ -772,7 +844,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2022-07-25",
+"report_url": "https://ropewiki.com/Conditions:Bottleneck_Canyon-20220725013923",
+"report_count": 2
 },
 {
 "canyon": "Bouck Creek Canyon",
@@ -803,7 +878,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Boulder Creek (North Cascades)",
@@ -834,7 +912,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Boulder Creek (South Cascades)",
@@ -865,7 +946,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2017-07-31",
+"report_url": "https://ropewiki.com/Conditions:Boulder_Creek_(South_Cascades)-20170731050411",
+"report_count": 1
 },
 {
 "canyon": "Boulder Springs (Klickitat County)",
@@ -896,7 +980,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Bowman Creek",
@@ -927,7 +1014,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.0,
-"thin": false
+"thin": false,
+"report_date": "2023-10-16",
+"report_url": "https://ropewiki.com/Conditions:Bowman_Creek-20231016012455",
+"report_count": 1
 },
 {
 "canyon": "Box Canyon Creek (Alpine Lakes)",
@@ -958,7 +1048,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Bozoo Creek",
@@ -989,7 +1082,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": "2019-02-04",
+"report_url": "https://ropewiki.com/Conditions:Bozoo_Creek-20190204174949",
+"report_count": 1
 },
 {
 "canyon": "Bridal Veil Creek",
@@ -1020,7 +1116,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": false
+"thin": false,
+"report_date": "2026-07-13",
+"report_url": "https://ropewiki.com/Conditions:Bridal_Veil_Creek-20260713162615",
+"report_count": 24
 },
 {
 "canyon": "Brush Creek",
@@ -1051,7 +1150,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Buckeye Creek",
@@ -1082,7 +1184,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Budweiser Creek",
@@ -1113,7 +1218,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.6,
-"thin": false
+"thin": false,
+"report_date": "2017-06-27",
+"report_url": "https://ropewiki.com/Conditions:Budweiser_Creek-20170627014132",
+"report_count": 1
 },
 {
 "canyon": "Cabin Creek",
@@ -1144,7 +1252,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": "2026-03-23",
+"report_url": "https://ropewiki.com/Conditions:Cabin_Creek-20260323040304",
+"report_count": 19
 },
 {
 "canyon": "Cabin Creek (Olympics)",
@@ -1175,7 +1286,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2026-06-07",
+"report_url": "https://ropewiki.com/Conditions:Cabin_Creek_(Olympics)-20260607025529",
+"report_count": 3
 },
 {
 "canyon": "Calligan Creek Canyon",
@@ -1206,7 +1320,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.1,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Camp Creek",
@@ -1237,7 +1354,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.3,
-"thin": false
+"thin": false,
+"report_date": "2023-05-21",
+"report_url": "https://ropewiki.com/Conditions:Camp_Creek-20230521172921",
+"report_count": 7
 },
 {
 "canyon": "Canyon Creek (North Cascades)",
@@ -1268,7 +1388,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Canyon Creek (Whatcom County)",
@@ -1299,7 +1422,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Cape Horn Creek",
@@ -1330,7 +1456,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Cape Horn Falls",
@@ -1361,7 +1490,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": "2023-01-22",
+"report_url": "https://ropewiki.com/Conditions:Cape_Horn_Falls-20230122010818",
+"report_count": 1
 },
 {
 "canyon": "Catherine Creek (Upper)",
@@ -1392,7 +1524,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.0,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Catherine Creek Slots",
@@ -1423,7 +1558,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2017-08-07",
+"report_url": "https://ropewiki.com/Conditions:Catherine_Creek_Slots-20170807164121",
+"report_count": 1
 },
 {
 "canyon": "Change Creek",
@@ -1454,7 +1592,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2026-05-18",
+"report_url": "https://ropewiki.com/Conditions:Change_Creek-20260518044041",
+"report_count": 26
 },
 {
 "canyon": "Chickoon Creek",
@@ -1485,7 +1626,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": "2020-08-22",
+"report_url": "https://ropewiki.com/Conditions:Chickoon_Creek-20200822030016",
+"report_count": 1
 },
 {
 "canyon": "Chikamin Narrows",
@@ -1516,7 +1660,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2025-07-14",
+"report_url": "https://ropewiki.com/Conditions:Chikamin_Narrows-20250714193220",
+"report_count": 1
 },
 {
 "canyon": "Chinook Creek",
@@ -1547,7 +1694,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2024-08-08",
+"report_url": "https://ropewiki.com/Conditions:Chinook_Creek-20240808234932",
+"report_count": 4
 },
 {
 "canyon": "Clark Creek",
@@ -1578,7 +1728,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": false
+"thin": false,
+"report_date": "2024-09-03",
+"report_url": "https://ropewiki.com/Conditions:Clark_Creek-20240903201903",
+"report_count": 5
 },
 {
 "canyon": "Cle Enum River (China Gorge)",
@@ -1609,7 +1762,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Clear Creek (West Fork)",
@@ -1640,7 +1796,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.3,
-"thin": false
+"thin": false,
+"report_date": "2025-04-28",
+"report_url": "https://ropewiki.com/Conditions:Clear_Creek_(West_Fork)-20250428202839",
+"report_count": 4
 },
 {
 "canyon": "Cloudcap Falls",
@@ -1671,7 +1830,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Coleman Creek",
@@ -1702,7 +1864,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Cooper River",
@@ -1733,7 +1898,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Cora Creek",
@@ -1764,7 +1932,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2024-02-06",
+"report_url": "https://ropewiki.com/Conditions:Cora_Creek-20240206045045",
+"report_count": 2
 },
 {
 "canyon": "Cortright Creek",
@@ -1795,7 +1966,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2025-09-07",
+"report_url": "https://ropewiki.com/Conditions:Cortright_Creek-20250907231320",
+"report_count": 1
 },
 {
 "canyon": "Cougar Creek",
@@ -1826,7 +2000,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.9,
-"thin": false
+"thin": false,
+"report_date": "2025-06-29",
+"report_url": "https://ropewiki.com/Conditions:Cougar_Creek-20250629232726",
+"report_count": 2
 },
 {
 "canyon": "Cougar Creek NE",
@@ -1857,7 +2034,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2025-06-30",
+"report_url": "https://ropewiki.com/Conditions:Cougar_Creek_NE-20250630011234",
+"report_count": 1
 },
 {
 "canyon": "Covell Creek (Main Fork)",
@@ -1888,7 +2068,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2021-05-03",
+"report_url": "https://ropewiki.com/Conditions:Covell_Creek_(Main_Fork)-20210503041547",
+"report_count": 1
 },
 {
 "canyon": "Covell Creek (West Fork)",
@@ -1919,7 +2102,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": "2024-07-07",
+"report_url": "https://ropewiki.com/Conditions:Covell_Creek_(West_Fork)-20240707191835",
+"report_count": 7
 },
 {
 "canyon": "Crater Lake Creek Canyon",
@@ -1950,7 +2136,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Crystal Creek (White Chuck River)",
@@ -1981,7 +2170,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2025-07-01",
+"report_url": "https://ropewiki.com/Conditions:Crystal_Creek_(White_Chuck_River)-20250701144328",
+"report_count": 2
 },
 {
 "canyon": "Cultus Creek",
@@ -2012,7 +2204,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Curly Creek",
@@ -2043,7 +2238,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.3,
-"thin": false
+"thin": false,
+"report_date": "2026-06-03",
+"report_url": "https://ropewiki.com/Conditions:Curly_Creek-20260603052315",
+"report_count": 1
 },
 {
 "canyon": "Cussed Hollow",
@@ -2074,7 +2272,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": "2024-08-30",
+"report_url": "https://ropewiki.com/Conditions:Cussed_Hollow-20240830122922",
+"report_count": 17
 },
 {
 "canyon": "Cynthia Creek",
@@ -2105,7 +2306,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2023-11-19",
+"report_url": "https://ropewiki.com/Conditions:Cynthia_Creek-20231119014824",
+"report_count": 2
 },
 {
 "canyon": "Dalles Creek",
@@ -2136,7 +2340,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2015-05-18",
+"report_url": "https://ropewiki.com/Conditions:Dalles_Creek-20150518054053",
+"report_count": 1
 },
 {
 "canyon": "Damnation Creek",
@@ -2167,7 +2374,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.1,
-"thin": false
+"thin": false,
+"report_date": "2025-08-27",
+"report_url": "https://ropewiki.com/Conditions:Damnation_Creek-20250827060613",
+"report_count": 1
 },
 {
 "canyon": "Dark Creek",
@@ -2198,7 +2408,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2026-07-02",
+"report_url": "https://ropewiki.com/Conditions:Dark_Creek-20260702012944",
+"report_count": 21
 },
 {
 "canyon": "Davis Creek Canyon",
@@ -2240,7 +2453,10 @@
 }
 ],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": "2026-07-13",
+"report_url": "https://ropewiki.com/Conditions:Davis_Creek_Canyon-20260713042719",
+"report_count": 81
 },
 {
 "canyon": "Deadhorse Creek",
@@ -2271,7 +2487,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2025-09-01",
+"report_url": "https://ropewiki.com/Conditions:Deadhorse_Creek-20250901032155",
+"report_count": 6
 },
 {
 "canyon": "Deep Creek (E Casc)",
@@ -2302,7 +2521,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": "2026-06-25",
+"report_url": "https://ropewiki.com/Conditions:Deep_Creek_(E_Casc)-20260625185353",
+"report_count": 1
 },
 {
 "canyon": "Deer Creek (MRNP)",
@@ -2333,7 +2555,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2026-07-12",
+"report_url": "https://ropewiki.com/Conditions:Deer_Creek_(MRNP)-20260712010536",
+"report_count": 5
 },
 {
 "canyon": "Denny Creek Canyon",
@@ -2364,7 +2589,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2024-07-15",
+"report_url": "https://ropewiki.com/Conditions:Denny_Creek_Canyon-20240715173929",
+"report_count": 4
 },
 {
 "canyon": "Devil's Whisper",
@@ -2395,7 +2623,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Devils Canyon",
@@ -2426,7 +2657,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2026-05-18",
+"report_url": "https://ropewiki.com/Conditions:Devils_Canyon-20260518040945",
+"report_count": 6
 },
 {
 "canyon": "Devils Chasm (Mount Rainier National Park)",
@@ -2457,7 +2691,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": "2021-09-08",
+"report_url": "https://ropewiki.com/Conditions:Devils_Chasm_(Mount_Rainier_National_Park)-20210908032721",
+"report_count": 1
 },
 {
 "canyon": "Devils Creek Canyon",
@@ -2488,7 +2725,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2026-05-18",
+"report_url": "https://ropewiki.com/Conditions:Devils_Creek_Canyon-20260518040544",
+"report_count": 1
 },
 {
 "canyon": "Dingford Creek",
@@ -2519,7 +2759,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2026-07-13",
+"report_url": "https://ropewiki.com/Conditions:Dingford_Creek-20260713040624",
+"report_count": 35
 },
 {
 "canyon": "Discovery Creek",
@@ -2550,7 +2793,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.6,
-"thin": false
+"thin": false,
+"report_date": "2025-07-14",
+"report_url": "https://ropewiki.com/Conditions:Discovery_Creek-20250714193532",
+"report_count": 1
 },
 {
 "canyon": "Dog Creek",
@@ -2581,7 +2827,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2026-05-31",
+"report_url": "https://ropewiki.com/Conditions:Dog_Creek-20260531004039",
+"report_count": 28
 },
 {
 "canyon": "Downclimbs R Us Creek",
@@ -2612,7 +2861,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2022-05-25",
+"report_url": "https://ropewiki.com/Conditions:Downclimbs_R_Us_Creek-20220525152659",
+"report_count": 1
 },
 {
 "canyon": "Dry Creek",
@@ -2643,7 +2895,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.0,
-"thin": false
+"thin": false,
+"report_date": "2025-08-22",
+"report_url": "https://ropewiki.com/Conditions:Dry_Creek-20250822153114",
+"report_count": 5
 },
 {
 "canyon": "Duncan Creek",
@@ -2674,7 +2929,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": "2026-07-07",
+"report_url": "https://ropewiki.com/Conditions:Duncan_Creek-20260707153635",
+"report_count": 56
 },
 {
 "canyon": "Eagle Creek",
@@ -2705,7 +2963,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2026-07-16",
+"report_url": "https://ropewiki.com/Conditions:Eagle_Creek-20260716051455",
+"report_count": 26
 },
 {
 "canyon": "East Canyon Creek",
@@ -2736,7 +2997,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2026-06-20",
+"report_url": "https://ropewiki.com/Conditions:East_Canyon_Creek-20260620003304",
+"report_count": 18
 },
 {
 "canyon": "Edith Creek Canyon",
@@ -2767,7 +3031,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": "2023-08-02",
+"report_url": "https://ropewiki.com/Conditions:Edith_Creek_Canyon-20230802040615",
+"report_count": 1
 },
 {
 "canyon": "Eightmile Creek",
@@ -2798,7 +3065,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2017-09-13",
+"report_url": "https://ropewiki.com/Conditions:Eightmile_Creek-20170913161610",
+"report_count": 1
 },
 {
 "canyon": "Eightmile Creek (South Cascades)",
@@ -2829,7 +3099,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2023-11-12",
+"report_url": "https://ropewiki.com/Conditions:Eightmile_Creek_(South_Cascades)-20231112070251",
+"report_count": 3
 },
 {
 "canyon": "Elwha River",
@@ -2860,7 +3133,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Falls Creek",
@@ -2891,7 +3167,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": "2025-11-16",
+"report_url": "https://ropewiki.com/Conditions:Falls_Creek-20251116014902",
+"report_count": 2
 },
 {
 "canyon": "Falls Creek (Marymere Falls)",
@@ -2922,7 +3201,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Falls of Abraham",
@@ -2953,7 +3235,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Fir Creek",
@@ -2990,7 +3275,10 @@
 }
 ],
 "adventure": 4.0,
-"thin": false
+"thin": false,
+"report_date": "2025-07-24",
+"report_url": "https://ropewiki.com/Conditions:Fir_Creek-20250724200641",
+"report_count": 8
 },
 {
 "canyon": "Fisher Creek",
@@ -3021,7 +3309,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2026-07-14",
+"report_url": "https://ropewiki.com/Conditions:Fisher_Creek-20260714032012",
+"report_count": 2
 },
 {
 "canyon": "Fivemile Creek",
@@ -3052,7 +3343,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.0,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Fools Canyon (Olympic Peninsula)",
@@ -3083,7 +3377,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.2,
-"thin": false
+"thin": false,
+"report_date": "2022-09-26",
+"report_url": "https://ropewiki.com/Conditions:Fools_Canyon_(Olympic_Peninsula)-20220926234424",
+"report_count": 4
 },
 {
 "canyon": "Fossil Creek (Mt. St. Helens)",
@@ -3114,7 +3411,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": "2026-06-28",
+"report_url": "https://ropewiki.com/Conditions:Fossil_Creek_(Mt._St._Helens)-20260628051550",
+"report_count": 4
 },
 {
 "canyon": "Four Mile Creek",
@@ -3145,7 +3445,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.9,
-"thin": false
+"thin": false,
+"report_date": "2016-05-16",
+"report_url": "https://ropewiki.com/Conditions:Four_Mile_Creek-20160516231415",
+"report_count": 3
 },
 {
 "canyon": "French Cabin Creek",
@@ -3176,7 +3479,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2019-07-27",
+"report_url": "https://ropewiki.com/Conditions:French_Cabin_Creek-20190727050255",
+"report_count": 1
 },
 {
 "canyon": "Fulton Creek",
@@ -3207,7 +3513,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.1,
-"thin": false
+"thin": false,
+"report_date": "2026-07-01",
+"report_url": "https://ropewiki.com/Conditions:Fulton_Creek-20260701044402",
+"report_count": 8
 },
 {
 "canyon": "Gable Creek",
@@ -3238,7 +3547,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": "2026-01-18",
+"report_url": "https://ropewiki.com/Conditions:Gable_Creek-20260118021125",
+"report_count": 2
 },
 {
 "canyon": "Galena Creek",
@@ -3269,7 +3581,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.3,
-"thin": false
+"thin": false,
+"report_date": "2026-04-27",
+"report_url": "https://ropewiki.com/Conditions:Galena_Creek-20260427015210",
+"report_count": 8
 },
 {
 "canyon": "Gargoyles Canyon",
@@ -3300,7 +3615,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.1,
-"thin": false
+"thin": false,
+"report_date": "2025-10-14",
+"report_url": "https://ropewiki.com/Conditions:Gargoyles_Canyon-20251014013149",
+"report_count": 4
 },
 {
 "canyon": "Glacial Gulch",
@@ -3331,7 +3649,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2023-08-12",
+"report_url": "https://ropewiki.com/Conditions:Glacial_Gulch-20230812212532",
+"report_count": 1
 },
 {
 "canyon": "Goat Creek",
@@ -3362,7 +3683,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Goforth Creek",
@@ -3393,7 +3717,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2020-10-05",
+"report_url": "https://ropewiki.com/Conditions:Goforth_Creek-20201005023302",
+"report_count": 2
 },
 {
 "canyon": "Gorge Creek Canyon",
@@ -3424,7 +3751,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2025-09-15",
+"report_url": "https://ropewiki.com/Conditions:Gorge_Creek_Canyon-20250915033557",
+"report_count": 6
 },
 {
 "canyon": "Gorton Creek",
@@ -3455,7 +3785,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.2,
-"thin": false
+"thin": false,
+"report_date": "2026-05-14",
+"report_url": "https://ropewiki.com/Conditions:Gorton_Creek-20260514233238",
+"report_count": 2
 },
 {
 "canyon": "Greenleaf Creek",
@@ -3486,7 +3819,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2025-10-19",
+"report_url": "https://ropewiki.com/Conditions:Greenleaf_Creek-20251019233332",
+"report_count": 1
 },
 {
 "canyon": "Gromit",
@@ -3517,7 +3853,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 1.5,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Hager Canyon",
@@ -3554,7 +3893,10 @@
 }
 ],
 "adventure": 3.0,
-"thin": false
+"thin": false,
+"report_date": "2026-07-16",
+"report_url": "https://ropewiki.com/Conditions:Hager_Canyon-20260716174526",
+"report_count": 59
 },
 {
 "canyon": "Hall Creek",
@@ -3585,7 +3927,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2024-11-07",
+"report_url": "https://ropewiki.com/Conditions:Hall_Creek-20241107010637",
+"report_count": 6
 },
 {
 "canyon": "Hancock Creek",
@@ -3616,7 +3961,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.0,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Hardy Creek",
@@ -3647,7 +3995,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2024-10-26",
+"report_url": "https://ropewiki.com/Conditions:Hardy_Creek-20241026234457",
+"report_count": 3
 },
 {
 "canyon": "Harphan Creek",
@@ -3678,7 +4029,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.3,
-"thin": false
+"thin": false,
+"report_date": "2026-06-01",
+"report_url": "https://ropewiki.com/Conditions:Harphan_Creek-20260601144420",
+"report_count": 2
 },
 {
 "canyon": "Hawthorn Creek (North Cascades)",
@@ -3709,7 +4063,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.3,
-"thin": false
+"thin": false,
+"report_date": "2023-07-17",
+"report_url": "https://ropewiki.com/Conditions:Hawthorn_Creek_(North_Cascades)-20230717170310",
+"report_count": 5
 },
 {
 "canyon": "Helena Creek",
@@ -3740,7 +4097,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2025-09-08",
+"report_url": "https://ropewiki.com/Conditions:Helena_Creek-20250908225018",
+"report_count": 5
 },
 {
 "canyon": "Herman Creek Narrows",
@@ -3771,7 +4131,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2021-09-23",
+"report_url": "https://ropewiki.com/Conditions:Herman_Creek_Narrows-20210923031525",
+"report_count": 1
 },
 {
 "canyon": "Hidden Canyon (North Cascades)",
@@ -3802,7 +4165,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2023-08-25",
+"report_url": "https://ropewiki.com/Conditions:Hidden_Canyon_(North_Cascades)-20230825035235",
+"report_count": 3
 },
 {
 "canyon": "Hinkle Tinkle Creek",
@@ -3833,7 +4199,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": "2026-05-24",
+"report_url": "https://ropewiki.com/Conditions:Hinkle_Tinkle_Creek-20260524235217",
+"report_count": 3
 },
 {
 "canyon": "Hole-in-the-Wall Falls",
@@ -3864,7 +4233,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2026-04-29",
+"report_url": "https://ropewiki.com/Conditions:Hole-in-the-Wall_Falls-20260429000954",
+"report_count": 9
 },
 {
 "canyon": "Hopkins Creek",
@@ -3895,7 +4267,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2026-01-16",
+"report_url": "https://ropewiki.com/Conditions:Hopkins_Creek-20260116043148",
+"report_count": 22
 },
 {
 "canyon": "Horsetail Creek",
@@ -3926,7 +4301,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2026-05-19",
+"report_url": "https://ropewiki.com/Conditions:Horsetail_Creek-20260519234731",
+"report_count": 2
 },
 {
 "canyon": "Howe Creek",
@@ -3957,7 +4335,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Hughes Gorge",
@@ -3988,7 +4369,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 1.8,
-"thin": false
+"thin": false,
+"report_date": "2025-08-03",
+"report_url": "https://ropewiki.com/Conditions:Hughes_Gorge-20250803184203",
+"report_count": 2
 },
 {
 "canyon": "Humptulips River (East Fork)",
@@ -4019,7 +4403,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Hungry Bear",
@@ -4050,7 +4437,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2024-08-19",
+"report_url": "https://ropewiki.com/Conditions:Hungry_Bear-20240819181428",
+"report_count": 5
 },
 {
 "canyon": "Hungry Bear (Lower)",
@@ -4081,7 +4471,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Incognito Canyon",
@@ -4112,7 +4505,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": "2025-08-27",
+"report_url": "https://ropewiki.com/Conditions:Incognito_Canyon-20250827180346",
+"report_count": 10
 },
 {
 "canyon": "Irene Creek",
@@ -4143,7 +4539,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2025-07-26",
+"report_url": "https://ropewiki.com/Conditions:Irene_Creek-20250726212148",
+"report_count": 8
 },
 {
 "canyon": "Kachess River (Upper)",
@@ -4174,7 +4573,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": "2020-07-13",
+"report_url": "https://ropewiki.com/Conditions:Kachess_River_(Upper)-20200713012032",
+"report_count": 1
 },
 {
 "canyon": "Kane Creek",
@@ -4205,7 +4607,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2025-05-05",
+"report_url": "https://ropewiki.com/Conditions:Kane_Creek-20250505144252",
+"report_count": 3
 },
 {
 "canyon": "Klickitat Creek",
@@ -4236,7 +4641,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.1,
-"thin": false
+"thin": false,
+"report_date": "2017-07-11",
+"report_url": "https://ropewiki.com/Conditions:Klickitat_Creek-20170711062716",
+"report_count": 1
 },
 {
 "canyon": "Koda Creek",
@@ -4267,7 +4675,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2025-06-10",
+"report_url": "https://ropewiki.com/Conditions:Koda_Creek-20250610191628",
+"report_count": 2
 },
 {
 "canyon": "Kromona Creek",
@@ -4298,7 +4709,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.0,
-"thin": false
+"thin": false,
+"report_date": "2026-03-12",
+"report_url": "https://ropewiki.com/Conditions:Kromona_Creek-20260312045809",
+"report_count": 6
 },
 {
 "canyon": "Labyrinth Creek",
@@ -4329,7 +4743,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2017-10-23",
+"report_url": "https://ropewiki.com/Conditions:Labyrinth_Creek-20171023020942",
+"report_count": 3
 },
 {
 "canyon": "Ladder Creek",
@@ -4360,7 +4777,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.1,
-"thin": false
+"thin": false,
+"report_date": "2025-09-20",
+"report_url": "https://ropewiki.com/Conditions:Ladder_Creek-20250920161756",
+"report_count": 9
 },
 {
 "canyon": "Lake Creek",
@@ -4391,7 +4811,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2025-10-22",
+"report_url": "https://ropewiki.com/Conditions:Lake_Creek-20251022232519",
+"report_count": 1
 },
 {
 "canyon": "Lake Creek (Baker River)",
@@ -4422,7 +4845,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.9,
-"thin": false
+"thin": false,
+"report_date": "2026-07-10",
+"report_url": "https://ropewiki.com/Conditions:Lake_Creek_(Baker_River)-20260710143722",
+"report_count": 9
 },
 {
 "canyon": "Lake Creek Narrows",
@@ -4453,7 +4879,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Latourell Creek",
@@ -4484,7 +4913,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 1.1,
-"thin": false
+"thin": false,
+"report_date": "2026-06-29",
+"report_url": "https://ropewiki.com/Conditions:Latourell_Creek-20260629041027",
+"report_count": 2
 },
 {
 "canyon": "Lava Canyon (Mt. St. Helens)",
@@ -4515,7 +4947,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "LeBar Creek",
@@ -4546,7 +4981,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2025-07-21",
+"report_url": "https://ropewiki.com/Conditions:LeBar_Creek-20250721204433",
+"report_count": 15
 },
 {
 "canyon": "Lena Creek",
@@ -4577,7 +5015,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2026-07-08",
+"report_url": "https://ropewiki.com/Conditions:Lena_Creek-20260708224335",
+"report_count": 3
 },
 {
 "canyon": "Lewis River",
@@ -4608,7 +5049,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.3,
-"thin": false
+"thin": false,
+"report_date": "2026-07-13",
+"report_url": "https://ropewiki.com/Conditions:Lewis_River-20260713185118",
+"report_count": 29
 },
 {
 "canyon": "Lindsey Creek",
@@ -4639,7 +5083,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.0,
-"thin": false
+"thin": false,
+"report_date": "2022-09-12",
+"report_url": "https://ropewiki.com/Conditions:Lindsey_Creek-20220912021158",
+"report_count": 5
 },
 {
 "canyon": "Little Goose Creek",
@@ -4670,7 +5117,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2023-08-07",
+"report_url": "https://ropewiki.com/Conditions:Little_Goose_Creek-20230807055215",
+"report_count": 3
 },
 {
 "canyon": "Little Mashel River",
@@ -4701,7 +5151,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Little Perham Creek",
@@ -4732,7 +5185,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": "2017-07-10",
+"report_url": "https://ropewiki.com/Conditions:Little_Perham_Creek-20170710172654",
+"report_count": 1
 },
 {
 "canyon": "Little Viento Creek",
@@ -4763,7 +5219,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2024-03-11",
+"report_url": "https://ropewiki.com/Conditions:Little_Viento_Creek-20240311004130",
+"report_count": 3
 },
 {
 "canyon": "Little Woodward Creek",
@@ -4794,7 +5253,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2022-02-27",
+"report_url": "https://ropewiki.com/Conditions:Little_Woodward_Creek-20220227024248",
+"report_count": 6
 },
 {
 "canyon": "Lookingglass Creek",
@@ -4825,7 +5287,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": "2020-09-02",
+"report_url": "https://ropewiki.com/Conditions:Lookingglass_Creek-20200902193040",
+"report_count": 1
 },
 {
 "canyon": "Looky here",
@@ -4856,7 +5321,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2025-03-24",
+"report_url": "https://ropewiki.com/Conditions:Looky_here-20250324204102",
+"report_count": 1
 },
 {
 "canyon": "Lower Fulton Creek",
@@ -4893,7 +5361,10 @@
 }
 ],
 "adventure": 4.0,
-"thin": false
+"thin": false,
+"report_date": "2026-07-07",
+"report_url": "https://ropewiki.com/Conditions:Lower_Fulton_Creek-20260707004956",
+"report_count": 12
 },
 {
 "canyon": "Lower Lindsey Creek",
@@ -4924,7 +5395,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2024-09-17",
+"report_url": "https://ropewiki.com/Conditions:Lower_Lindsey_Creek-20240917021828",
+"report_count": 5
 },
 {
 "canyon": "Madison Falls",
@@ -4955,7 +5429,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2026-01-18",
+"report_url": "https://ropewiki.com/Conditions:Madison_Falls-20260118050416",
+"report_count": 3
 },
 {
 "canyon": "Major Creek Gorge",
@@ -4986,7 +5463,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.2,
-"thin": false
+"thin": false,
+"report_date": "2017-09-17",
+"report_url": "https://ropewiki.com/Conditions:Major_Creek_Gorge-20170917194622",
+"report_count": 2
 },
 {
 "canyon": "Malachite Canyon",
@@ -5017,7 +5497,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": false
+"thin": false,
+"report_date": "2018-08-06",
+"report_url": "https://ropewiki.com/Conditions:Malachite_Canyon-20180806015357",
+"report_count": 1
 },
 {
 "canyon": "Marble Creek",
@@ -5048,7 +5531,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Marten Creek (Alpine Lakes)",
@@ -5079,7 +5565,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": "2018-10-20",
+"report_url": "https://ropewiki.com/Conditions:Marten_Creek_(Alpine_Lakes)-20181020234239",
+"report_count": 1
 },
 {
 "canyon": "Marten Creek (North Cascades)",
@@ -5110,7 +5599,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2026-07-15",
+"report_url": "https://ropewiki.com/Conditions:Marten_Creek_(North_Cascades)-20260715030328",
+"report_count": 5
 },
 {
 "canyon": "Mashel River",
@@ -5141,7 +5633,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Memaloose Creek (Columbia River Gorge)",
@@ -5172,7 +5667,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2018-03-05",
+"report_url": "https://ropewiki.com/Conditions:Memaloose_Creek_(Columbia_River_Gorge)-20180305185059",
+"report_count": 2
 },
 {
 "canyon": "Merritt Falls",
@@ -5203,7 +5701,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2023-07-06",
+"report_url": "https://ropewiki.com/Conditions:Merritt_Falls-20230706060430",
+"report_count": 1
 },
 {
 "canyon": "Mesatchee Creek",
@@ -5234,7 +5735,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2025-08-16",
+"report_url": "https://ropewiki.com/Conditions:Mesatchee_Creek-20250816023307",
+"report_count": 5
 },
 {
 "canyon": "Middle Fork Big Creek (Olympic Peninsula)",
@@ -5265,7 +5769,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2023-07-24",
+"report_url": "https://ropewiki.com/Conditions:Middle_Fork_Big_Creek_(Olympic_Peninsula)-20230724151614",
+"report_count": 2
 },
 {
 "canyon": "Miller Creek",
@@ -5296,7 +5803,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 5.0,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Mineral Creek (Alpine Lakes)",
@@ -5327,7 +5837,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2026-07-16",
+"report_url": "https://ropewiki.com/Conditions:Mineral_Creek_(Alpine_Lakes)-20260716224856",
+"report_count": 31
 },
 {
 "canyon": "Mist Falls",
@@ -5358,7 +5871,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2024-10-15",
+"report_url": "https://ropewiki.com/Conditions:Mist_Falls-20241015181830",
+"report_count": 2
 },
 {
 "canyon": "Moffett Creek",
@@ -5389,7 +5905,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": "2020-08-12",
+"report_url": "https://ropewiki.com/Conditions:Moffett_Creek-20200812034145",
+"report_count": 3
 },
 {
 "canyon": "Monogram Creek",
@@ -5420,7 +5939,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Morning Star Creek (North Cascades)",
@@ -5451,7 +5973,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Mosquito Creek (South Cascades)",
@@ -5482,7 +6007,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2023-09-04",
+"report_url": "https://ropewiki.com/Conditions:Mosquito_Creek_(South_Cascades)-20230904031836",
+"report_count": 3
 },
 {
 "canyon": "Mouse Creek",
@@ -5513,7 +6041,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Mowich River (North)",
@@ -5544,7 +6075,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Multnomah Creek",
@@ -5575,7 +6109,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Munra Creek",
@@ -5606,7 +6143,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.6,
-"thin": false
+"thin": false,
+"report_date": "2025-12-07",
+"report_url": "https://ropewiki.com/Conditions:Munra_Creek-20251207220449",
+"report_count": 15
 },
 {
 "canyon": "Murhut Creek",
@@ -5637,7 +6177,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2026-05-19",
+"report_url": "https://ropewiki.com/Conditions:Murhut_Creek-20260519012648",
+"report_count": 11
 },
 {
 "canyon": "Murphy Creek",
@@ -5668,7 +6211,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Nacho Canyon",
@@ -5699,7 +6245,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.3,
-"thin": false
+"thin": false,
+"report_date": "2026-07-08",
+"report_url": "https://ropewiki.com/Conditions:Nacho_Canyon-20260708175338",
+"report_count": 1
 },
 {
 "canyon": "Nash Creek",
@@ -5730,7 +6279,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2020-03-22",
+"report_url": "https://ropewiki.com/Conditions:Nash_Creek-20200322175615",
+"report_count": 1
 },
 {
 "canyon": "Neat Canyon",
@@ -5761,7 +6313,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Neiderprum Gulch",
@@ -5792,7 +6347,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 1.0,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Nelson Creek",
@@ -5823,7 +6381,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2017-08-16",
+"report_url": "https://ropewiki.com/Conditions:Nelson_Creek-20170816051442",
+"report_count": 2
 },
 {
 "canyon": "Nickel Creek",
@@ -5854,7 +6415,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Noochee Creek",
@@ -5885,7 +6449,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2023-10-30",
+"report_url": "https://ropewiki.com/Conditions:Noochee_Creek-20231030003451",
+"report_count": 1
 },
 {
 "canyon": "North Fork Granite Creek",
@@ -5916,7 +6483,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "North Fork Tieton River",
@@ -5947,7 +6517,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.0,
-"thin": false
+"thin": false,
+"report_date": "2025-09-21",
+"report_url": "https://ropewiki.com/Conditions:North_Fork_Tieton_River-20250921153929",
+"report_count": 4
 },
 {
 "canyon": "Northwoods Creek",
@@ -5978,7 +6551,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2026-04-19",
+"report_url": "https://ropewiki.com/Conditions:Northwoods_Creek-20260419024343",
+"report_count": 3
 },
 {
 "canyon": "Not Miller Creek",
@@ -6009,7 +6585,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.3,
-"thin": false
+"thin": false,
+"report_date": "2025-04-07",
+"report_url": "https://ropewiki.com/Conditions:Not_Miller_Creek-20250407145706",
+"report_count": 1
 },
 {
 "canyon": "O'Toole Creek",
@@ -6040,7 +6619,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2026-05-29",
+"report_url": "https://ropewiki.com/Conditions:O'Toole_Creek-20260529170131",
+"report_count": 11
 },
 {
 "canyon": "Offset yourself to the flow",
@@ -6071,7 +6653,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2023-08-01",
+"report_url": "https://ropewiki.com/Conditions:Offset_yourself_to_the_flow-20230801190632",
+"report_count": 1
 },
 {
 "canyon": "Olallie Creek",
@@ -6102,7 +6687,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2026-05-29",
+"report_url": "https://ropewiki.com/Conditions:Olallie_Creek-20260529162602",
+"report_count": 20
 },
 {
 "canyon": "One and a Half Mile Creek",
@@ -6133,7 +6721,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Oneonta Creek",
@@ -6164,7 +6755,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2017-07-15",
+"report_url": "https://ropewiki.com/Conditions:Oneonta_Creek-20170715071800",
+"report_count": 1
 },
 {
 "canyon": "PCT Creek",
@@ -6195,7 +6789,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.9,
-"thin": false
+"thin": false,
+"report_date": "2024-06-02",
+"report_url": "https://ropewiki.com/Conditions:PCT_Creek-20240602223340",
+"report_count": 1
 },
 {
 "canyon": "Palouse Canyon",
@@ -6226,7 +6823,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Panamaker Creek",
@@ -6257,7 +6857,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Panther Creek",
@@ -6288,7 +6891,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 1.0,
-"thin": false
+"thin": false,
+"report_date": "2025-03-24",
+"report_url": "https://ropewiki.com/Conditions:Panther_Creek-20250324184005",
+"report_count": 1
 },
 {
 "canyon": "Panther Creek (Mount Rainier National Park)",
@@ -6319,7 +6925,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2026-07-12",
+"report_url": "https://ropewiki.com/Conditions:Panther_Creek_(Mount_Rainier_National_Park)-20260712013955",
+"report_count": 17
 },
 {
 "canyon": "Paradise Creek",
@@ -6350,7 +6959,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": "2025-06-10",
+"report_url": "https://ropewiki.com/Conditions:Paradise_Creek-20250610192508",
+"report_count": 4
 },
 {
 "canyon": "Paris Creek",
@@ -6381,7 +6993,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Pilot Creek",
@@ -6412,7 +7027,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2025-07-27",
+"report_url": "https://ropewiki.com/Conditions:Pilot_Creek-20250727065315",
+"report_count": 7
 },
 {
 "canyon": "Pin Creek",
@@ -6443,7 +7061,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2026-07-13",
+"report_url": "https://ropewiki.com/Conditions:Pin_Creek-20260713184743",
+"report_count": 42
 },
 {
 "canyon": "Pin Creek (Upper)",
@@ -6474,7 +7095,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Platinum Creek",
@@ -6505,7 +7129,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": "2021-03-01",
+"report_url": "https://ropewiki.com/Conditions:Platinum_Creek-20210301020334",
+"report_count": 1
 },
 {
 "canyon": "Pothole Surprise",
@@ -6536,7 +7163,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2023-09-03",
+"report_url": "https://ropewiki.com/Conditions:Pothole_Surprise-20230903042844",
+"report_count": 3
 },
 {
 "canyon": "Prairie Creek",
@@ -6567,7 +7197,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2024-08-08",
+"report_url": "https://ropewiki.com/Conditions:Prairie_Creek-20240808233931",
+"report_count": 2
 },
 {
 "canyon": "Prindle Creek",
@@ -6598,7 +7231,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": "2026-02-08",
+"report_url": "https://ropewiki.com/Conditions:Prindle_Creek-20260208010109",
+"report_count": 10
 },
 {
 "canyon": "Prospect Creek (Washington)",
@@ -6629,7 +7265,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Prospector Creek",
@@ -6660,7 +7299,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": "2023-08-28",
+"report_url": "https://ropewiki.com/Conditions:Prospector_Creek-20230828085639",
+"report_count": 2
 },
 {
 "canyon": "Proverbial Creek",
@@ -6691,7 +7333,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Purcell Creek",
@@ -6722,7 +7367,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Quartz Creek (South Cascades)",
@@ -6753,7 +7401,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2025-05-22",
+"report_url": "https://ropewiki.com/Conditions:Quartz_Creek_(South_Cascades)-20250522084522",
+"report_count": 1
 },
 {
 "canyon": "Queets Canyon",
@@ -6784,7 +7435,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Quicksilver Creek",
@@ -6815,7 +7469,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": "2026-07-04",
+"report_url": "https://ropewiki.com/Conditions:Quicksilver_Creek-20260704033527",
+"report_count": 23
 },
 {
 "canyon": "Rachor Creek",
@@ -6846,7 +7503,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": "2026-06-30",
+"report_url": "https://ropewiki.com/Conditions:Rachor_Creek-20260630002633",
+"report_count": 5
 },
 {
 "canyon": "Razzle Dazzle Creek",
@@ -6877,7 +7537,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2025-05-17",
+"report_url": "https://ropewiki.com/Conditions:Razzle_Dazzle_Creek-20250517174410",
+"report_count": 5
 },
 {
 "canyon": "Riley Creek",
@@ -6908,7 +7571,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.1,
-"thin": false
+"thin": false,
+"report_date": "2026-06-19",
+"report_url": "https://ropewiki.com/Conditions:Riley_Creek-20260619234503",
+"report_count": 5
 },
 {
 "canyon": "Ring of Fire (Olympics)",
@@ -6939,7 +7605,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 1.5,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Robe Canyon",
@@ -6970,7 +7639,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Rock Creek (Alternate, South Cascades)",
@@ -7001,7 +7673,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2025-05-27",
+"report_url": "https://ropewiki.com/Conditions:Rock_Creek_(Alternate,_South_Cascades)-20250527030258",
+"report_count": 3
 },
 {
 "canyon": "Rock Creek (Cowlitz County)",
@@ -7032,7 +7707,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.1,
-"thin": false
+"thin": false,
+"report_date": "2021-06-01",
+"report_url": "https://ropewiki.com/Conditions:Rock_Creek_(Cowlitz_County)-20210601021404",
+"report_count": 1
 },
 {
 "canyon": "Rock Creek (Indie, South Cascades)",
@@ -7063,7 +7741,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2021-11-30",
+"report_url": "https://ropewiki.com/Conditions:Rock_Creek_(Indie,_South_Cascades)-20211130012306",
+"report_count": 1
 },
 {
 "canyon": "Rock Creek (Olympic Peninsula)",
@@ -7094,7 +7775,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": "2026-07-02",
+"report_url": "https://ropewiki.com/Conditions:Rock_Creek_(Olympic_Peninsula)-20260702052558",
+"report_count": 27
 },
 {
 "canyon": "Rock Creek (Post, South Cascades)",
@@ -7125,7 +7809,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2025-06-15",
+"report_url": "https://ropewiki.com/Conditions:Rock_Creek_(Post,_South_Cascades)-20250615030751",
+"report_count": 1
 },
 {
 "canyon": "Rock Creek (South Cascades)",
@@ -7156,7 +7843,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.6,
-"thin": false
+"thin": false,
+"report_date": "2024-05-20",
+"report_url": "https://ropewiki.com/Conditions:Rock_Creek_(South_Cascades)-20240520223031",
+"report_count": 6
 },
 {
 "canyon": "Rock Creek (Tsolo Scramble)",
@@ -7187,7 +7877,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2017-07-24",
+"report_url": "https://ropewiki.com/Conditions:Rock_Creek_(Tsolo_Scramble)-20170724154513",
+"report_count": 1
 },
 {
 "canyon": "Rock Creek (Upper North Fork, South Cascades)",
@@ -7224,7 +7917,10 @@
 }
 ],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2026-07-15",
+"report_url": "https://ropewiki.com/Conditions:Rock_Creek_(Upper_North_Fork,_South_Cascades)-20260715001436",
+"report_count": 5
 },
 {
 "canyon": "Rocky Run Creek",
@@ -7255,7 +7951,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Ruckel Creek",
@@ -7286,7 +7985,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2025-03-24",
+"report_url": "https://ropewiki.com/Conditions:Ruckel_Creek-20250324193255",
+"report_count": 1
 },
 {
 "canyon": "Ruth Creek",
@@ -7317,7 +8019,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": "2026-01-27",
+"report_url": "https://ropewiki.com/Conditions:Ruth_Creek-20260127051850",
+"report_count": 7
 },
 {
 "canyon": "SMC Creek",
@@ -7348,7 +8053,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": false
+"thin": false,
+"report_date": "2025-06-07",
+"report_url": "https://ropewiki.com/Conditions:SMC_Creek-20250607063215",
+"report_count": 1
 },
 {
 "canyon": "Satsop River Gorge (West Fork)",
@@ -7379,7 +8087,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2023-07-27",
+"report_url": "https://ropewiki.com/Conditions:Satsop_River_Gorge_(West_Fork)-20230727142039",
+"report_count": 2
 },
 {
 "canyon": "Seahpo Peak Falls",
@@ -7410,7 +8121,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Sheep Canyon (South Cascades)",
@@ -7441,7 +8155,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2022-08-28",
+"report_url": "https://ropewiki.com/Conditions:Sheep_Canyon_(South_Cascades)-20220828033603",
+"report_count": 1
 },
 {
 "canyon": "Shiver Slot",
@@ -7472,7 +8189,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.0,
-"thin": false
+"thin": false,
+"report_date": "2026-07-10",
+"report_url": "https://ropewiki.com/Conditions:Shiver_Slot-20260710152936",
+"report_count": 3
 },
 {
 "canyon": "Sholes Creek",
@@ -7503,7 +8223,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2023-09-11",
+"report_url": "https://ropewiki.com/Conditions:Sholes_Creek-20230911053128",
+"report_count": 3
 },
 {
 "canyon": "Shoofly",
@@ -7534,7 +8257,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2025-11-10",
+"report_url": "https://ropewiki.com/Conditions:Shoofly-20251110035650",
+"report_count": 1
 },
 {
 "canyon": "Shuksan Creek",
@@ -7565,7 +8291,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Silver Creek Canyon",
@@ -7596,7 +8325,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": "2025-10-08",
+"report_url": "https://ropewiki.com/Conditions:Silver_Creek_Canyon-20251008185057",
+"report_count": 10
 },
 {
 "canyon": "Skokomish River (South Fork)",
@@ -7627,7 +8359,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Skookum Canyon",
@@ -7658,7 +8393,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2021-02-28",
+"report_url": "https://ropewiki.com/Conditions:Skookum_Canyon-20210228170015",
+"report_count": 3
 },
 {
 "canyon": "Skookum Falls",
@@ -7689,7 +8427,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.3,
-"thin": false
+"thin": false,
+"report_date": "2026-05-03",
+"report_url": "https://ropewiki.com/Conditions:Skookum_Falls-20260503010948",
+"report_count": 6
 },
 {
 "canyon": "Sky Creek",
@@ -7720,7 +8461,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2022-09-13",
+"report_url": "https://ropewiki.com/Conditions:Sky_Creek-20220913231320",
+"report_count": 1
 },
 {
 "canyon": "Skyhomelyish (southeast)",
@@ -7751,7 +8495,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": "2025-07-28",
+"report_url": "https://ropewiki.com/Conditions:Skyhomelyish_(southeast)-20250728152341",
+"report_count": 1
 },
 {
 "canyon": "Snag Creek",
@@ -7782,7 +8529,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.1,
-"thin": false
+"thin": false,
+"report_date": "2021-05-17",
+"report_url": "https://ropewiki.com/Conditions:Snag_Creek-20210517002327",
+"report_count": 1
 },
 {
 "canyon": "Snagtooth Creek",
@@ -7813,7 +8563,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": "2019-11-10",
+"report_url": "https://ropewiki.com/Conditions:Snagtooth_Creek-20191110025704",
+"report_count": 1
 },
 {
 "canyon": "Snoqualmie River (North Fork)",
@@ -7844,7 +8597,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Snoqualmie River (South Fork)",
@@ -7875,7 +8631,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2025-08-25",
+"report_url": "https://ropewiki.com/Conditions:Snoqualmie_River_(South_Fork)-20250825224015",
+"report_count": 28
 },
 {
 "canyon": "Snoquera Falls",
@@ -7906,7 +8665,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 5.0,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Snyder Creek (Upper)",
@@ -7937,7 +8699,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2026-01-12",
+"report_url": "https://ropewiki.com/Conditions:Snyder_Creek_(Upper)-20260112055713",
+"report_count": 1
 },
 {
 "canyon": "South Fork Buck Creek",
@@ -7968,7 +8733,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Souther Creek",
@@ -7999,7 +8767,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.0,
-"thin": false
+"thin": false,
+"report_date": "2025-10-12",
+"report_url": "https://ropewiki.com/Conditions:Souther_Creek-20251012173335",
+"report_count": 5
 },
 {
 "canyon": "Spencer Creek",
@@ -8030,7 +8801,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.3,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Star Creek",
@@ -8061,7 +8835,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": "2026-05-10",
+"report_url": "https://ropewiki.com/Conditions:Star_Creek-20260510043652",
+"report_count": 1
 },
 {
 "canyon": "Starvation Creek",
@@ -8092,7 +8869,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2026-05-10",
+"report_url": "https://ropewiki.com/Conditions:Starvation_Creek-20260510031644",
+"report_count": 6
 },
 {
 "canyon": "Steamboat Falls",
@@ -8123,7 +8903,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 5.0,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Steel Canyon",
@@ -8154,7 +8937,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Steel Creek",
@@ -8185,7 +8971,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2023-07-10",
+"report_url": "https://ropewiki.com/Conditions:Steel_Creek-20230710023649",
+"report_count": 1
 },
 {
 "canyon": "Stevens Canyon (Mount Rainer)",
@@ -8216,7 +9005,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 5.0,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Straight Creek",
@@ -8247,7 +9039,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2023-10-10",
+"report_url": "https://ropewiki.com/Conditions:Straight_Creek-20231010030014",
+"report_count": 2
 },
 {
 "canyon": "Strawberry Mountain Falls",
@@ -8278,7 +9073,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2024-05-29",
+"report_url": "https://ropewiki.com/Conditions:Strawberry_Mountain_Falls-20240529015228",
+"report_count": 3
 },
 {
 "canyon": "Suiattle Falls",
@@ -8309,7 +9107,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2026-06-17",
+"report_url": "https://ropewiki.com/Conditions:Suiattle_Falls-20260617145407",
+"report_count": 5
 },
 {
 "canyon": "Sulphide Creek",
@@ -8340,7 +9141,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 5.0,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Summit Creek (Klickitat)",
@@ -8371,7 +9175,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2026-06-12",
+"report_url": "https://ropewiki.com/Conditions:Summit_Creek_(Klickitat)-20260612001701",
+"report_count": 1
 },
 {
 "canyon": "Summit Creek (Oregon Side)",
@@ -8402,7 +9209,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2023-10-01",
+"report_url": "https://ropewiki.com/Conditions:Summit_Creek_(Oregon_Side)-20231001234124",
+"report_count": 3
 },
 {
 "canyon": "Summit Creek Canyon",
@@ -8433,7 +9243,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2025-08-17",
+"report_url": "https://ropewiki.com/Conditions:Summit_Creek_Canyon-20250817141730",
+"report_count": 14
 },
 {
 "canyon": "Swamp Creek",
@@ -8464,7 +9277,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2026-01-27",
+"report_url": "https://ropewiki.com/Conditions:Swamp_Creek-20260127053540",
+"report_count": 5
 },
 {
 "canyon": "Swift Creek",
@@ -8495,7 +9311,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Swift Creek (Mt. St. Helens)",
@@ -8526,7 +9345,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2026-01-09",
+"report_url": "https://ropewiki.com/Conditions:Swift_Creek_(Mt._St._Helens)-20260109225826",
+"report_count": 1
 },
 {
 "canyon": "Sydney Falls",
@@ -8557,7 +9379,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 1.0,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Tanner Creek",
@@ -8588,7 +9413,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2017-08-28",
+"report_url": "https://ropewiki.com/Conditions:Tanner_Creek-20170828195105",
+"report_count": 3
 },
 {
 "canyon": "Tatoosh",
@@ -8619,7 +9447,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Tebo Creek",
@@ -8650,7 +9481,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Ten Tire Creek",
@@ -8681,7 +9515,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": null,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Tesseract Canyon",
@@ -8712,7 +9549,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.7,
-"thin": false
+"thin": false,
+"report_date": "2026-05-26",
+"report_url": "https://ropewiki.com/Conditions:Tesseract_Canyon-20260526040527",
+"report_count": 19
 },
 {
 "canyon": "The Racetrack",
@@ -8743,7 +9583,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": "2026-07-07",
+"report_url": "https://ropewiki.com/Conditions:The_Racetrack-20260707141943",
+"report_count": 10
 },
 {
 "canyon": "Thimble Creek",
@@ -8774,7 +9617,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": "2024-07-15",
+"report_url": "https://ropewiki.com/Conditions:Thimble_Creek-20240715050827",
+"report_count": 3
 },
 {
 "canyon": "Thornton Creek",
@@ -8805,7 +9651,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.1,
-"thin": false
+"thin": false,
+"report_date": "2025-08-11",
+"report_url": "https://ropewiki.com/Conditions:Thornton_Creek-20250811113642",
+"report_count": 18
 },
 {
 "canyon": "Thorp Creek",
@@ -8836,7 +9685,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.6,
-"thin": false
+"thin": false,
+"report_date": "2025-10-12",
+"report_url": "https://ropewiki.com/Conditions:Thorp_Creek-20251012214826",
+"report_count": 1
 },
 {
 "canyon": "Three Corner Creek",
@@ -8867,7 +9719,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": "2026-06-28",
+"report_url": "https://ropewiki.com/Conditions:Three_Corner_Creek-20260628004055",
+"report_count": 19
 },
 {
 "canyon": "Thunder Creek (North Cascades)",
@@ -8898,7 +9753,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.2,
-"thin": false
+"thin": false,
+"report_date": "2024-09-17",
+"report_url": "https://ropewiki.com/Conditions:Thunder_Creek_(North_Cascades)-20240917003041",
+"report_count": 9
 },
 {
 "canyon": "Tillicum Creek",
@@ -8929,7 +9787,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.9,
-"thin": false
+"thin": false,
+"report_date": "2025-06-30",
+"report_url": "https://ropewiki.com/Conditions:Tillicum_Creek-20250630025429",
+"report_count": 6
 },
 {
 "canyon": "Tranquility Canyon",
@@ -8960,7 +9821,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Trapper Creek",
@@ -8991,7 +9855,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Tule Canyon (South Cascades)",
@@ -9022,7 +9889,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2025-08-27",
+"report_url": "https://ropewiki.com/Conditions:Tule_Canyon_(South_Cascades)-20250827003309",
+"report_count": 7
 },
 {
 "canyon": "Twin Falls",
@@ -9053,7 +9923,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": "2026-07-07",
+"report_url": "https://ropewiki.com/Conditions:Twin_Falls-20260707210940",
+"report_count": 9
 },
 {
 "canyon": "Unicorn Creek",
@@ -9084,7 +9957,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2024-08-06",
+"report_url": "https://ropewiki.com/Conditions:Unicorn_Creek-20240806151747",
+"report_count": 4
 },
 {
 "canyon": "Unnamed Drainage",
@@ -9115,7 +9991,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": "2025-12-14",
+"report_url": "https://ropewiki.com/Conditions:Unnamed_Drainage-20251214052011",
+"report_count": 4
 },
 {
 "canyon": "Upper Dog Creek",
@@ -9146,7 +10025,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.7,
-"thin": false
+"thin": false,
+"report_date": "2024-10-24",
+"report_url": "https://ropewiki.com/Conditions:Upper_Dog_Creek-20241024194921",
+"report_count": 1
 },
 {
 "canyon": "Upper Major Creek",
@@ -9177,7 +10059,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Van Trump Creek",
@@ -9208,7 +10093,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.3,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Vista House Creek",
@@ -9239,7 +10127,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Wahkeena Creek",
@@ -9270,7 +10161,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.6,
-"thin": false
+"thin": false,
+"report_date": "2017-09-22",
+"report_url": "https://ropewiki.com/Conditions:Wahkeena_Creek-20170922192654",
+"report_count": 2
 },
 {
 "canyon": "Wallace River Canyon",
@@ -9301,7 +10195,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2026-07-14",
+"report_url": "https://ropewiki.com/Conditions:Wallace_River_Canyon-20260714011844",
+"report_count": 27
 },
 {
 "canyon": "Wallanding Creek",
@@ -9338,7 +10235,10 @@
 }
 ],
 "adventure": 3.3,
-"thin": false
+"thin": false,
+"report_date": "2024-07-07",
+"report_url": "https://ropewiki.com/Conditions:Wallanding_Creek-20240707193924",
+"report_count": 8
 },
 {
 "canyon": "Warren Creek",
@@ -9369,7 +10269,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.8,
-"thin": false
+"thin": false,
+"report_date": "2023-07-04",
+"report_url": "https://ropewiki.com/Conditions:Warren_Creek-20230704221146",
+"report_count": 7
 },
 {
 "canyon": "Washout Waterslide",
@@ -9400,7 +10303,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.2,
-"thin": false
+"thin": false,
+"report_date": "2026-04-05",
+"report_url": "https://ropewiki.com/Conditions:Washout_Waterslide-20260405075556",
+"report_count": 1
 },
 {
 "canyon": "Wauna Creek",
@@ -9431,7 +10337,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Weeden Canyon",
@@ -9462,7 +10371,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": "2024-08-11",
+"report_url": "https://ropewiki.com/Conditions:Weeden_Canyon-20240811184238",
+"report_count": 1
 },
 {
 "canyon": "Wellman Basin (Lower)",
@@ -9493,7 +10405,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 4.1,
-"thin": false
+"thin": false,
+"report_date": "2026-05-04",
+"report_url": "https://ropewiki.com/Conditions:Wellman_Basin_(Lower)-20260504032739",
+"report_count": 2
 },
 {
 "canyon": "Wells Creek",
@@ -9524,7 +10439,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.8,
-"thin": true
+"thin": true,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "West Quartz Creek Canyon",
@@ -9555,7 +10473,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.9,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Whitehorse Creek (Olympic Peninsula)",
@@ -9592,7 +10513,10 @@
 }
 ],
 "adventure": 3.4,
-"thin": false
+"thin": false,
+"report_date": "2026-07-08",
+"report_url": "https://ropewiki.com/Conditions:Whitehorse_Creek_(Olympic_Peninsula)-20260708034426",
+"report_count": 8
 },
 {
 "canyon": "Wieberg Creek",
@@ -9623,7 +10547,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": "2026-03-08",
+"report_url": "https://ropewiki.com/Conditions:Wieberg_Creek-20260308002905",
+"report_count": 13
 },
 {
 "canyon": "Wolf Creek (Olympic Peninsula)",
@@ -9654,7 +10581,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.5,
-"thin": false
+"thin": false,
+"report_date": null,
+"report_url": null,
+"report_count": 0
 },
 {
 "canyon": "Wonder Creek (Lancaster Falls)",
@@ -9685,7 +10615,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2025-02-23",
+"report_url": "https://ropewiki.com/Conditions:Wonder_Creek_(Lancaster_Falls)-20250223015841",
+"report_count": 2
 },
 {
 "canyon": "Woodward Creek",
@@ -9716,7 +10649,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.5,
-"thin": false
+"thin": false,
+"report_date": "2024-06-20",
+"report_url": "https://ropewiki.com/Conditions:Woodward_Creek-20240620140712",
+"report_count": 10
 },
 {
 "canyon": "Young Creek",
@@ -9747,7 +10683,10 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 3.7,
-"thin": false
+"thin": false,
+"report_date": "2026-06-29",
+"report_url": "https://ropewiki.com/Conditions:Young_Creek-20260629040310",
+"report_count": 18
 },
 {
 "canyon": "Young's Creek Falls",
@@ -9778,6 +10717,9 @@
 "nests": 0,
 "nest_log": [],
 "adventure": 2.4,
-"thin": false
+"thin": false,
+"report_date": "2025-09-02",
+"report_url": "https://ropewiki.com/Conditions:Young's_Creek_Falls-20250902210440",
+"report_count": 2
 }
 ]
