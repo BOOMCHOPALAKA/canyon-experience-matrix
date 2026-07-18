@@ -44,7 +44,7 @@
     margin:0;padding:clamp(16px,3vw,40px);-webkit-font-smoothing:antialiased;min-height:100vh;
     background-image:radial-gradient(120% 80% at 50% -10%,color-mix(in srgb,var(--accent) 7%,transparent),transparent 60%);
     background-attachment:fixed}
-  .wrap{max-width:1280px;margin:0 auto}
+  .wrap{max-width:1400px;margin:0 auto}
   header{margin-bottom:20px}
   .eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;
     color:var(--moss);margin:0 0 6px}
@@ -56,7 +56,7 @@
   .credit a:hover,.license a:hover{border-bottom-color:var(--accent)}
   .asof{font-family:var(--mono);font-size:10.5px;color:var(--ink-soft);opacity:.75;white-space:nowrap}
   .credit a:focus-visible,.license a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
-  .license{max-width:1280px;margin:14px auto 0;font-size:11.5px;line-height:1.6;color:var(--ink-soft);
+  .license{max-width:1400px;margin:14px auto 0;font-size:11.5px;line-height:1.6;color:var(--ink-soft);
     border-top:1px solid var(--line-soft);padding-top:12px}
 
   .keys{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin:20px 0}
@@ -110,7 +110,7 @@
   .chip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
   .tablewrap{overflow-x:auto;background:var(--panel);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow)}
-  table{border-collapse:collapse;width:100%;min-width:1060px;font-size:13px}
+  table{border-collapse:collapse;width:100%;min-width:1120px;font-size:13px}
   thead th{position:sticky;top:0;background:var(--panel);z-index:2;text-align:left;font-family:var(--mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-soft);font-weight:600;padding:11px 9px;border-bottom:2px solid var(--line);cursor:pointer;white-space:nowrap;user-select:none}
   thead th:hover{color:var(--accent)}
   thead th .arw{opacity:.35;font-size:9px;margin-left:2px}
@@ -127,7 +127,7 @@
   a.clink::after{content:"↗";font-size:9px;margin-left:3px;color:var(--ink-soft);opacity:0;transition:opacity .12s;vertical-align:super}
   tbody tr:hover a.clink::after{opacity:.7}
   a.clink:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:2px}
-  .season{color:var(--ink-soft);font-size:11.5px;white-space:nowrap}
+  .season{color:var(--ink-soft);font-size:11.5px;width:11ch;max-width:11ch}
   .report{white-space:nowrap;font-size:11.5px;font-variant-numeric:tabular-nums}
   a.rlink{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 30%,transparent)}
   a.rlink:hover{color:var(--accent);border-bottom-color:var(--accent)}
@@ -136,11 +136,11 @@
   .rcount{color:var(--ink-soft);opacity:.6;font-size:10.5px}
   .stars{font-variant-numeric:tabular-nums;color:var(--moss);font-weight:600;white-space:nowrap;font-size:12.5px}
   .detail{color:var(--ink-soft);font-size:11px}
-  .note{color:var(--ink-soft);font-size:11.5px;max-width:30ch}
+  .note{color:var(--ink-soft);font-size:11.5px;width:22ch;max-width:22ch}
 
   .seg{display:inline-flex;align-items:center;justify-content:center;width:23px;height:23px;border-radius:6px;font-family:var(--mono);font-weight:700;font-size:12px;color:#fff}
   .advpill{display:inline-flex;align-items:center;gap:6px;font-family:var(--mono);font-weight:800;font-size:14px;padding:4px 11px;border-radius:20px;color:#fff;font-variant-numeric:tabular-nums;white-space:nowrap}
-  .diffcell{display:flex;flex-direction:column;gap:1px;min-width:120px}
+  .diffcell{display:flex;flex-direction:column;gap:1px;min-width:88px}
   .diffword{font-size:10.5px;font-weight:700}
   .diffraw{font-family:var(--mono);font-size:10px;color:var(--ink-soft)}
   .waspflag{color:var(--e5);font-weight:700;font-size:11.5px;white-space:nowrap}
@@ -220,7 +220,7 @@
     <p class="sub">Every technical canyon in Washington, in one sortable table. It pulls from <b>RopeWiki</b> and scores each one so you can size up a day at a glance.</p>
     <p class="sub2">RopeWiki describes the approach and exit for every canyon, but it's prose. You read it one canyon at a time, and there's no number to compare. The two things you <i>can</i> sort by don't fill the gap either: the <b>ACA rating</b> covers the canyoneering itself, and the <b>star rating</b> is anyone's guess. One person's 5 might be weighing an easy approach as much as the canyoneering itself, while the next person's is purely about the canyon, and you can't tell which from a number. So this reads the approach and exit beta and scores it the same way for every canyon: a <b>number</b> on each, rolled into one <b>Access</b> score. The ACA rating gets broken into its three real parts (technical, water, and time) instead of just the leading digit. And there's a seasonal <b>wasp</b> score: how much nesting ground you cross on the way in and out, plus any nests people have actually reported.</p>
     <p class="sub3">Click any column header to sort. Hover the ⓘ on a column to see exactly how it's figured. Click a canyon name for its full RopeWiki beta.</p>
-    <p class="credit">All canyon data sourced from <a href="https://ropewiki.com" target="_blank" rel="noopener">RopeWiki</a>, the community canyoneering wiki. <span class="asof" id="asof">Data as of <!--ASOF-->Jul 18, 2026<!--/ASOF--></span></p>
+    <p class="credit">All canyon data sourced from <a href="https://ropewiki.com" target="_blank" rel="noopener">RopeWiki</a>, the community canyoneering wiki. <span class="asof" id="asof">Data as of <!--ASOF-->Jul 17, 2026<!--/ASOF--></span></p>
   </header>
 
   <div class="keys">
