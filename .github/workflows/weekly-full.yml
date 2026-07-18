@@ -1,0 +1,57 @@
+name: Weekly full re-pull
+
+# The full pipeline: re-derive the WA canyon roster, re-crawl every canyon's
+# approach/exit beta and structured fields, refresh trip reports, re-score, embed.
+# This catches new canyons added to RopeWiki and any edited descriptions. It's
+# the expensive run (~314 canyons, a few polite minutes), so it's weekly, not daily.
+
+on:
+  schedule:
+    - cron: "40 13 * * 1"   # 13:40 UTC Mondays (~06:40 PT)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: canyon-data          # shares the lock with the daily job so they never overlap
+  cancel-in-progress: false
+
+jobs:
+  full:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Force a fresh beta pull
+        run: |
+          # pull_beta.py caches; delete the cache + roster so it re-derives the
+          # full WA roster and re-crawls every canyon.
+          rm -f data/wa_beta.json data/roster.json data/wa_beta.partial.json
+
+      - name: Pull beta (full crawl)
+        run: python3 scripts/pull_beta.py
+
+      - name: Pull latest trip-report titles
+        run: python3 scripts/pull_reports.py
+
+      - name: Rebuild + embed
+        run: |
+          python3 scripts/build_data.py
+          python3 scripts/embed_data.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "canyon-matrix-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes -- nothing to commit."
+          else
+            git commit -m "Weekly: full re-pull ($(date -u +%Y-%m-%d))"
+            git push
+          fi

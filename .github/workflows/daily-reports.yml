@@ -1,0 +1,48 @@
+name: Daily trip-report refresh
+
+# Only the trip-report index changes day to day, so this pulls just the
+# Conditions: titles (one cheap batched call), re-derives the "Latest report"
+# column, and pushes if anything changed. The expensive 314-canyon beta crawl
+# runs weekly instead (see weekly-full.yml).
+
+on:
+  schedule:
+    - cron: "20 13 * * *"   # 13:20 UTC daily (~06:20 PT) -- off the top of the hour to avoid GitHub's cron congestion
+  workflow_dispatch:          # allow a manual run from the Actions tab
+
+permissions:
+  contents: write             # needed to commit + push the refreshed data
+
+concurrency:
+  group: canyon-data          # never let a daily and weekly run collide
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull latest trip-report titles
+        run: python3 scripts/pull_reports.py
+
+      - name: Rebuild + embed
+        run: |
+          python3 scripts/build_data.py
+          python3 scripts/embed_data.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "canyon-matrix-bot"
+          git config user.email "actions@github.com"
+          if git diff --quiet -- data/all_condition_titles.json data/canyons.json index.html; then
+            echo "No changes -- nothing to commit."
+          else
+            git add data/all_condition_titles.json data/canyons.json index.html
+            git commit -m "Daily: refresh trip reports ($(date -u +%Y-%m-%d))"
+            git push
+          fi

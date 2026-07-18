@@ -9,5 +9,8 @@ __pycache__/
 data/multiregion_reports.json
 data/multiregion_rosters.json
 data/multiregion_wasp_hits.json
-data/all_condition_titles.json
 data/_backup_119/
+
+# NOTE: data/all_condition_titles.json is intentionally NOT ignored. It used to be
+# a wasp-research cache, but it's now a build input -- build_data.py derives the
+# "Latest report" column from it, and the daily workflow refreshes + commits it.
