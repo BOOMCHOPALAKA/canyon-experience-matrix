@@ -20,7 +20,7 @@ WANT = {"Has_rating", "Has_star_rating", "Has_best_season", "Has_number_of_rappe
         "Has_condition_date", "Has_url", "Requires_permits"}
 
 
-def api(params, retries=3):
+def api(params, retries=6):
     params = {**params, "format": "json"}
     url = API + "?" + urllib.parse.urlencode(params)
     for attempt in range(retries):
@@ -31,13 +31,42 @@ def api(params, retries=3):
         except Exception:
             if attempt == retries - 1:
                 raise
-            time.sleep(1.5 * (attempt + 1))
+            time.sleep(2 ** attempt)  # exponential backoff: 1,2,4,8,16s
+
+
+def _ask_names(query):
+    d = api({"action": "ask", "query": query + "|limit=2000"})
+    r = d.get("query", {}).get("results", {})
+    return set(r.keys()) if isinstance(r, dict) else set()
+
+
+def _region_chain(name):
+    """Authoritative full-depth region list for a canyon, e.g.
+    'North America;Pacific Northwest/United States;Washington;North Cascades;...'."""
+    d = api({"action": "browsebysubject", "subject": name})
+    for item in d.get("query", {}).get("data", []):
+        if item.get("property") == "Has_info_regions":
+            vals = item.get("dataitem", [])
+            return vals[0].get("item", "") if vals else ""
+    return ""
 
 
 def roster():
-    d = api({"action": "ask",
-             "query": "[[Category:Canyons]][[Located in region.Located in region::Washington]]|limit=500"})
-    return list(d.get("query", {}).get("results", {}).keys())
+    # RopeWiki's region tree is deeper than one hop under Washington. The old query
+    # ([[Located in region.Located in region::Washington]]) only caught canyons whose
+    # region sat DIRECTLY under Washington, dropping anything two levels deep
+    # (e.g. Wallace River Canyon: Darrington Ranger District -> North Cascades -> Washington).
+    # That undercounted WA to 119 of ~314. Fix: take the 1-hop OR 2-hop candidate pool,
+    # then keep only canyons whose authoritative region chain actually contains "Washington".
+    cand = (_ask_names("[[Category:Canyons]][[Located in region.Located in region::Washington]]")
+            | _ask_names("[[Category:Canyons]][[Located in region.Located in region.Located in region::Washington]]"))
+    wa = []
+    for nm in sorted(cand):
+        toks = [t.strip() for t in _region_chain(nm).replace("/", ";").split(";")]
+        if "Washington" in toks:
+            wa.append(nm)
+        time.sleep(0.15)
+    return wa
 
 
 def structured(name):
@@ -71,18 +100,40 @@ def main():
     if os.path.exists(p):
         print(f"[cache] {p} already exists -- delete it to re-pull.")
         return
-    names = roster()
-    print(f"{len(names)} WA canyons. Pulling beta (polite, ~0.5s each)...")
-    out = []
+
+    # Cache the roster so a network blip mid-pull doesn't force re-running the
+    # ~314 region-check calls. Delete roster.json to re-derive the WA canyon list.
+    rp = os.path.join(DATA, "roster.json")
+    if os.path.exists(rp):
+        names = json.load(open(rp))
+        print(f"[cache] roster.json -> {len(names)} WA canyons")
+    else:
+        names = roster()
+        json.dump(names, open(rp, "w"))
+        print(f"{len(names)} WA canyons (cached to roster.json)")
+
+    # Resume support: keep partial progress in wa_beta.partial.json so a failure
+    # after N canyons only re-pulls the remainder, not all 314.
+    part = os.path.join(DATA, "wa_beta.partial.json")
+    out = json.load(open(part)) if os.path.exists(part) else []
+    done = {r["canyon"] for r in out}
+    if done:
+        print(f"[resume] {len(done)} already pulled; continuing")
+    print("Pulling beta (polite, ~0.5s each)...")
     for i, n in enumerate(names, 1):
+        if n in done:
+            continue
         st = structured(n)
         time.sleep(0.25)
         ap, ex = beta(n)
         time.sleep(0.25)
         out.append({"canyon": n, "structured": st, "approach": ap, "exit": ex})
         if i % 20 == 0:
+            json.dump(out, open(part, "w"), indent=0)  # checkpoint
             print(f"  {i}/{len(names)}")
     json.dump(out, open(p, "w"), indent=0)
+    if os.path.exists(part):
+        os.remove(part)
     print(f"-> cached {len(out)} canyons to {p}")
 
 

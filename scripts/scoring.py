@@ -348,7 +348,7 @@ def wasp_exposure(appr, exit_, nests_found=0):
     were fortunate" -- same nest, same risk, different luck. The nest is the
     signal; the sting is downstream noise.
 
-    Silence never lowers the score: 112 of 119 WA canyons have no wasp report at
+    Silence never lowers the score: most WA canyons have no wasp report at
     all, and that is nobody writing it down, not evidence of absence.
 
     NOT folded into the Adventure Score.
