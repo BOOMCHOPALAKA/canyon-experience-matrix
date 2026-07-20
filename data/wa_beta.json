@@ -1316,7 +1316,7 @@
 "Has_url": "https://ropewiki.com/Dingford_Creek",
 "Requires_permits": "No"
 },
-"approach": "The final 6mi of road to the trailhead is rough. High-clearance recommended to get through several washouts. Expect the drive to take at least 45min from I-90. Hike the Dingford Creek Trail for 1.1 mile (30-40min), 70 yrd just after the Alpine Lakes Wilderness sign (10 ft up on a big tree, but easy to miss). You will see pink flagging on trees downhill towards the creek. This is where you (approximately 47.51963, -121.44401) start off trail following the pink flagging downhill and slightly to your left. You should hit the creek just above the first jump, where a big flat slab is convenient for changing.",
+"approach": "The final 6mi of road to the trailhead is rough. High-clearance recommended to get through several washouts. Expect the drive to take at least 45min from I-90. Hike the Dingford Creek Trail for 1.1 mile (30-40min), 70 yrd just after the Alpine Lakes Wilderness sign (10 ft up on a big tree, but easy to miss). You will see pink flagging on trees downhill towards the creek. This is where you (approximately 47.51963, -121.44401) start off trail following the pink flagging downhill and slightly to your left. You should hit the creek just above the first jump, where a big flat slab is convenient for changing. If you are having trouble Google mapping to the trailhead, try searching for \"Middle Fork Campground, NF-5600, North Bend, WA 98045\" then drive to that location, then navigate with a topo from the campground to the trailhead.",
 "exit": "After the final waterfall rappel, walk across the slabs on DCL to exit the drainage at the bridge. It is a 2 min walk up the road to the right to the parking area."
 },
 {
@@ -1507,18 +1507,18 @@
 "canyon": "Falls Creek",
 "structured": {
 "Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
-"Has_best_season": "Aug-Sept",
-"Has_condition_date": "1/2025/11/15",
+"Has_best_season": "July-Sept",
+"Has_condition_date": "1/2026/7/19",
 "Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "160",
 "Has_number_of_rappels": "3",
 "Has_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
-"Has_star_rating": "3",
+"Has_star_rating": "4",
 "Has_url": "https://ropewiki.com/Falls_Creek",
 "Requires_permits": "No"
 },
-"approach": "",
-"exit": ""
+"approach": "Follow the trail to a junction at 45.91213, -121.92080. Turn left here and ascend to the upper Falls Creek trail. This climbs gradually to the plateau above. Circle around through nice forest and turn right to find a campsite with a view. A short scrambly trail leads to the top of R1. * Alternatively, hike to the viewpoint above the falls and take a steep scramble trail climber's left of the falls. * The checkpoint is the viewpoint at the bottom of the falls.",
+"exit": "From the bottom of R3, scramble up to the falls viewpoint and follow the trail back to your car."
 },
 {
 "canyon": "Falls Creek (Marymere Falls)",
@@ -1850,7 +1850,7 @@
 "structured": {
 "Has_ACA_rating": "3C2 III <i>R</i> (v5a4 II)",
 "Has_best_season": "July-Sep",
-"Has_condition_date": "1/2026/7/14",
+"Has_condition_date": "1/2026/7/18",
 "Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "80",
 "Has_number_of_rappels": "14",
@@ -2798,7 +2798,7 @@
 "Has_rating": "3C II  (v3a3 II)",
 "Has_star_rating": "4",
 "Has_url": "https://ropewiki.com/Mineral_Creek_(Alpine_Lakes)",
-"Requires_permits": "No"
+"Requires_permits": "Closed"
 },
 "approach": "'''Getting to the Trailhead''' Take I-90 west to exit 80 and follow Bullfrog Road through the small town of Roslyn (alternatively, take exit 84 to Cle Elum if coming from the east). Follow SR-903 (which soon becomes Salmon La Sac road) north out of Roslyn for a little over 14 miles. Turn left onto Forest Road 46 and cross the Salmon La Sac River. Drive 9.4 miles over Cooper Pass to the Mineral Creek Trailhead. No recreation passes are required at the trailhead. There are also no toilets available. '''Getting to the Canyon''' Follow the trail from the parking area. Cross the Kachess River close to the point you first meet it, using an upstream log secured with metal cables. From the log the trail continues up the hillside about 1/3rd of a mile until you reach the T junction between the Mineral Creek Trail and the Little Kachess Trail. Turn right and hike for 1.2 miles until the trail intersects with Mineral Creek.",
 "exit": "Follow the creek for a short distance until you reach a large log-jam. This can be bypassed on DCR. Keep an eye out for blue flagging-tape left by the Department of Fish & Wildlife. About 100 yards beyond the log-jam, exit up the bank DCR wherever is easiest. In 2021 there was some blue tape marking the exit point. Parallel the creek downstream (along what used to be the NF-4600 road, but now overgrown) until you reach the log you used earlier to cross the river. Walk back to the cars. Beer, song, and general merriment should ensue."
@@ -4615,7 +4615,7 @@
 "structured": {
 "Has_ACA_rating": "3C II  (v3a3 III)",
 "Has_best_season": "Jul-Oct",
-"Has_condition_date": "1/2025/10/12",
+"Has_condition_date": "1/2026/7/19",
 "Has_info_major_region": "[[Kittitas County]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "60",
 "Has_number_of_rappels": "3",
@@ -4730,7 +4730,7 @@
 "structured": {
 "Has_ACA_rating": "4C3 II  (v4a5 II)",
 "Has_best_season": "Aug-Sept",
-"Has_condition_date": "1/2026/7/7",
+"Has_condition_date": "1/2026/7/17",
 "Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "140",
 "Has_number_of_rappels": "4",
