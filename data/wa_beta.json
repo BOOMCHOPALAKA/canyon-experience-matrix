@@ -265,19 +265,19 @@
 {
 "canyon": "Big Creek (South Cascades)",
 "structured": {
-"Has_ACA_rating": "3C2 III  (v4a4 III)",
+"Has_ACA_rating": "3C2 III  (v4a4 IV)",
 "Has_best_season": "Aug-Sept",
-"Has_condition_date": "1/2026/7/11",
+"Has_condition_date": "1/2026/7/24",
 "Has_info_major_region": "[[Lewis River (Washington)]] ([[:Washington|Washington]])",
-"Has_longest_rappel": "130",
-"Has_number_of_rappels": "8",
-"Has_rating": "3C2 III  (v4a4 III)",
+"Has_longest_rappel": "115",
+"Has_number_of_rappels": "10",
+"Has_rating": "3C2 III  (v4a4 IV)",
 "Has_star_rating": "5",
 "Has_url": "https://ropewiki.com/Big_Creek_(South_Cascades)",
 "Requires_permits": "No"
 },
 "approach": "Before entering the canyon, plan your exit. There are (at least) two options: * Exit via the Speed Trail. You'll find the trailhead 0.5mi to the north on FR 90. Shuttle is optional, but will save you a short walk along the road on finishing. * Exit south via the Lewis River Trail. You'll need a shuttle for this one. Backtrack on FR 90 for 3.8mi and turn right on FR 9039. Drive down 0.6mi to a large parking area just before the bridge. Park at the former Big Creek trailhead. This trailhead was officially closed by the Forest Service after a tree fell and damaged the viewing platform. As of 2025, the old parking lot has been (unofficially?) reopened again. Alternatively, you can park just off the shoulder of FR-90. Look for a well-maintained trail that leads from the old parking area right to the top of Big Creek Falls (1-2 minute walk).",
-"exit": "===Normal Exit (shuttle optional) === From the confluence, head upstream about 0.5mi to pick up the Speed Trail. There are two options, either option takes 1.5 - 2 hours: * Ford directly across the Lewis River (easy in late summer) and bushwhack up the bank opposite to pick up the Lewis River Trail. Follow it right/north about 0.5mi. The trail undulates up and down a bit, but it's faster than hiking upriver in the creek. Keep going until you reach a log with the words 'Speed Trail' carved into it. Ford the Lewis River again (heading back east) to an overgrown meadowed bar. The Speed Trail is not obvious here, but cross the bar and head downstream 100ft to find it set back in the trees on the east side. The trail starts on the north side of a small creek (approx. UTM 10 583697mE 5106153mN). GPS is handy for finding the correct location. * Head directly up the Lewis River, bushwhacking and crisscrossing the river as needed for 0.5mi. Locate the Speed Trail as above. Follow the Speed Trail upwards to FR 90 (~0.8mi, 700ft elevation gain). It's steep in sections and there is one area with significant blow-down. A flagged user trail bypasses the vegetative destruction. From the confluence, it takes about 1.5-2 hours to get back to FR 90. If you didn't leave a shuttle car at the Speed trailhead, walk south on FR 90 for 0.5mi to the Big Creek trailhead. ===Longer Exit - River Trail with Shuttle=== This exit takes 2.5 - 3.5 hours. Don't like steep hills with a heavy pack? If you don't mind some extra miles, you can hike south on the Lewis River Trail. Ford across the Lewis River, go downstream about 100ft, then climb up onto the bank to find the trail. Follow it south and west for 4.5mi (+200ft gain cumulative) to the bridge on FR 9093. Takes maybe 1.5-2hrs. On the south side of the bridge is a large parking area, where, hopefully, you stashed your shuttle car earlier."
+"exit": "===Normal Exit (shuttle optional) === From the confluence, head upstream about 0.5mi to pick up the Speed Trail. There are two options, either option takes 1.5 - 2 hours: * Ford the Lewis River (easy in late summer) and bushwhack up the bank opposite to pick up the Lewis River Trail. Follow it right/north about 0.5mi. The trail undulates up and down a bit, but it's faster than river walking. Keep going until you reach a log with the words 'Speed Trail' carved into it. Ford the Lewis River again (heading back east) to an overgrown meadowed bar. The Speed Trail is not obvious here, but cross the bar and head downstream 100ft to find it set back in the trees on the east side. The trail starts on the north side of a small creek (approx. UTM 10 583697mE 5106153mN). GPS is handy for finding the correct location. * Head directly up the Lewis River, bushwhacking and crisscrossing the river as needed for 0.5mi. Locate the Speed Trail as above. Follow the Speed Trail upwards to FR 90 (~0.8mi, 700ft elevation gain). It's steep in sections and there is one area with significant blow-down. A flagged user trail bypasses the vegetative destruction. From the confluence, it takes about 1.5-2 hours to get back to FR 90. If you didn't leave a shuttle car at the Speed trailhead, walk south on FR 90 for 0.5mi (flat) to the Big Creek trailhead."
 },
 {
 "canyon": "Big Creek (Upper, South Cascades)",
@@ -522,7 +522,7 @@
 "structured": {
 "Has_ACA_rating": "3C2 II  (<i>v3a5&nbsp;II</i>)",
 "Has_best_season": "Mar-Oct",
-"Has_condition_date": "1/2026/7/12",
+"Has_condition_date": "1/2026/7/23",
 "Has_info_major_region": "[[Oregon Side]] ([[:Oregon|Oregon]]/[[:Washington|Washington]])",
 "Has_longest_rappel": "100",
 "Has_number_of_rappels": "4",
@@ -1125,7 +1125,7 @@
 "structured": {
 "Has_ACA_rating": "<i>4C1&nbsp;III</i>  (v4a4 V)",
 "Has_best_season": "Aug-Oct",
-"Has_condition_date": "1/2025/8/24",
+"Has_condition_date": "1/2026/7/18",
 "Has_info_major_region": "[[Mt. Baker Ranger District]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "130",
 "Has_number_of_rappels": "8",
@@ -1159,7 +1159,7 @@
 "structured": {
 "Has_ACA_rating": "3C2 II  (v4a4 III)",
 "Has_best_season": "Jul-Sept",
-"Has_condition_date": "1/2026/7/10",
+"Has_condition_date": "1/2026/7/22",
 "Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "120",
 "Has_number_of_rappels": "5",
@@ -1307,7 +1307,7 @@
 "structured": {
 "Has_ACA_rating": "3C III  (v3a4 II)",
 "Has_best_season": "Jul-Sep",
-"Has_condition_date": "1/2026/7/12",
+"Has_condition_date": "1/2026/7/25",
 "Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "100",
 "Has_number_of_rappels": "8",
@@ -1408,7 +1408,7 @@
 "structured": {
 "Has_ACA_rating": "3C III R (<i>v5a5&nbsp;III</i>)",
 "Has_best_season": "Jul-Sept",
-"Has_condition_date": "1/2026/7/15",
+"Has_condition_date": "1/2026/7/26",
 "Has_info_major_region": "[[Oregon Side]] ([[:Oregon|Oregon]]/[[:Washington|Washington]])",
 "Has_longest_rappel": "115",
 "Has_number_of_rappels": "3",
@@ -1517,7 +1517,7 @@
 "Has_url": "https://ropewiki.com/Falls_Creek",
 "Requires_permits": "No"
 },
-"approach": "Follow the trail to a junction at 45.91213, -121.92080. Turn left here and ascend to the upper Falls Creek trail. This climbs gradually to the plateau above. Circle around through nice forest and turn right to find a campsite with a view. A short scrambly trail leads to the top of R1. * Alternatively, hike to the viewpoint above the falls and take a steep scramble trail climber's left of the falls. * The checkpoint is the viewpoint at the bottom of the falls.",
+"approach": "Follow the trail to a junction at 45.91213, -121.92080. Turn left here and ascend to the upper Falls Creek trail. This climbs gradually to the plateau above. Circle around through nice forest and turn right to find a campsite with a view. A short scrambly trail leads to the top of R1. * Alternatively, hike to the viewpoint above the falls and take a steep scramble trail climber's left of the falls. * The checkpoint is the viewpoint at the bottom of the falls. It's ~0.4mi past the aforementioned junction.",
 "exit": "From the bottom of R3, scramble up to the falls viewpoint and follow the trail back to your car."
 },
 {
@@ -1671,7 +1671,7 @@
 "structured": {
 "Has_ACA_rating": "3C1 II  (v4a3 <i>II</i>)",
 "Has_best_season": "Jun-Jul-Aug",
-"Has_condition_date": "1/2026/6/30",
+"Has_condition_date": "1/2026/7/26",
 "Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "110",
 "Has_number_of_rappels": "3",
@@ -1850,7 +1850,7 @@
 "structured": {
 "Has_ACA_rating": "3C2 III <i>R</i> (v5a4 II)",
 "Has_best_season": "July-Sep",
-"Has_condition_date": "1/2026/7/18",
+"Has_condition_date": "1/2026/7/26",
 "Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "80",
 "Has_number_of_rappels": "14",
@@ -1860,7 +1860,7 @@
 "Requires_permits": "No"
 },
 "approach": "From the parking area, head uphill into the forest and skirt the edge of the creek for several hundred feet along an obvious use trail. At about 2100' elevation, continue following the use trail and drop into the creek at S1 (46.58514, -121.65250).",
-"exit": "After exiting the lower technical section, keep going downstream. Below Feature 25, the creek opens up again. Look for a cairn atop a log DCL which marks an easy exit on a game trail up out of the drainage. This route out is a better long-term solution per combating erosion. The route out was well-marked in 2023. Once out of the drainage, contour left/west to pick up the obvious trail. Follow it downhill to a minor saddle at approx. 46.59072, -121.66043. From here, traverse west back over to the road through open forest. This connects with the approach trail or can short-cut to a shuttle car if you left one."
+"exit": "After exiting the lower technical section, keep going downstream. Below Feature 25, the creek opens up again. Orange flagging marks a reasonable exit route which eventually connects to the well defined trail above. This route out is a better long-term solution for combating erosion than the root ladder. The route out was well-marked in 2023. Once out of the drainage, contour left/west to pick up the obvious trail. Follow it downhill to a minor saddle at approx. 46.59072, -121.66043. From here, traverse west back over to the road through open forest. This connects with the approach trail or can short-cut to a shuttle car if you left one."
 },
 {
 "canyon": "Hall Creek",
@@ -2556,7 +2556,7 @@
 "structured": {
 "Has_ACA_rating": "3C1 II  (v3a3 IV)",
 "Has_best_season": "Jul-Aug-Sep",
-"Has_condition_date": "1/2026/7/6",
+"Has_condition_date": "1/2026/7/26",
 "Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "40",
 "Has_number_of_rappels": "7",
@@ -3179,11 +3179,27 @@
 "exit": "Walk paved trail back to your cars. You could also creek walk back to road if your wanting some more creek walking."
 },
 {
+"canyon": "Ohanapecosh River",
+"structured": {
+"Has_ACA_rating": "2C3 I  (v1a4 II)",
+"Has_best_season": "Jul-Oct",
+"Has_info_major_region": "[[Mount Rainier National Park]] ([[:Washington|Washington]])",
+"Has_longest_rappel": "0",
+"Has_number_of_rappels": "0",
+"Has_rating": "2C3 I  (v1a4 II)",
+"Has_star_rating": "0",
+"Has_url": "https://ropewiki.com/Ohanapecosh_River",
+"Requires_permits": "No"
+},
+"approach": "",
+"exit": ""
+},
+{
 "canyon": "Olallie Creek",
 "structured": {
 "Has_ACA_rating": "3C2 III  (v3a3 IV)",
 "Has_best_season": "July-Sept",
-"Has_condition_date": "1/2026/5/27",
+"Has_condition_date": "1/2026/7/13",
 "Has_info_major_region": "[[Mount Rainier National Park]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "200",
 "Has_number_of_rappels": "10",
@@ -3697,7 +3713,7 @@
 "Has_longest_rappel": "150",
 "Has_number_of_rappels": "3",
 "Has_rating": "3C III  (<i>v3a4&nbsp;III</i>)",
-"Has_star_rating": "1",
+"Has_star_rating": "2",
 "Has_url": "https://ropewiki.com/Rock_Creek_(Indie,_South_Cascades)",
 "Requires_permits": "No"
 },
@@ -3709,7 +3725,7 @@
 "structured": {
 "Has_ACA_rating": "3C II  (v3a3 II)",
 "Has_best_season": "Jul-Sept",
-"Has_condition_date": "1/2026/7/1",
+"Has_condition_date": "1/2026/7/25",
 "Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "60",
 "Has_number_of_rappels": "2",
@@ -4598,7 +4614,7 @@
 "structured": {
 "Has_ACA_rating": "3C III  (v4a4 IV)",
 "Has_best_season": "july-sept",
-"Has_condition_date": "1/2025/7/31",
+"Has_condition_date": "1/2026/7/19",
 "Has_info_major_region": "[[Mt. Baker Ranger District]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "170",
 "Has_number_of_rappels": "26",
@@ -4632,7 +4648,7 @@
 "structured": {
 "Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
 "Has_best_season": "mar-Sept",
-"Has_condition_date": "1/2026/6/27",
+"Has_condition_date": "1/2026/7/27",
 "Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "100",
 "Has_number_of_rappels": "3",
@@ -4642,14 +4658,14 @@
 "Requires_permits": "No"
 },
 "approach": "The standard approach is to drop a car at the bottom and shuttle up. The roads are rocky, but 2WD friendly if driven carefully. Upon reaching the parking area at the end of the road, hike north down the ridge directly to R1. The route passes through an older clear cut area. * If you don't have a shuttle, there's an alternate bushwhack approach.",
-"exit": "A short distance downstream from R3, you'll reach a confluence with another tributary entering from DCL. Continue downstream for maybe 0.25mi. Watch DCL for a user trail that leads directly up to the parking area. * Alternate exit: at the confluence, exit the creek, and bushwhack directly up the hill to the north. There's a bit of a user trail that winds through an old clearcut to meet the road. Walk back down the road to your. (You could also park up here to save yourself a short road walk.)"
+"exit": "A short distance downstream from R3, you'll reach a confluence with another tributary entering from DCL. At the confluence, exit the creek, and bushwhack directly up the hill to the north. There's a bit of a user trail that winds through an old clearcut to meet the road. * Alternatively, continue downstream for maybe 0.25mi. Watch DCL for a user trail that leads directly up to the road."
 },
 {
 "canyon": "Thunder Creek (North Cascades)",
 "structured": {
 "Has_ACA_rating": "3C2 III  (v3a4 II)",
 "Has_best_season": "aug-sep",
-"Has_condition_date": "1/2024/9/16",
+"Has_condition_date": "1/2026/7/20",
 "Has_info_major_region": "[[Mt. Baker Ranger District]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "40",
 "Has_number_of_rappels": "3",
@@ -4747,7 +4763,7 @@
 "structured": {
 "Has_ACA_rating": "3C III  (v3a3 III)",
 "Has_best_season": "Jun-Sept",
-"Has_condition_date": "1/2024/8/4",
+"Has_condition_date": "1/2026/7/26",
 "Has_info_major_region": "[[Mount Rainier National Park]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "150",
 "Has_number_of_rappels": "7",
@@ -4757,7 +4773,7 @@
 "Requires_permits": "Yes"
 },
 "approach": "The approach hike begins at the Snow Lake trailhead. Follow the trail to approximately 0.75mi to cross an obvious creek just past Bench Lake. Follow this downstream about 0.15mi where the official Unicorn Creek enters DCR. (This shortcut route skips the climb up over the ridge to Snow Lake and skips a 20ft nuisance rappel.) Continue 0.1mi downstream to R1. * If you only have one car, park at the lower trailhead and hike the Wonderland Trail upwards towards Reflection Lakes and backtrack 0.25mi to the Snow Lakes trailhead along the road. Walking the road is slightly longer and there's not much of a shoulder.",
-"exit": "From the bridge crossing Unicorn Creek, follow the Wonderland Trail ~0.5mi back to the Stevens Canyon Road."
+"exit": "From the bridge crossing Unicorn Creek, follow the Wonderland Trail ~0.5mi west back to the Stevens Canyon Road if you are not proceeding to Martha Falls."
 },
 {
 "canyon": "Unnamed Drainage",
@@ -4861,7 +4877,7 @@
 "structured": {
 "Has_ACA_rating": "<i>4C&nbsp;IV&nbsp;R</i> (v5a3 III)",
 "Has_best_season": "Jul-Oct",
-"Has_condition_date": "1/2026/7/13",
+"Has_condition_date": "1/2026/7/21",
 "Has_info_major_region": "[[Darrington Ranger District]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "170",
 "Has_number_of_rappels": "12",
