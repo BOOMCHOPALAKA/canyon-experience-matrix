@@ -267,7 +267,7 @@
 "structured": {
 "Has_ACA_rating": "3C2 III  (v4a4 IV)",
 "Has_best_season": "Aug-Sept",
-"Has_condition_date": "1/2026/7/24",
+"Has_condition_date": "1/2026/7/28",
 "Has_info_major_region": "[[Lewis River (Washington)]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "115",
 "Has_number_of_rappels": "10",
@@ -1159,7 +1159,7 @@
 "structured": {
 "Has_ACA_rating": "3C2 II  (v4a4 III)",
 "Has_best_season": "Jul-Sept",
-"Has_condition_date": "1/2026/7/22",
+"Has_condition_date": "1/2026/7/27",
 "Has_info_major_region": "[[South Cascades]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "120",
 "Has_number_of_rappels": "5",
@@ -1391,7 +1391,7 @@
 "structured": {
 "Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
 "Has_best_season": "Apr-Aug, BEST in May-June",
-"Has_condition_date": "1/2026/6/27",
+"Has_condition_date": "1/2026/7/6",
 "Has_info_major_region": "[[Washington Side]] ([[:Oregon|Oregon]]/[[:Washington|Washington]])",
 "Has_longest_rappel": "50",
 "Has_number_of_rappels": "6",
@@ -1408,7 +1408,7 @@
 "structured": {
 "Has_ACA_rating": "3C III R (<i>v5a5&nbsp;III</i>)",
 "Has_best_season": "Jul-Sept",
-"Has_condition_date": "1/2026/7/26",
+"Has_condition_date": "1/2026/7/27",
 "Has_info_major_region": "[[Oregon Side]] ([[:Oregon|Oregon]]/[[:Washington|Washington]])",
 "Has_longest_rappel": "115",
 "Has_number_of_rappels": "3",
@@ -1934,7 +1934,7 @@
 "structured": {
 "Has_ACA_rating": "3C II  (v3a3 III)",
 "Has_best_season": "Summer to Fall",
-"Has_condition_date": "1/2023/7/16",
+"Has_condition_date": "1/2026/8/1",
 "Has_info_major_region": "[[Darrington Ranger District]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "60",
 "Has_number_of_rappels": "9",
@@ -2378,7 +2378,7 @@
 "structured": {
 "Has_ACA_rating": "3C III  (v2a3 III)",
 "Has_best_season": "Summer-Fall",
-"Has_condition_date": "1/2025/7/20",
+"Has_condition_date": "1/2026/7/18",
 "Has_info_major_region": "[[Olympic Peninsula]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "30",
 "Has_number_of_rappels": "4",
@@ -3185,9 +3185,9 @@
 "Has_best_season": "Jul-Oct",
 "Has_info_major_region": "[[Mount Rainier National Park]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "0",
-"Has_number_of_rappels": "0",
+"Has_number_of_rappels": "3",
 "Has_rating": "2C3 I  (v1a4 II)",
-"Has_star_rating": "0",
+"Has_star_rating": "4",
 "Has_url": "https://ropewiki.com/Ohanapecosh_River",
 "Requires_permits": "No"
 },
@@ -3199,7 +3199,7 @@
 "structured": {
 "Has_ACA_rating": "3C2 III  (v3a3 IV)",
 "Has_best_season": "July-Sept",
-"Has_condition_date": "1/2026/7/13",
+"Has_condition_date": "1/2026/7/25",
 "Has_info_major_region": "[[Mount Rainier National Park]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "200",
 "Has_number_of_rappels": "10",
@@ -3376,7 +3376,7 @@
 "structured": {
 "Has_ACA_rating": "3C II  (<i>v3a4&nbsp;II</i>)",
 "Has_best_season": "Jul-Sept",
-"Has_condition_date": "1/2026/7/11",
+"Has_condition_date": "1/2026/7/31",
 "Has_info_major_region": "[[Lewis River (Washington)]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "60",
 "Has_number_of_rappels": "5",
@@ -3843,7 +3843,7 @@
 "structured": {
 "Has_ACA_rating": "4C3 II R (v3a4 II)",
 "Has_best_season": "Sept-Oct",
-"Has_condition_date": "1/2025/9/14",
+"Has_condition_date": "1/2026/8/2",
 "Has_info_major_region": "[[Mt. Baker Ranger District]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "60",
 "Has_number_of_rappels": "4",
@@ -3986,7 +3986,7 @@
 "structured": {
 "Has_ACA_rating": "3C I  (v3a4 III)",
 "Has_best_season": "Jul-Oct",
-"Has_condition_date": "1/2025/10/5",
+"Has_condition_date": "1/2026/7/25",
 "Has_info_major_region": "[[Darrington Ranger District]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "40",
 "Has_number_of_rappels": "2",
@@ -4137,7 +4137,7 @@
 "structured": {
 "Has_ACA_rating": "3C III  (v3a4 III)",
 "Has_best_season": "July - Sep",
-"Has_condition_date": "1/2025/8/11",
+"Has_condition_date": "1/2026/7/8",
 "Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "100",
 "Has_number_of_rappels": "4",
@@ -4363,7 +4363,7 @@
 "structured": {
 "Has_ACA_rating": "3C III  (v4a3 VI)",
 "Has_best_season": "Apr-Jun",
-"Has_condition_date": "1/2026/5/22",
+"Has_condition_date": "1/2026/8/2",
 "Has_info_major_region": "[[Darrington Ranger District]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "200",
 "Has_number_of_rappels": "15",
@@ -4614,7 +4614,7 @@
 "structured": {
 "Has_ACA_rating": "3C III  (v4a4 IV)",
 "Has_best_season": "july-sept",
-"Has_condition_date": "1/2026/7/19",
+"Has_condition_date": "1/2026/7/24",
 "Has_info_major_region": "[[Mt. Baker Ranger District]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "170",
 "Has_number_of_rappels": "26",
@@ -4746,7 +4746,7 @@
 "structured": {
 "Has_ACA_rating": "4C3 II  (v4a5 II)",
 "Has_best_season": "Aug-Sept",
-"Has_condition_date": "1/2026/7/17",
+"Has_condition_date": "1/2026/7/31",
 "Has_info_major_region": "[[Alpine Lakes]] ([[:Washington|Washington]])",
 "Has_longest_rappel": "140",
 "Has_number_of_rappels": "4",
@@ -4887,7 +4887,7 @@
 "Requires_permits": "No"
 },
 "approach": "Hike up the trail to Upper Wallace Falls. Once you've reached the upper viewpoint, follow blue blaze markers nailed to the trees for a short distance to a gravel road. Go right on the gravel road for 500 feet to the bridge and the drop in. Involves a 1600 foot gain and takes about 1.5 hours.",
-"exit": "Since the hiking trail parallels the creek, there are several exits that can be taken to shorten the length of the descent. These are described in the Descent section. After R14 continue creek-walking downstream 600ft. A smaller river joins on the right (47.87309, -121.65862). Go just past this river until you find a small use trail on the right. Follow this for a short ways until you meet up from the main trail. From here its roughly 30 minutes back to the car."
+"exit": "Since the hiking trail parallels the creek, there are several exits that can be taken to shorten the length of the descent. These are described in the Descent section. After R14 continue creek-walking downstream 600ft. A smaller river joins on the right (47.87309, -121.65862). At the downstream corner of the two rivers, de-suit/half-suit and look for a small use trail which leads uphill to meet the main trail. From here its roughly 30 minutes back to the car."
 },
 {
 "canyon": "Wallanding Creek",
